@@ -1,8 +1,7 @@
 ---
+title: Marie Laveau Superstar
 contentType: prose
 ---
-
-Marie Laveau Superstar
 
 (podle Roberta Tallanta a Roberta Altmana)
 
@@ -15,7 +14,7 @@ Li appé vini, li Grand Zombi
 Li appé vini, pol fé mouri!  
 Oh, ouai, yé Mamzelle Marie!
 
-I.
+### I.
 
   
 
@@ -129,7 +128,7 @@ A tak všechny tři seděly kolem stolu, mlčky upíjely a každá přemýšle
 
 „Nevím,“ odpověděla Marie Laveau. „Nevím, co bude.“
 
-II.
+### II.
 
   
 
@@ -321,7 +320,7 @@ Dívka se podívala do očí nejdřív lidské lebce na polici a potom i Marii
 
 Mezi Yankeei se rychle šířily pověsti o staré černošce, která dokáže ve svojí chatrči za pár drobných sehrát děsivé představení se závanem tajemných afrických kultů, takže navzdory protestům Marie Philome se ještě před koncem války dokázala Marie Laveau vrátit k řemeslu.
 
-III.
+### III.
 
   
 

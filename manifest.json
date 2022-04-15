@@ -1,0 +1,212 @@
+{
+  "author": "Štěpán Kučera",
+  "contenttype": "prose",
+  "identifier": "kucera-jidas-byl-ufon-3b233d7",
+  "isbn": "978-80-7227-377-5",
+  "languagecode": "cs",
+  "modified": "2021-10-06T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "subtitle": "... a jiné příběhy",
+  "title": "Jidáš byl ufon",
+  "yearpublished": "2016",
+  "revision": "3b233d7",
+  "generatedAt": {
+    "date": "Fri Apr 15 2022 21:46:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650059195054
+  },
+  "documents": [
+    {
+      "title": "Jidáš byl ufon",
+      "file": "jidas_byl_ufon_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "jidas_byl_ufon_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jidáš byl ufon • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_005.html",
+      "words": 8924,
+      "chars": 55882,
+      "ideas": 354,
+      "role": "chapter",
+      "order": 1,
+      "prev": "jidas_byl_ufon_002.html",
+      "next": "jidas_byl_ufon_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jidáš byl ufon",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kuklův klan • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_006.html",
+      "words": 12113,
+      "chars": 73747,
+      "ideas": 472,
+      "role": "chapter",
+      "order": 2,
+      "prev": "jidas_byl_ufon_005.html",
+      "next": "jidas_byl_ufon_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kuklův klan",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V království Urubů • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_007.html",
+      "words": 7742,
+      "chars": 47984,
+      "ideas": 263,
+      "role": "chapter",
+      "order": 3,
+      "prev": "jidas_byl_ufon_006.html",
+      "next": "jidas_byl_ufon_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V království Urubů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marie Laveau Superstar • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_008.html",
+      "words": 6726,
+      "chars": 41349,
+      "ideas": 229,
+      "role": "chapter",
+      "order": 4,
+      "prev": "jidas_byl_ufon_007.html",
+      "next": "jidas_byl_ufon_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marie Laveau Superstar",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vězeň damašský • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_009.html",
+      "words": 6755,
+      "chars": 40587,
+      "ideas": 254,
+      "role": "chapter",
+      "order": 5,
+      "prev": "jidas_byl_ufon_008.html",
+      "next": "jidas_byl_ufon_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vězeň damašský",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ďáblův doktor a mrtvý wallaby • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_010.html",
+      "words": 10257,
+      "chars": 61987,
+      "ideas": 379,
+      "role": "chapter",
+      "order": 6,
+      "prev": "jidas_byl_ufon_009.html",
+      "next": "jidas_byl_ufon_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ďáblův doktor a mrtvý wallaby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka autora • Jidáš byl ufon",
+      "file": "jidas_byl_ufon_011.html",
+      "words": 208,
+      "chars": 1445,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 7,
+      "prev": "jidas_byl_ufon_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka autora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Jidáš byl ufon",
+      "file": "colophon.html",
+      "words": 166,
+      "chars": 1036,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "jidas_byl_ufon_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 52897,
+      "chars": 324047,
+      "ideas": 1983
+    },
+    "chapters": {
+      "words": 52725,
+      "chars": 322981,
+      "ideas": 1955
+    }
+  }
+}
