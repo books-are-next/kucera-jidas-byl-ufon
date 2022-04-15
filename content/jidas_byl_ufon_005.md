@@ -5,8 +5,8 @@ contentType: prose
 
 _Záhady nás zajímají všechny. Aspoň doufám._
 
-_— Dan Brown v pořadu BBC,  
-7\. dubna 2006_
+> — Dan Brown v pořadu BBC,  
+> 7\. dubna 2006
 
 ### I.
 
