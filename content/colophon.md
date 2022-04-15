@@ -19,7 +19,7 @@ Znění tohoto textu vychází z díla [Jidáš byl ufon](https://search.mlp.cz
 
 Podle předlohy z fondu Moravské zemské knihovny v Brně.
 
-§
+**§**
 
 Text díla (Štěpán Kučera: Jidáš byl ufon ... a jiné příběhy), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
 
@@ -36,10 +36,12 @@ Verze 1.0 z 8. 10. 2021.
 
 ***
 
-Štěpán Kučera  
-Jidáš byl ufon
+**Štěpán Kučera  
+Jidáš byl ufon**
 
 … a jiné příběhy
+
+  
 
 Ilustrace na obálce Yngvarr Tokar/Shutterstock.com
 
@@ -47,17 +49,23 @@ Ilustrace na obálce Yngvarr Tokar/Shutterstock.com
 
 Redakce Jaroslava Bednářová
 
+  
+
 Vydala Městská knihovna v Praze
 
   
 
 Mariánské nám. 1, 115 72 Praha 1
 
+  
+
 V MKP 1. elektronické vydání
 
   
 
 Verze 1.0 z 8. 10. 2021
+
+  
 
 ISBN 978-80-274-1884-8 (epub)
 
