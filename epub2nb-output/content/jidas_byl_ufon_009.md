@@ -5,7 +5,7 @@ contentType: prose
 
 (poslední výstřel Kary ben Nemsího)
 
-Známý spisovatel cestopisů dr. Karel May, který už nějaký čas dlí zde v Káhiře, plánuje novou větší cestu. Zamýšlí jet odsud do Bombaje, odtud přes Perský záliv do Basry, Bagdádu a pak projet napříč Mezopotámií a syrskou pouští, aby dosáhl Damašku. Zážitky a výsledky cesty pak budou nabídnuty nesčetným ctitelům spisovatele v nové, nepochybně nanejvýš zajímavé knize.
+> _Známý spisovatel cestopisů dr. Karel May, který už nějaký čas dlí zde v Káhiře, plánuje novou větší cestu. Zamýšlí jet odsud do Bombaje, odtud přes Perský záliv do Basry, Bagdádu a pak projet napříč Mezopotámií a syrskou pouští, aby dosáhl Damašku. Zážitky a výsledky cesty pak budou nabídnuty nesčetným ctitelům spisovatele v nové, nepochybně nanejvýš zajímavé knize._
 
 _— Ägyptische Zeitung_, rubrika „Z kolonií“,  
 14\. květen 1899
@@ -24,7 +24,7 @@ Plaše se usměju a pobídnu koně, abych mu nemusel odpovídat.
 
 \* \* \*
 
-Mé práce nelze posuzovat jako knihy jiných autorů, ani ty Vernovy. Ty mé nejsou jen plody dlouhých a namáhavých studií, ale mnohem více úspěchem téměř třicetiletých cest, strádání a nebezpečí; jsou doslova zality mou krví z ran, jejichž jizvy dodnes nosím na těle.
+> _Mé práce nelze posuzovat jako knihy jiných autorů, ani ty Vernovy. Ty mé nejsou jen plody dlouhých a namáhavých studií, ale mnohem více úspěchem téměř třicetiletých cest, strádání a nebezpečí; jsou doslova zality mou krví z ran, jejichž jizvy dodnes nosím na těle._
 
 — Z dopisu nakladateli J. R. Vilímkovi,  
 8\. 7. 1898
@@ -107,7 +107,7 @@ Vstal jsem, sáhl do sedlové brašny a podal mu brožovaný výtisk _Pokladu n
 
 \* \* \*
 
-Kdysi v tomto domě uvařil otec nynějšího majitele dva Armény zaživa se zelím a Arméni žijící v Damašku museli své krajany jíst. Ti Arméni ukradli pašovi zelí; on zloděje odhalil a takto je potrestal.
+> _Kdysi v tomto domě uvařil otec nynějšího majitele dva Armény zaživa se zelím a Arméni žijící v Damašku museli své krajany jíst. Ti Arméni ukradli pašovi zelí; on zloděje odhalil a takto je potrestal._
 
 — Z poznámek Kláry Plöhnové, později Mayové,  
 na zadní straně fotografie „paláce Asada paši“  
@@ -128,6 +128,8 @@ Ukázal jsem na velkou starobylou skříň přikrytou bílozeleným baldachýnem
 „A jedna z věží Umajjovské mešity nese přímo Ježíšovo jméno,“ nedal jsem se zastavit. „Až přijde soudný den, bude právě na této věži Isa ibn Marjam žádat zpátky klíč k mešitě…“
 
 „Ó, sídi, jak jen mě napadlo podnítit tě opět k věroučným tématům!“ hořekoval můj malý Halef. Utíkal se před mými slovy skrýt na nádvoří a ani se nezastavil u zázračné studny, jejíž voda má podle mohamedánských pověr prodlužovat lidský život.
+
+  
 
 Po návštěvě mešity jsme zamířili do křesťanské čtvrti. Ne že bych chtěl Halefa dál trápit věroukou – v této části města se ale dalo snáz sehnat pivo, jímž jsem rád splachoval prach cest při svých výpravách v Orientu i v Americe. Měli jsme štěstí, protože jsme záhy objevili kavárnu, kde prodávali pravé plzeňské pivo z Mnichova. Objednal jsem u kavárníka pro sebe láhev dvanáctky a pro Halefa sklenici čaje, když vtom se v rohu místnosti zdvihla povědomá hlava v turbanu, ležící až dosud ochable na stole.
 
@@ -161,6 +163,8 @@ Teď zpozorněl i on.
 
 Popadl mě kolem ramen a Halef se radoval s námi, i když nerozuměl německy ani slovo.
 
+  
+
 Neměl jsem v hlavě přímo plán, spíš jsem pozvání do Basadovy kuchyně pokládal za dobrý způsob, jak proniknout do paláce a snad se dostat až k samotnému pašovi. Potom už by pro člověka mojí kuráže a bystrosti nemělo být těžké Basada zajmout a vyměnit jeho svobodu za svobodu nebohých Arménů a za dopis sultánovi, odvolávající veškeré pomluvy na adresu mého přítele.
 
 Než jsem stačil všechno dobře uvážit, vstoupilo do kavárny deset vojáků.
@@ -191,7 +195,7 @@ Malý šejk bez ptaní splnil rozkaz. Můj plán byl takový – budeme předst
 
 \* \* \*
 
-Vidíte, Karel May je přes svých šest desítek let ještě podnikavý a připraven k činu, platí-li to dobru druhého.
+> _Vidíte, Karel May je přes svých šest desítek let ještě podnikavý a připraven k činu, platí-li to dobru druhého._
 
 — Karel May v dopisu J. Dederlemu,  
 8\. listopadu 1899
@@ -221,6 +225,8 @@ Paša chtěl očividně Osmanovi předvést svůj blahobyt i to, že se kvůli 
 Když jsme vstoupili, hudebník přestal hrát a dívka tančit.
 
 Asma práskla bičíkem a otrokyně odběhla ke stěně, kde usedla k loutnistovi.
+
+  
 
 „Příteli Osmane!“ zašklebil se Ašár a ani se nenamáhal vstát z divanu. Jen pevněji sevřel svoji drahokamy vykládanou dýmku s jantarovým prstencem, jako kdyby někoho škrtil. „Jsem rád, že jsi přijal pozvání k hostině.“
 
@@ -258,7 +264,7 @@ To už bylo příliš. Poslední věc, kterou jsem slyšel, byl Asmin ďábelsk�
 
 \* \* \*
 
-Jednoho z následujících dní je postižen těžkým nervovým zhroucením. Jeho průvodce Sedžid Hassan říká, že se choval jako pomatenec, všechnu stravu házel do záchodu a dlouhé dny hladověl. Po týdnu May pozvolna přichází k sobě.
+> _Jednoho z následujících dní je postižen těžkým nervovým zhroucením. Jeho průvodce Sedžid Hassan říká, že se choval jako pomatenec, všechnu stravu házel do záchodu a dlouhé dny hladověl. Po týdnu May pozvolna přichází k sobě._
 
 — Christian Heermann:  
 _Muž, který byl Old Shatterhand_, 1988
@@ -303,7 +309,7 @@ Dělo se tu něco moc podivného. Zavřel jsem oči a snažil se utřídit si m
 
 \* \* \*
 
-Nebylo to nic neodkladného, o čem jsem chtěl se Šakarou promluvit. (…) Ale když jsem začal rozmlouvat, bylo mi, jako by se ve mně otvíralo všecko zamčené, aby to spatřila, zkoumala, schválila nebo zamítla. (…) Když jsem s ní teď rozmlouval, vynořil se přede mnou opět ten okamžik, kdy jsem ji nemocný z lože spatřil podruhé; nedaleko dveří seděla uprostřed květin.
+> _Nebylo to nic neodkladného, o čem jsem chtěl se Šakarou promluvit. (…) Ale když jsem začal rozmlouvat, bylo mi, jako by se ve mně otvíralo všecko zamčené, aby to spatřila, zkoumala, schválila nebo zamítla. (…) Když jsem s ní teď rozmlouval, vynořil se přede mnou opět ten okamžik, kdy jsem ji nemocný z lože spatřil podruhé; nedaleko dveří seděla uprostřed květin._
 
 — Karel May: _Ahriman Mirza_  
 _(V říši stříbrného lva IV_._)_, 1903
@@ -348,7 +354,7 @@ Vzápětí se jako z Božího úradku v okénku zjevila Šakařina tvář, vla
 
 \* \* \*
 
-Jsem tak bohatě zásoben náměty, že ve svých šedesáti letech musím jen spěchat, spěchat, spěchat, abych i svým čtenářům dal to, co naplnilo moje srdce a učinilo mě tak nekonečně šťastným, neboť co jsem dosud napsal, je pouze úvod, který nebude možné pochopit bez znalosti následujícího. Proto také můj radostný a neotřesitelný klid vůči novinám, které na mne útočí, aniž by mne chápaly.
+> _Jsem tak bohatě zásoben náměty, že ve svých šedesáti letech musím jen spěchat, spěchat, spěchat, abych i svým čtenářům dal to, co naplnilo moje srdce a učinilo mě tak nekonečně šťastným, neboť co jsem dosud napsal, je pouze úvod, který nebude možné pochopit bez znalosti následujícího. Proto také můj radostný a neotřesitelný klid vůči novinám, které na mne útočí, aniž by mne chápaly._
 
 — Karel May v dopise J. Dederlemu,  
 po odjezdu z Damašku, červen 1900
@@ -401,6 +407,8 @@ Tohle zabolelo nejvíc. Vinnetoua jsem miloval jako svého bratra, jako sebe sam
 
 Podíval jsem se do Šakařiných očí, zalitých slzami, a četl jsem v nich: „Ukaž jim všem ještě naposledy, kdo je Kara ben Nemsí.“
 
+  
+
 Než jsem stačil dát Basadovi pádnou odpověď, uslyšeli jsme za palácovou zdí hlasy. Rychle jich přibývalo, slévaly se v jeden mohutný proud a žádaly propuštění zajatců. Záhy se k hlasům přidalo i bušení na bránu.
 
 „To jsou naši!“ zavýskl jeden z Arménů.
@@ -416,6 +424,8 @@ Vší silou jsem kopl do kotle a vroucí voda se rozlila mezi vojáky. Rozlétl
 Střílel jsem ovšem po rukou, abych vojáky vyřadil z boje, ale nezpůsobil jim smrtelná zranění. Stačily čtyři rány, a čtyři muži s výkřikem upustili pušky. Ostatní hledali krytí za kašnou a sloupořadím, to už se však Halef s Adolfem v nastalém zmatku chopili ležících pušek a vrhli se za nimi.
 
 Svoje poslední kulky jsem věnoval dvěma strážím u brány, které se chystaly přivítat arménské mladíky tasenými šavlemi. Mé střely strážcům roztříštily zápěstí a uvolnily Arménům cestu. V příštím okamžiku mladíci odsunuli závoru, otevřeli bránu a na nádvoří vtrhly desítky arménských mužů, ozbrojených převážně holemi a noži. V jejich čele se hnal Armén s tlustými kníry, kterého jsem zachránil na úpatí Džabal aš-Sarkí; zřejmě dovedl rodinu do kláštera a potom se vrátil, aby podnítil arménskou domobranu k odporu.
+
+  
 
 Začal boj muže proti muži. Já ovšem nejdřív musel srovnat účet s Núbijci. Drtil jsem je svojí pěstí s dobře posazenými klouby, a když už ruka umdlévala, použil jsem pažbu revolveru. Musel jsem jim zasadit víc ran, než mívám ve zvyku, ale zanedlouho přede mnou leželi omráčení všichni čtyři.
 
@@ -471,7 +481,7 @@ Ohledáním mrtvoly jsem zjistil, že Ašára Basada zadusil košťál, který A
 
 \* \* \*
 
-Jsem teď přímo opak dřívějšího Karla. Toho jsem s velkým ceremoniálem utopil v Rudém moři, s lodním uhlím, které ho stáhlo ke dnu.
+> _Jsem teď přímo opak dřívějšího Karla. Toho jsem s velkým ceremoniálem utopil v Rudém moři, s lodním uhlím, které ho stáhlo ke dnu._
 
 — Karel May v dopise Richardovi a Kláře Plöhnovým,  
 Jemen, 16. září 1899
@@ -504,11 +514,13 @@ Osaměli jsme na dvoře se Šakarou a Halefem.
 
 „U Džamikunů budu v bezpečí. Tvůj poslední úkol bude sehnat mi trochu _ssamghu_ a zavézt tento spisek na nejbližší poštovní úřad.“
 
+  
+
 Vrátili jsme se do kavárny, kde jsme předtím nechali koně a pušky, a já tam nad lahví dvanáctky dopsal zbytek příběhu – jak s Šakarou opouštíme Damašek východní branou Bab Šarkí a vjíždíme do kamenité pouště, já na svém věrném vraníku Assilovi a ona na pašově bělouši. Potom cváláme k perským horám, kde nakonec čtenářům zmizíme z očí.
 
 \* \* \*
 
-Ti, kteří mě nechtějí pochopit, protože píšu proti jejich předsudkům, mi předhazují, že své „Já“ vynáším do nebes. Nazývají mě chvastounem a snad ještě jinak a hůř. Milý Bože! Nikdo nemá tak málo důvodů a chuti vychloubat se jako právě já! To „Já“, o kterém píšu, to přece nejsem já sám, nýbrž je to otázka lidstva, kterou se pokouším zosobnit, abych na ni mohl odpovědět.
+> _Ti, kteří mě nechtějí pochopit, protože píšu proti jejich předsudkům, mi předhazují, že své „Já“ vynáším do nebes. Nazývají mě chvastounem a snad ještě jinak a hůř. Milý Bože! Nikdo nemá tak málo důvodů a chuti vychloubat se jako právě já! To „Já“, o kterém píšu, to přece nejsem já sám, nýbrž je to otázka lidstva, kterou se pokouším zosobnit, abych na ni mohl odpovědět._
 
 Identifikuji se ve svých knihách s lidstvem…
 
