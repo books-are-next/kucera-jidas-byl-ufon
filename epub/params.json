@@ -27,7 +27,7 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I- ",
       "figure": "MLP_obrazky\nMLP_obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP-verse\nMLP-verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b",
+      "em": "MLP_znak_kurziva_11b\nMLP_citat\nMLP_citat_autor\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP-verse\nMLP-verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b",
       "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
@@ -362,6 +362,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1650059141063
+    "generatedAt": 1650060968804
   }
 }
