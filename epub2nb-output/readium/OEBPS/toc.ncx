@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Jidáš byl ufon ... a jiné příběhy</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Jidáš byl ufon</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VI.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VII.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VIII.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>IX.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>X.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>XI.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XII.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XIII.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XIV.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XV.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_005.xhtml#_idParaDest-16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Kuklův klan</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-17"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>IV.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>V.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>VI.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_006.xhtml#_idParaDest-23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>V království Urubů</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_007.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Marie Laveau Superstar</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_008.xhtml#_idParaDest-25"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_008.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_008.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_008.xhtml#_idParaDest-28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Vězeň damašský</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_009.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Ďáblův doktor a mrtvý wallaby</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-30"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Ďábel</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Markétka</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Mistr</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Doktor</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Čarodějka</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Had</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Wallaby</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Ďábel</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Krásná</text>
+        </navLabel>
+        <content src="Text/jidas_byl_ufon_010.xhtml#_idParaDest-39"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Poznámka autora</text>
+      </navLabel>
+      <content src="Text/jidas_byl_ufon_011.xhtml#_idParaDest-40"/>
+    </navPoint>
+  </navMap>
+</ncx>
