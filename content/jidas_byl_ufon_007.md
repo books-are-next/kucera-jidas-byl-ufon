@@ -1,8 +1,7 @@
 ---
+title: "V\_království Urubů"
 contentType: prose
 ---
-
-V království Urubů
 
 (dva kriminální případy)
 

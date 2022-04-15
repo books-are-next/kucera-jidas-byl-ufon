@@ -1,8 +1,7 @@
 ---
+title: Vězeň damašský
 contentType: prose
 ---
-
-Vězeň damašský
 
 (poslední výstřel Kary ben Nemsího)
 

@@ -1,8 +1,7 @@
 ---
+title: "Ďáblův doktor a\_mrtvý wallaby"
 contentType: prose
 ---
-
-Ďáblův doktor a mrtvý wallaby
 
 Pole jsou špatná a kamenitá, většinu z nich nelze orat, ale jen rozrýt hákem. (…) Vlastní úroda stačí zdejším poddaným většinou na méně než čtvrt roku, zbývající potravu jsou nuceni kupovat a za neúrody trpí hladem. Dobytek většinou před zimou prodají, pokud si ho však nechají, je na jaře tak zbědován, že ho stěží dopraví na pastvu.
 
@@ -12,7 +11,7 @@ Od Šumburka přehlédne se celá krajina na vše strany, také jest zde proslul
 
 — Z cestovního deníku císaře Josefa II.
 
-Ďábel
+### Ďábel
 
   
 
@@ -82,7 +81,7 @@ V krvi mi vířily zbytky Devil’s Share i Teufelových hypnotik.
 
 Domů jsem šel přes hráz. Za přehradou se černal náš věžák, kde svítilo už jen okno sochaře Slívy v posledním patře a odsud to vypadalo jak pokračování hvězdné oblohy. Nedávno jsem četl o teorii astronomů, že kolem Slunce kdysi obíhalo o jednu planetu víc, ale gravitace ostatních planet ji vytlačila z oběžné dráhy a ten ztracený svět prý dodnes bloudí vesmírem. Myslel jsem na svoji ženu, a jak naše postel ze začátku voněla čerstvým dřevem. Na hladině pode mnou se převalovalo hejno kaprů a vytvářelo divoké, proměnlivé obrazce ve světle hrázních luceren. Zmámeně jsem na ně zíral, nakloněný přes zábradlí. Staří mystici říkají, že všechna magie je v přírodě a adepti čarodějnictví musejí přírodu pokorně pozorovat. Astrofyzici pomocí pokusů s laserovými paprsky vymysleli teorii, jak mohl na Zemi vzniknout život, a přitom pořád nedokážou život definovat a říct, v čem spočívá jeho jedinečnost. Vzpomněl jsem si na sousedku, která před lety skočila z druhé strany hráze, ale dole se zabořila po kolena do bahna, takže se nezabila, jenom si rozdrtila nohy; s ohleduplně nezúčastněným pohledem jí dneska otevíráme dveře výtahu, aby mohla s vozíkem projet. Odstoupil jsem od zábradlí, protože se mi pekelně zatočila hlava. Cítil jsem, jak mi do krku stoupají žaludeční šťávy, a ke křoví za koncem hráze jsem doběhl v poslední chvíli.
 
-Markétka
+### Markétka
 
   
 
@@ -158,7 +157,7 @@ Ustoupil jsem mimoděk o půl kroku.
 
 „Se někdy stav, pokecáme,“ řekla. „Budeš mi vyprávět o tý svojí detektivce.“
 
-Mistr
+### Mistr
 
   
 
@@ -232,7 +231,7 @@ Dopili jsme kávu a Hanussen mi vyprávěl, že všechna magie je v přírodě
 
 Cestou domů, zrovna když tramvaj vjela do šedivého kouře, protože zahrádkáři podél řeky pálili shrabanou trávu, mi Hanussen zavolal. Říkal, že Kromlechovi zkusil napsat, ale e-mail se mu vrátil jako nedoručitelný. Poděkoval jsem a zavěsil. Potom jsem se dlouho díval do houstnoucího dýmu a myslel na Teufela, jak za sebou pálí mosty.
 
-Doktor
+### Doktor
 
   
 
@@ -326,7 +325,7 @@ Přivolala vrchního, že chce platit.
 
 Když zmizela, dal jsem si ještě pivo se zelenou a došlo mi, že jsem zapomněl Markétu svádět. Vlastně jsem se jí ani nezeptal, jak se jmenuje její syn nebo kolik mu je let. Potom jsem myslel na svoji ženu a v hlavě se mi jak zaseklá deska točila Dylanova píseň o tom, že člověk se vždycky může vrátit, ale nikdy ne celou cestu. Nakonec jsem zaplatil, dopotácel se na záchod a do vytlačené skvrny nad pisoárem opřel ztěžklé čelo.
 
-Čarodějka
+### Čarodějka
 
   
 
@@ -376,7 +375,7 @@ Musel jsem nutně mluvit s Johnnym Hellerem.
 
 Po několikahodinovém prohledávání internetu jsem konečně objevil způsob – Heller byl registrovaný na serveru HelpX, který sdružuje farmáře hledající pracovní sílu a cestovatele ochotné pracovat za nocleh a stravu. Bez dlouhého přemýšlení jsem se zaregistroval. Heller sháněl zdatné a zručné muže pro stavební práce a já mu nabídl svoji pomoc, i když jsem v životě nestloukl ani ptačí budku. Chtěl jsem ho hlavně přimět k odpovědi a vtáhnout do korespondence.
 
-Had
+### Had
 
   
 
@@ -478,7 +477,7 @@ Johnny se ke mně otočil a pronesl: „_Auchade hadicicacum, Fortice cerre, di
 
 To bylo zaříkání lískového hada, užovky bílé jako padlý sníh. _Tato slova promluv, tím si ji podmaníš a stáhni jí kůži a vyjmi jazyk a do bílého ubrousku ulož a kůži i jazyk společné uchovávej_. Pochopil jsem v tom snu, že já jsem ten had s bílou kůží; můj příjezd sem nebyla náhoda. Zmámeně jsem vkročil do kruhu, Johnny vytáhl dýku a od řeky zesílilo kvákání žab.
 
-Wallaby
+### Wallaby
 
   
 
@@ -556,7 +555,7 @@ Byl to soused, který měl vinici pár mil za Johnnyho farmou.
 
 Ráno mě probudila myšlenka, že Austrálie je jako dětství na vesnici; i tady nový den ohlašují hrdličky a člověk může prožít tajemství při cestě lesem. Vstal jsem, odhrnul těžký závěs a chvíli jen tak mžoural do slunce. Teprve pak jsem zapnul telefon, kde mě čekala zpráva od Markéty: _Pruser. Strejda zasel k vam do archivu a zjistil, ze grimoar je pryc. Chtej po tobe vyhlasit patrani. :-( Prijed co nejdriv_.
 
-Ďábel
+### Ďábel
 
   
 
@@ -692,7 +691,7 @@ Dívali jsme se na sebe. Potom jsem položil dýku a vzal si od něj smlouvu.
 
 „Ještě chci dopsat jednu kapitolu, pak vám to pošlu.“
 
-Krásná
+### Krásná
 
   
 

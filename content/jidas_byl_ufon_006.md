@@ -1,12 +1,11 @@
 ---
+title: Kuklův klan
 contentType: prose
 ---
 
-Kuklův klan
-
 (dobrodružné romaneto)
 
-I.
+### I.
 
   
 
@@ -190,7 +189,7 @@ Markovi se ještě nechtělo vracet domů, tak si objednal pivo a utopence. Sle
 
 Večer, zpátky ve svojí garsonce, připustil vodu do pánve, aby se mořská květina na jejím dně zase rozvlnila, ale kalný podvodní svět už mu nepřišel tolik poetický jako včera, tak ho seškrábal drátěnkou.
 
-II.
+### II.
 
 V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel.
 
@@ -316,7 +315,7 @@ Postele v jejich pokoji byly přiražené každá k jiné zdi.
 
 A jak řekla, tak udělali.
 
-III.
+### III.
 
   
 
@@ -502,7 +501,7 @@ Inženýr Vějíř se usmál. „Ale to víte, že jo. Chodba pod Krannerovou ka
 
 To bylo ono.
 
-IV.
+### IV.
 
 21\. října 1930
 
@@ -566,7 +565,7 @@ Vladana ho sytila e-maily psanými kuklovským „sensačním“ stylem, na kter
 
 Potom Marek namluvil inženýru Vějířovi, že píše odbornou studii o vztahu K. L. Kukly ke skutečné podzemní Praze, vymámil z něj klíč od vchodu do šachty v Divadelní ulici a nechal si udělat jeho kopii. Jednou v noci, kdy i u Ducha zhaslo světlo a poslední noční ptáci odlétli do nonstopek na Novém Městě, sestoupil pod Krannerovu kašnu a vsunul plechovku s deníkem do jedné z větracích šachet.
 
-V.
+### V.
 
   
 
@@ -746,7 +745,7 @@ Klekla si na zem a v prokřehlých dlaních držela svůj dárek, jako by čer
 
 „Ten deník chci,“ řekl obrys hlasem knihovnice Vladany.
 
-VI.
+### VI.
 
   
 
