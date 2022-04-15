@@ -3,10 +3,10 @@ title: Jidáš byl ufon
 contentType: prose
 ---
 
-Záhady nás zajímají všechny. Aspoň doufám.
+_Záhady nás zajímají všechny. Aspoň doufám._
 
-— Dan Brown v pořadu BBC,  
-7\. dubna 2006
+_— Dan Brown v pořadu BBC,  
+7\. dubna 2006_
 
 ### I.
 
