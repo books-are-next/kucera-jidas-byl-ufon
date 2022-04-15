@@ -23,12 +23,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\nMLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I- ",
+      "figure": "MLP_obrazky\nMLP_obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP-verse\nMLP-verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b",
+      "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
     },
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jidáš byl ufon"
+            "title": "Jidáš byl ufon",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kuklův klan"
+            "title": "Kuklův klan",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V království Urubů"
+            "title": "V království Urubů",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Marie Laveau Superstar"
+            "title": "Marie Laveau Superstar",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Vězeň damašský"
+            "title": "Vězeň damašský",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ďáblův doktor a mrtvý wallaby"
+            "title": "Ďáblův doktor a mrtvý wallaby",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_011.md",
@@ -174,8 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámka autora"
+            "title": "Poznámka autora",
+            "children": []
           },
           {
             "filename": "jidas_byl_ufon_012.md",
@@ -228,43 +228,43 @@
         "xhtml": "jidas_byl_ufon_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jidáš byl ufon",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_005.md",
         "xhtml": "jidas_byl_ufon_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kuklův klan",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_006.md",
         "xhtml": "jidas_byl_ufon_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V království Urubů",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_007.md",
         "xhtml": "jidas_byl_ufon_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Marie Laveau Superstar",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_008.md",
         "xhtml": "jidas_byl_ufon_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vězeň damašský",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_009.md",
         "xhtml": "jidas_byl_ufon_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ďáblův doktor a mrtvý wallaby",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_010.md",
         "xhtml": "jidas_byl_ufon_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámka autora",
         "subtitleSuggest": "",
         "filename": "jidas_byl_ufon_011.md",
         "xhtml": "jidas_byl_ufon_011.xhtml"
@@ -362,6 +362,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1650058176030
+    "generatedAt": 1650059141063
   }
 }
