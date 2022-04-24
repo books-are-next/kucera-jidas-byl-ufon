@@ -35,7 +35,7 @@ tocBase:
         title: Kuklův klan
         hiddenTitle: false
       - link: jidas_byl_ufon_007.html
-        title: V království Urubů
+        title: "V\_království Urubů"
         hiddenTitle: false
       - link: jidas_byl_ufon_008.html
         title: Marie Laveau Superstar
@@ -44,7 +44,7 @@ tocBase:
         title: Vězeň damašský
         hiddenTitle: false
       - link: jidas_byl_ufon_010.html
-        title: Ďáblův doktor a mrtvý wallaby
+        title: "Ďáblův doktor a\_mrtvý wallaby"
         hiddenTitle: false
       - link: jidas_byl_ufon_011.html
         title: Poznámka autora

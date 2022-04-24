@@ -1,9 +1,8 @@
 ---
 title: Poznámka autora
+subtitle: ''
 contentType: prose
 ---
-
-  
 
 Za inspirativní rozhovory bych rád poděkoval pracovnicím městské knihovny Sedlčany a speleologovi Vladimíru Vojířovi (_Kuklův klan_), Jerrymu Gandolfovi z New Orleans Historic Voodoo Museum (_Marie Laveau Superstar_), mayologovi Janu Kotenovi (_Vězeň damašský_), vydavatelům Faustovy knihy a odborníkům na magii Ladislavu Loutchanovi a Jindřichu Kalvachovi; a taky Pavlu Pilzovi z Okresního archivu v Jablonci nad Nisou, který zná tajemství přihrádky číslo devět (_Ďáblův doktor a mrtvý wallaby_).
 

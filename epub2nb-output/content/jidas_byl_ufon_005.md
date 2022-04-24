@@ -1,16 +1,13 @@
 ---
 title: Jidáš byl ufon
+subtitle: I.
 contentType: prose
 ---
 
-_Záhady nás zajímají všechny. Aspoň doufám._
+Záhady nás zajímají všechny. Aspoň doufám.
 
-> _— Dan Brown v pořadu BBC,  
-> 7\. dubna 2006_
-
-### I.
-
-  
+> — Dan Brown v pořadu BBC,  
+> 7\. dubna 2006
 
 „Zítřek, tedy dvacátý první prosinec 2012, je z astrologického hlediska jedno z nejvýznamnějších dat vůbec,“ říkala právě docentka Ipek Sakarya z institutu kosmických věd Istanbulské univerzity a hlas se jí neznatelně třásl vzrušením. „Zítra za rozednění se Slunce po šestadvaceti tisíci letech ocitne v konjunkci průsečnice Mléčné dráhy a roviny ekliptiky.“
 
@@ -20,7 +17,7 @@ _Záhady nás zajímají všechny. Aspoň doufám._
 
   
 
-„Například hákový kříž používaný nacisty,“ vyprávěl Robert svým mladým posluchačům na Harvardu, „obecně chápeme jako symbol smrti a zkázy. Ale co kdybych vám řekl, že hákový kříž je zároveň symbol štěstí a zdobí průčelí křesťanských kostelů?“
+> „Například hákový kříž používaný nacisty,“ vyprávěl Robert svým mladým posluchačům na Harvardu, „obecně chápeme jako symbol smrti a zkázy. Ale co kdybych vám řekl, že hákový kříž je zároveň symbol štěstí a zdobí průčelí křesťanských kostelů?“
 
 > „To není možné!“ vyráželi ze sebe studenti. „Něco takového si nedovedeme ani představit!“
 
@@ -36,7 +33,7 @@ _Záhady nás zajímají všechny. Aspoň doufám._
 
   
 
-Teď ale Robert sledoval ručičku hodinek s Mickeym Mousem a nepříliš zaujatě poslouchal závěr výkladu docentky Sakaryi. „Zítra se na obloze objeví hvězdy a planety zformované do tvaru obrovského kříže. Mnozí lidé věří, že tato konstelace v sobě skrývá jakési po­selství, ale to by vám lépe než já vysvětlil kolega Langdon,“ řekla Ipek skoro rozverně a Robert měl pocit, že po něm mrkla. „Já vám tedy v tuto chvíli děkuji za pozornost.“
+> Teď ale Robert sledoval ručičku hodinek s Mickeym Mousem a nepříliš zaujatě poslouchal závěr výkladu docentky Sakaryi. „Zítra se na obloze objeví hvězdy a planety zformované do tvaru obrovského kříže. Mnozí lidé věří, že tato konstelace v sobě skrývá jakési po­selství, ale to by vám lépe než já vysvětlil kolega Langdon,“ řekla Ipek skoro rozverně a Robert měl pocit, že po něm mrkla. „Já vám tedy v tuto chvíli děkuji za pozornost.“
 
 > Posluchači zatleskali a za řečnickým pultem lpek vystřídal moderátor. „Vyslechli jsme poslední příspěvek a můžeme se těšit, co za zázraky se objeví zítra na ranní obloze. Ještě než však nadejde den, na který všichni čekáme, rád bych vás pozval do vestibulu naší univerzity, kde za několik minut začne náš vzácný host profesor Robert Langdon podepisovat svoji novou knihu _Ježíš, Marie z Magdaly a já_.“
 
@@ -44,7 +41,7 @@ Teď ale Robert sledoval ručičku hodinek s Mickeym Mousem a nepříliš zauj
 
   
 
-Když se usadil, jako první ke stolku přistoupila Ipek.
+> Když se usadil, jako první ke stolku přistoupila Ipek.
 
 > „Zaujala mě vaše přenáška,“ řekla, zatímco jí podepisoval knížku. „Zvlášť ten závěr o šnečkovi byl k popukání. Kdybyste měl chuť zajít spolu na šálek turecké kávy, ozvěte se.“ Podala mu svoji vizitku. Teprve teď si Robert docentku Sakaryi pořádně prohlédl. Shlížela na něj žena asi třicetiletá, s havraními vlasy, kaštanovýma očima a zářivě bílými zuby. Pohled těch půvabných očí Robertovi vehnal ruměnec do tváří, což Ipek s uspokojením zaznamenala.
 
@@ -76,8 +73,6 @@ Když se usadil, jako první ke stolku přistoupila Ipek.
 
 ### II.
 
-  
-
 Nemo seděl na nejvyšším ochozu beyazitské věže a hledáčkem pušky sledoval dění pod sebou. Měl rozhled po celém náměstí, ale jeho pozornost se soustředila ke vchodu Istanbulské univerzity. _Robert Langdon musí zemřít_. Nemo věděl, že profesor Langdon jako jediný člověk na světě dokáže rozluštit tajemství, které zničí všechno, čemu Nemo a miliony dalších lidí zasvětili svoje životy. _Jestli má zítra opravdu přijít apokalypsa, bude to Langdon, kdo ji rozpoutá. A já mu v tom musím zabránit._
 
 > Nemo byl albín a leckdo z jeho známých mu předhazoval podobnost se zabijáckým mnichem Silasem z románu _Šifra mistra Leonarda_. Nemo si to vysvětloval tak, že není snadné vytvářet pořád nové prototypy padouchů a že čtenáři stejně chtějí číst hlavně to, co už sami znají. Ale jméno si vybral sám a byl na něj hrdý. Pocházelo ze středověkého spisu _Historia de Nemine_, tedy _Historie o panu Nikdo_. „Nemo“ znamená latinsky „nikdo“, ale autor spisu, jistý mnich Radulphus, to slovo začal psát s velkým písmenem jako vlastní jméno. Věta z Písma svatého „nemo deum vidit“ (nikdo nespatřil Boha) tak v jeho podání znamenala „Nemo deum vidit“ (Nemo spatřil Boha). Tímhle způsobem zpřevracel spoustu biblických příkazů a zákazů – všechno nedosažitelné a nemožné se stalo možným a dosažitelným pro tajemného Nema. V té době vznikla dokonce sekta s názvem _Secta neminima_, vzývající tajemného pana Nikdo, a církevní autority proti ní vedly rozzuřená kázání. Nemo si vybral svoje jméno, protože se cítil spřízněný s mystickým Nikým, který jako jediný člověk směl uvidět Boží tvář.
@@ -86,7 +81,7 @@ Nemo seděl na nejvyšším ochozu beyazitské věže a hledáčkem pušky sled
 
   
 
-Robert byl v šoku. Když vycházeli z univerzity, podal mu Johan, jak se jeho nový společník představil, fotografii starého pergamenu. Byla to první stránka delšího rukopisu a Robert bez větších potíží rozluštil název _Kosmovo evangelium_.
+> Robert byl v šoku. Když vycházeli z univerzity, podal mu Johan, jak se jeho nový společník představil, fotografii starého pergamenu. Byla to první stránka delšího rukopisu a Robert bez větších potíží rozluštil název _Kosmovo evangelium_.
 
 > To tedy bylo ono tajemné apokryfní evangelium, které se nedávno zjevilo v horách za vesnicí Sart! Objevil ho pasák, když hledal zatoulanou ovci, a protože nedokázal odhadnout význam svého nálezu, prodal hliněný džbánek plný pergamenů starožitníkovi v Izmiru. Evangelium se pak dostalo na černý trh a k lítosti akademické obce i světových muzeí se po něm slehla zem. Předpokládalo se, že svitek koupil nějaký šejk z Emirátů nebo bankéř z Curychu a že v ústraní čeká, až se jeho cena ještě zvýší.
 
@@ -110,23 +105,21 @@ Robert byl v šoku. Když vycházeli z univerzity, podal mu Johan, jak se jeho
 
   
 
-_Bože můj, Bože můj! Proč jsi mě opustil?!_ Vteřinu předtím, než Nemo zmáčkl spoušť, ten muž v černém kabátě smýkl Langdonem a sám se postavil na jeho místo. Kulka zasáhla nepravého. K druhé ráně nebyla příležitost, protože kolem Langdona se shlukli kolemjdoucí. _Taková šance se už nemusí opakovat!_ Nemo chvatně složil pušku do pouzdra a seběhl z věže.
+> _Bože můj, Bože můj! Proč jsi mě opustil?!_ Vteřinu předtím, než Nemo zmáčkl spoušť, ten muž v černém kabátě smýkl Langdonem a sám se postavil na jeho místo. Kulka zasáhla nepravého. K druhé ráně nebyla příležitost, protože kolem Langdona se shlukli kolemjdoucí. _Taková šance se už nemusí opakovat!_ Nemo chvatně složil pušku do pouzdra a seběhl z věže.
 
 > Rychlým krokem přešel náměstí a doufal, že Bůh udělá zázrak a promění prchajícího Langdona v solný sloup. Bůh však udělal jiný zázrak a proměnil zastřeleného muže v Lazara, jenž vstal z mrtvých.
 
   
 
-Johan se ztěžka zvedl a snažil se popadnout dech. Cítil, že má zlomené žebro. _Ještě že si do akce beru neprůstřelnou vestu._ Dral se houfem zvědavců ke svému autu, než se na místo seběhnou policisté. Rozhlížel se kolem sebe, hledal útočníka, dlaň připravenou na pažbě svého lugeru. Odhadoval, že zabiják střílel z beyazitské věže, to bylo v okolí nejvhodnější místo. Rána vyšla z odstřelovací pušky, tu už mezi tolika lidmi nemůže použít. _Musím se soustředit na Langdona._ Profesor byl pochopitelně pryč. Johan přemýšlel. Nastudoval o Robertovi hodně materiálů a snažil se do něj vcítit. _Nepůjde na policii nebo na ambasádu, jako by to udělal normální člověk. Místo toho vyhledá nějakého přítele. Koho Langdon zná v Istanbulu?_ Listoval v hlavě spisem, který si o profesorovi založil během přípravy plánu. _Nikoho_. Pak si vzpomněl na tureckou docentku, co přednášela na konferenci. _Dávala mu svůj telefon!_
+> Johan se ztěžka zvedl a snažil se popadnout dech. Cítil, že má zlomené žebro. _Ještě že si do akce beru neprůstřelnou vestu._ Dral se houfem zvědavců ke svému autu, než se na místo seběhnou policisté. Rozhlížel se kolem sebe, hledal útočníka, dlaň připravenou na pažbě svého lugeru. Odhadoval, že zabiják střílel z beyazitské věže, to bylo v okolí nejvhodnější místo. Rána vyšla z odstřelovací pušky, tu už mezi tolika lidmi nemůže použít. _Musím se soustředit na Langdona._ Profesor byl pochopitelně pryč. Johan přemýšlel. Nastudoval o Robertovi hodně materiálů a snažil se do něj vcítit. _Nepůjde na policii nebo na ambasádu, jako by to udělal normální člověk. Místo toho vyhledá nějakého přítele. Koho Langdon zná v Istanbulu?_ Listoval v hlavě spisem, který si o profesorovi založil během přípravy plánu. _Nikoho_. Pak si vzpomněl na tureckou docentku, co přednášela na konferenci. _Dávala mu svůj telefon!_
 
 > Johan se rozeběhl zpátky do budovy univerzity. Za chvíli vyběhl ven s adresou docentky Ipek Sakaryi.
 
   
 
-Nemo stál ve stínu hlavní brány a sledoval Johana. Věděl, že ten člověk hledá Roberta Langdona. A že ho k němu dovede.
+> Nemo stál ve stínu hlavní brány a sledoval Johana. Věděl, že ten člověk hledá Roberta Langdona. A že ho k němu dovede.
 
 ### III.
-
-  
 
 „Tady Langdon!“ vyštěkl Robert do mobilu.
 
@@ -146,11 +139,11 @@ Nemo stál ve stínu hlavní brány a sledoval Johana. Věděl, že ten člově
 
   
 
-Robert doběhl na nábřeží, ani se moc nezadýchal (v mládí hrával vodní pólo a dodnes se udržoval ve slušné kondici), naskočil do tramvaje a vydal se přes Galatský most do čtvrti Taksim. Přejížděl tenké hrdlo Bosporské úžiny, kudy se plavili už argonauti za zlatým rounem. Až jednou úžina vyschne, odhalí se v nánosech bahna celá historie lidstva – římské mince budou ležet vedle cadillacu, ve kterém do úžiny sletěl před půlstoletím místní gangster. O tom se Robert dočetl ve sbírce fejetonů jistého tureckého novináře z deníku _Milliyet_. Ohlížel se za sebe, jestli nezahlédne kopuli Hagie Sofie, která se mu nenávratně vzdalovala, stejně jako istanbulské letiště, odkud měl dnes večer vyrazit domů. Z minaretů zazněl táhlý zpěv svolávající muslimy k modlitbě a Robertovi bylo v tom velkém cizím městě na hranici světů, v tom labyrintu symbolů najednou smutno.
+> Robert doběhl na nábřeží, ani se moc nezadýchal (v mládí hrával vodní pólo a dodnes se udržoval ve slušné kondici), naskočil do tramvaje a vydal se přes Galatský most do čtvrti Taksim. Přejížděl tenké hrdlo Bosporské úžiny, kudy se plavili už argonauti za zlatým rounem. Až jednou úžina vyschne, odhalí se v nánosech bahna celá historie lidstva – římské mince budou ležet vedle cadillacu, ve kterém do úžiny sletěl před půlstoletím místní gangster. O tom se Robert dočetl ve sbírce fejetonů jistého tureckého novináře z deníku _Milliyet_. Ohlížel se za sebe, jestli nezahlédne kopuli Hagie Sofie, která se mu nenávratně vzdalovala, stejně jako istanbulské letiště, odkud měl dnes večer vyrazit domů. Z minaretů zazněl táhlý zpěv svolávající muslimy k modlitbě a Robertovi bylo v tom velkém cizím městě na hranici světů, v tom labyrintu symbolů najednou smutno.
 
   
 
-Dům v Taksimu, kde žila Ipek, našel celkem snadno. Přivítala ho tureckou kávou a kořalkou Raki. Ipek bydlela v malém bytě s velkou knihovnou, spoustou map hvězdného nebe a portrétem Atatürka. V rohu pokoje stál astronomický dalekohled.
+> Dům v Taksimu, kde žila Ipek, našel celkem snadno. Přivítala ho tureckou kávou a kořalkou Raki. Ipek bydlela v malém bytě s velkou knihovnou, spoustou map hvězdného nebe a portrétem Atatürka. V rohu pokoje stál astronomický dalekohled.
 
 > „Tady jste v bezpečí,“ řekla Ipek.
 
@@ -182,7 +175,7 @@ Dům v Taksimu, kde žila Ipek, našel celkem snadno. Přivítala ho tureckou k
 
   
 
-Robert si vzpomněl, jak o podobném tématu přednášel svým studentům na Harvardu.
+> Robert si vzpomněl, jak o podobném tématu přednášel svým studentům na Harvardu.
 
 > „Dnešní Turecko patřilo kdysi křesťanům,“ řekl tenkrát.
 
@@ -192,7 +185,7 @@ Robert si vzpomněl, jak o podobném tématu přednášel svým studentům na H
 
   
 
-Dneska se ale neusmíval.
+> Dneska se ale neusmíval.
 
 > „Dobře, dobře,“ couvala Ipek. „Takže vy jste tedy viděl _Kosmovo evangelium_?“
 
@@ -220,8 +213,6 @@ Dneska se ale neusmíval.
 
 ### IV.
 
-  
-
 „Rychle! Na balkon!“ sykla Ipek.
 
 > Její balkon byl od balkonu sousedního bytu oddělený jenom skleněnou přepážkou.
@@ -242,7 +233,7 @@ Dneska se ale neusmíval.
 
   
 
-Nemo zatím seděl v taxíku na opačné straně ulice.
+> Nemo zatím seděl v taxíku na opačné straně ulice.
 
 > „Sledujte ten vůz,“ přikázal řidiči.
 
@@ -266,11 +257,11 @@ Nemo zatím seděl v taxíku na opačné straně ulice.
 
   
 
-„_Himmel Herr Gott!_“ zaklel Johan, když oknem zahlédl profesora s jeho novou průvodkyní nasedat do auta. Za nimi vyjel taxík a Johanovi nedalo moc práce domyslet si, že v něm sedí tentýž člověk, který po nich vystřelil na náměstí Beyazit. Johan vyrazil z bytu, seběhl schody a nasedl do svého auta. Ještě zahlédl taxík, jak zatáčí za roh směrem k parku, a rozjel se za ním.
+> „_Himmel Herr Gott!_“ zaklel Johan, když oknem zahlédl profesora s jeho novou průvodkyní nasedat do auta. Za nimi vyjel taxík a Johanovi nedalo moc práce domyslet si, že v něm sedí tentýž člověk, který po nich vystřelil na náměstí Beyazit. Johan vyrazil z bytu, seběhl schody a nasedl do svého auta. Ještě zahlédl taxík, jak zatáčí za roh směrem k parku, a rozjel se za ním.
 
   
 
-„Sleduje nás?“ zeptala se Ipek.
+> „Sleduje nás?“ zeptala se Ipek.
 
 > „Nevidím moc přes ten taxík,“ řekl Robert, „ale řekl bych, že ne.“
 
@@ -300,7 +291,7 @@ Nemo zatím seděl v taxíku na opačné straně ulice.
 
   
 
-Fiat přejel Atatürkův most a mířil po Kennedyho třídě do historické části města. Napravo se už od dob sultána Mehmeda II. tyčil palác Topkapi, nalevo se v Marmarském moři koupaly paprsky večerního slunce. Ale Nemo nevnímal kouzlo istanbulského večera, dneska byl připravený zabíjet. Vtom ve zpětném zrcátku zahlédl povědomé auto. _Lazarus!_ Nemo neváhal, vytáhl revolver, sroloval okénko a vypálil na pronásledovatele několik kulek. Taxikář zbledl a tiše si opakoval, že Alláh je velký.
+> Fiat přejel Atatürkův most a mířil po Kennedyho třídě do historické části města. Napravo se už od dob sultána Mehmeda II. tyčil palác Topkapi, nalevo se v Marmarském moři koupaly paprsky večerního slunce. Ale Nemo nevnímal kouzlo istanbulského večera, dneska byl připravený zabíjet. Vtom ve zpětném zrcátku zahlédl povědomé auto. _Lazarus!_ Nemo neváhal, vytáhl revolver, sroloval okénko a vypálil na pronásledovatele několik kulek. Taxikář zbledl a tiše si opakoval, že Alláh je velký.
 
 > Čelní sklo vystříklo do kabiny jako smrtící kaluž, Johan se skrčil za volantem a kryl si obličej rukou. Pak střelbu opětoval. Nemo se včas svezl po sedadle, ale taxikář, který neměl tušení o správném krytí, dostal kulku přímo do zátylku. Nemo se snažil chytit volant, zablokovaný teď těžkým řidičovým tělem, ale než se mu povedlo chroptícího muže odvalit, přišla zatáčka a neovladatelný vůz vrazil do svodidel, udělal neohrabaný kotrmelec a vletěl do Marmarského moře, doprovázený zděšenými výkřiky turistů z oken paláce Topkapi i z druhé strany z výletních lodí.
 
@@ -308,7 +299,7 @@ Fiat přejel Atatürkův most a mířil po Kennedyho třídě do historické č
 
   
 
-„V době po Kristově zmrtvýchvstání vznikalo v křesťanském světě mnoho gnostických sekt,“ pokračoval Robert. „Každá z nich měla vlastní výklad Ježíšova příběhu – například kainité uctívali záporné postavy _Bible_ a napsali takzvané _Jidášovo evangelium_, protože v Jidášovi viděli hrdinu, který se obětoval pro lidstvo. V té době neexistovala žádná hlavní křesťanská doktrína, jednotlivé proudy spolu prostě zápasily o vliv. Nakonec vyhrálo pojetí novozákonního příběhu, jak ho známe dnes, a protože historii píší vítězové, označila církev zpětně všechny ostatní proudy za kacířské a vymýtila je spolu s jejich nositeli.“
+> „V době po Kristově zmrtvýchvstání vznikalo v křesťanském světě mnoho gnostických sekt,“ pokračoval Robert. „Každá z nich měla vlastní výklad Ježíšova příběhu – například kainité uctívali záporné postavy _Bible_ a napsali takzvané _Jidášovo evangelium_, protože v Jidášovi viděli hrdinu, který se obětoval pro lidstvo. V té době neexistovala žádná hlavní křesťanská doktrína, jednotlivé proudy spolu prostě zápasily o vliv. Nakonec vyhrálo pojetí novozákonního příběhu, jak ho známe dnes, a protože historii píší vítězové, označila církev zpětně všechny ostatní proudy za kacířské a vymýtila je spolu s jejich nositeli.“
 
 > „A stejný osud potkal Probudilé?“
 
@@ -320,11 +311,9 @@ Fiat přejel Atatürkův most a mířil po Kennedyho třídě do historické č
 
   
 
-Nemo se vynořil z vody. Z čela mu crčela krev, naražené kosti ho bolely, ale to nebylo nic proti bolesti z porážky, kterou mu uštědřil ten nesmrtelný _Lazarus_. Krauloval ke břehu, než někdo stačí přivolat ambulanci. Do rozbřesku zbývalo necelých devět hodin. Mohl udělat jediné – skrýt se v chrámu a počkat, až tam Langdon dorazí. Nechtěl ho nechat zajít tak daleko, ale teď už neměl jinou možnost.
+> Nemo se vynořil z vody. Z čela mu crčela krev, naražené kosti ho bolely, ale to nebylo nic proti bolesti z porážky, kterou mu uštědřil ten nesmrtelný _Lazarus_. Krauloval ke břehu, než někdo stačí přivolat ambulanci. Do rozbřesku zbývalo necelých devět hodin. Mohl udělat jediné – skrýt se v chrámu a počkat, až tam Langdon dorazí. Nechtěl ho nechat zajít tak daleko, ale teď už neměl jinou možnost.
 
 ### V.
-
-  
 
 „Wikipedie je nejspolehlivější informační zdroj,“ poučil Robert Ipek. „Dan ji taky při psaní používá.“ Hledal informace o sedmi křesťanských obcích v Malé Asii. „Víte, když jsem se dozvěděl, že svitek se našel ve vesnici Sart, něco mě napadlo. Jak jsem už říkal, na místě té vesnice leželo starověké město Sardy, jedno ze sedmi měst prvních křesťanů. Těchto sedm měst oslovuje svatý Jan v úvodu svého _Zjevení_, a když zmiňuje _sedm duchů pod trůnem_, má nepochybně na mysli taky těchto sedm měst.“
 
@@ -362,8 +351,6 @@ Nemo se vynořil z vody. Z čela mu crčela krev, naražené kosti ho bolely, 
 
 ### VI.
 
-  
-
 Robert s Ipek zamířili k fiatu.
 
 > „Pane profesore,“ ozvalo se za nimi. Otočili se a uviděli Johana, jak je hypnotizuje svýma ledovýma očima. „Jestli se ještě jednou pokusíte o útěk, přinesu vám ukázat ne boty, ale nohy pana Browna, které mu vlastnoručně amputuju. Vaše dosavadní chování jsem ochoten považovat za nedorozumění. Ale teď mě prosím následujte do auta. Paní docentka bude řídit, my si sedneme dozadu. Myslím, že si máme o čem povídat.“
@@ -397,8 +384,6 @@ Robert s Ipek zamířili k fiatu.
 > „Přesně tak,“ přikývl Johan. „A árijská rasa s pomocí _Kosmova evangelia_ ovládne vesmír.“
 
 ### VII.
-
-  
 
 Johan se obrátil k Robertovi. „Na co jste přišel, profesore?“
 
@@ -454,8 +439,6 @@ Johan se obrátil k Robertovi. „Na co jste přišel, profesore?“
 
 ### VIII.
 
-  
-
 Nějakou dobu všichni seděli jako opaření.
 
 > První promluvil Johan: „Dobře, odhalili jsme původ Nadčlověka. Co dál? Nadčlověk musí sestoupit na Zem a v boji mezi ledem a ohněm zajistit vítězství nordické rasy.“
@@ -484,8 +467,6 @@ Mysli, Roberte!
 
 ### IX.
 
-  
-
 Chrám Boží moudrosti neboli Hagia Sofia. Robert ji dobře znal z Wikipedie, ale přesto ho její skutečná velkolepost ohromila. Když císař Konstantin uznal křesťanství jako státní náboženství, nechal po celé říši stavět velkolepé kostely. Hagia Sofia byla největším a nejkrásnějším z nich. Původně to byla obdélníková bazilika s dřevěnou střechou, ta ovšem o padesát let později vyhořela během nepokojů vyvolaných příznivci konstantinopolského patriarchy, který vystoupil proti stříbrné soše císařovny Eudoxie vztyčené přímo před vchodem do chrámu. Druhá, obnovená bazilika vyhořela o století později během povstání proti císaři Justiniánovi. Když císař zvítězil nad rebely, nechal vystavět třetí chrám, nejvelkolepější, jaký svět do té doby spatřil. Deset tisíc dělníků pracovalo pět let se stavebními materiály svezenými do Konstantinopole ze všech koutů byzantské říše. Během slavnostního otevření bylo obětováno sto volů, šest tisíc ovcí, šest set jelenů, tisíc prasat, deset tisíc slepic a deset tisíc kohoutů. Za dvacet let chrám poničilo zemětřesení, za dvě stě let ho poničili ikonoklasté, kteří Hagii Sofii oloupili o všechny fresky a sochy. Co nezvládli přírodní živly a obrazoborci, dokončili v dalším tisíciletí křižáci. Rozbili oltář Panny Marie, nahnali do chrámu mezky a nakládali na ně nakradené zlato a relikvie, na kazatelně nechali tančit nahou prostitutku. Když o tři sta let později město dobyl sultán Mehmed II., nalezl chrám Boží moudrosti v žalostném stavu. Turci Hagii Sofii opravili, přistavěli minarety a udělali z ní mešitu. Robert v myšlenkách přeskočil několik století a představil si Atatürka, generála s huňatým obočím, jak se chce vyrovnat dávným císařům a sultánům a zanechat v chrámu otisk svojí velikosti. Zrušil v Hagii Sofii mešitu a zřídil v ní muzeum. Ve zdech chrámu Boží moudrosti je vepsána historie lidstva – a tuto noc měl Robert zjistit, že je to historie mnohem tajemnější, než si do té doby myslel.
 
 > Na náměstí Sultána Ahmeda se snášel soumrak, rackové usedali na střechy domů a chystali se ke spánku, unavené slunce zbarvilo oblohu do krvava. Zřízenkyně právě zamykala pokladnu a chystala se odejít domů.
@@ -500,17 +481,15 @@ Chrám Boží moudrosti neboli Hagia Sofia. Robert ji dobře znal z Wikipedie, 
 
 ### X.
 
-  
-
 _Nejdůležitější je správná perspektiva_. Touhle zásadou se Robert řídil ve svojí akademické práci a vštěpoval ji i studentům. Vzpomněl si na jeden seminář symbologie v minulém semestru.
 
   
 
-„Nejdůležitější je správná perspektiva,“ řekl studentům tenkrát.
+> „Nejdůležitější je správná perspektiva,“ řekl studentům tenkrát.
 
   
 
-Teď procházel obrovským prostorem chrámu a nestačil se divit, kolik symbolů z byzantských mozaik k němu najednou mluvilo zcela srozumitelnou řečí, když věděl, _na co_ se má dívat. Ježíš měl tak smutný výraz, že nebylo pochyb, že ví o pravém původu křesťanství. Na jiné mozaice malý Ježíš držel v ruce předmět, ve kterém až dodnes všichni viděli svitek pergamenu, ale klidně to mohlo být i ovládací zařízení kosmické lodě. A to, co měli svatí nad hlavami, sice mohly být svatozáře, ale taky třeba helmy astronautů nebo elektromagnetické vlnění. Archanděl Gabriel měl v ruce glób na znamení, že „synové božští“ přišli z jiné planety.
+> Teď procházel obrovským prostorem chrámu a nestačil se divit, kolik symbolů z byzantských mozaik k němu najednou mluvilo zcela srozumitelnou řečí, když věděl, _na co_ se má dívat. Ježíš měl tak smutný výraz, že nebylo pochyb, že ví o pravém původu křesťanství. Na jiné mozaice malý Ježíš držel v ruce předmět, ve kterém až dodnes všichni viděli svitek pergamenu, ale klidně to mohlo být i ovládací zařízení kosmické lodě. A to, co měli svatí nad hlavami, sice mohly být svatozáře, ale taky třeba helmy astronautů nebo elektromagnetické vlnění. Archanděl Gabriel měl v ruce glób na znamení, že „synové božští“ přišli z jiné planety.
 
 > Ale nejvelkolepější symbol byl přímo nad Robertovou hlavou. Na klenutém stropě hlavního dómu se rozkládala obrovská mozaika symbolizující vesmír. V rozích kupole byli čtyři božští synové, abstraktní postavy bez tváří, vlastně jakési shluky přibližujících se křídel. V podmanivé perspektivě jako by čtveřice sestupovala z nebeské klenby na zem. Uprostřed mozaiky zářila hvězda, jejíž tvar byl stejně abstraktní a neuchopitelný. V tomto dómu, tedy pod „dohledem“ božských synů, se nechávali korunovat byzantští císaři. Mohla to být náhoda?
 
@@ -538,13 +517,11 @@ Nadčlověk!
 
 ### XI.
 
-  
-
 Velmistr si oblékl jednoduchou řízu, jakou všichni Probudilí nosili na slavnostní mše. Konečně se dočkal. Této noci dojde ke spojení protikladů, svatý had pozře svůj ocas, minulost si podá ruku s budoucností, nebe se zemí, jeho vlastní život s životem celého lidstva, v jediné vteřině se odehraje věčnost. Sešel do krypty, aby do půlnoci stihl všechno připravit.
 
   
 
-Robert s Ipek utíkali temným Istanbulem. Náměstí Sultána Ahmeda bylo skoro prázdné, noční život probíhal v moderní části města. Reprodukovaný zpěv muezzinů dnes naposled svolával k modlitbě.
+> Robert s Ipek utíkali temným Istanbulem. Náměstí Sultána Ahmeda bylo skoro prázdné, noční život probíhal v moderní části města. Reprodukovaný zpěv muezzinů dnes naposled svolával k modlitbě.
 
 > „Schováme se v mešitě!“ vyhrkla Ipek. „Je tam hodně lidí, tam si nedovolí střílet.“
 
@@ -594,8 +571,6 @@ Robert s Ipek utíkali temným Istanbulem. Náměstí Sultána Ahmeda bylo skor
 
 ### XII.
 
-  
-
 Stoupali po schůdcích až do chodby, která vedla nad Justiniánovou nádrží, ale pořád pod povrchem země. Robert posvítil baterkou na stěnu chodby – byla tam v kameni vyryta spirála.
 
 > „Jak… jak jste to udělal, tam dole?“ koktala Ipek.
@@ -615,8 +590,6 @@ Stoupali po schůdcích až do chodby, která vedla nad Justiniánovou nádrží
 > „To hned zjistíme.“
 
 ### XIII.
-
-  
 
 V labyrintu chodeb sledovali znamení spirály, a to je dovedlo až do rozlehlé krypty, ozářené zvláštním světlem. Zhasli baterky a s úžasem sledovali původ podivné záře. Bylo to neskutečné. Nadskutečné. V kryptě stály nekonečné řady světélkujících skleněných válců a v každém z nich byl člověk. Robert i Ipek stáli s otevřenými ústy a nemohli uvěřit svým očím.
 
@@ -672,8 +645,6 @@ V labyrintu chodeb sledovali znamení spirály, a to je dovedlo až do rozlehl
 
 ### XIV.
 
-  
-
 Vtom nad sebou ucítili slabé dunění. Polekaně vzhlédli.
 
 > „Mám strach, Roberte,“ Ipek se k němu přitiskla.
@@ -718,13 +689,11 @@ Vtom nad sebou ucítili slabé dunění. Polekaně vzhlédli.
 
 ### XV.
 
-  
-
 Něco takového Nemo nikdy nezažil a cítil, že to je zároveň poslední věc, kterou mu život přinesl. Všichni Probudilí na něj upřeli zrak, nic víc. Slyšel o tom, že kolektivní vědomí dokáže přenášet myšlenku, ale netušil, že může přenášet i smrt. Zatočila se mu hlava a zvedl žaludek. Namířil do davu revolver, ale prsty jako by mu zchromly. Připadal si opilý, kýval se na ochozu sem a tam. Z očí mu vytryskly slzy. „Nejsem Nikdo! Nevidím Boha!“ zavyl, než sletěl dolů a rozrazil si lebku na kamenné podlaze.
 
   
 
-Ipek ani neotevřela oči, jen její chvějící se rty prozrazovaly, že ještě žije. Probudilí obrátili oči k paprsku uprostřed dómu. Robert cítil, že probíhá intenzivní komunikace mezi oběma světy. Nechápal, jak je to možné, nedokázal teď přemýšlet, před očima měl jenom Ipečinu bledou tvář a její krev, stékající velmistrovi po říze.
+> Ipek ani neotevřela oči, jen její chvějící se rty prozrazovaly, že ještě žije. Probudilí obrátili oči k paprsku uprostřed dómu. Robert cítil, že probíhá intenzivní komunikace mezi oběma světy. Nechápal, jak je to možné, nedokázal teď přemýšlet, před očima měl jenom Ipečinu bledou tvář a její krev, stékající velmistrovi po říze.
 
 > Vtom se v paprsku objevil prázdný válec. Velmistr s Ipek v náručí vstoupil do silového pole a svoji dceru tam nechal. Robert cítil intenzivní energii, vycházející ze spojení myslí všech přítomných. Za chvíli Ipek vstala a snědá barva se jí vrátila do obličeje.
 
@@ -734,7 +703,7 @@ Ipek ani neotevřela oči, jen její chvějící se rty prozrazovaly, že ješt�
 
   
 
-„Děkuji vám, pane Langdone, že jste moji dceru provázel na cestě poznání,“ obrátil se velmistr k Robertovi. „Muže doprovází žena, ale když jde o _poutnici_, doprovází ji muž.“
+> „Děkuji vám, pane Langdone, že jste moji dceru provázel na cestě poznání,“ obrátil se velmistr k Robertovi. „Muže doprovází žena, ale když jde o _poutnici_, doprovází ji muž.“
 
 > „Rozumím, principy ženství a mužství musejí zůstat v rovnováze,“ přikývl Robert. „Napsal jsem o tom knížku.“
 
@@ -746,7 +715,7 @@ Ipek ani neotevřela oči, jen její chvějící se rty prozrazovaly, že ješt�
 
   
 
-Teprve teď se Robert pořádně rozhlédl po sboru Probudilých. Zahlédl prezidenty a členy královských rodin, několik kolegů ze světových univerzit, významné spisovatele… a mezi nimi… Robert myslel, že ho šálí zrak. Mezi nimi stál Dan Brown.
+> Teprve teď se Robert pořádně rozhlédl po sboru Probudilých. Zahlédl prezidenty a členy královských rodin, několik kolegů ze světových univerzit, významné spisovatele… a mezi nimi… Robert myslel, že ho šálí zrak. Mezi nimi stál Dan Brown.
 
 > Robert se k němu vrhl a radostně mu potřásl rukou.
 
@@ -770,7 +739,7 @@ Teprve teď se Robert pořádně rozhlédl po sboru Probudilých. Zahlédl prezi
 
   
 
-Robert přistoupil k Ipek. Silové pole ho příjemně hladilo po celém těle.
+> Robert přistoupil k Ipek. Silové pole ho příjemně hladilo po celém těle.
 
 > „Děkuju za všechno, Roberte,“ řekla. „Až někdy budeš v Istanbulu, přijeď se na mě podívat. Jak se za mnou dostat, víš. Půjdeš do podzemní nádrže a strčíš prsty do –“
 
@@ -786,4 +755,4 @@ Robert přistoupil k Ipek. Silové pole ho příjemně hladilo po celém těle.
 
   
 
-Robert se rozloučil s Probudilými a vyšel z chrámu ven do vlahého istanbulského rána. Rackové, probuzení zpěvem muezzinů, se zvedli ze střech domů a zakroužili nad prvními rybáři na Galatském mostě. Na obloze zářil obrovský kříž z hvězd a planet.
+> Robert se rozloučil s Probudilými a vyšel z chrámu ven do vlahého istanbulského rána. Rackové, probuzení zpěvem muezzinů, se zvedli ze střech domů a zakroužili nad prvními rybáři na Galatském mostě. Na obloze zářil obrovský kříž z hvězd a planet.

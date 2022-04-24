@@ -1,7 +1,7 @@
 {
   "author": "Štěpán Kučera",
   "contenttype": "prose",
-  "identifier": "kucera-jidas-byl-ufon-76be19d",
+  "identifier": "kucera-jidas-byl-ufon-671aeea",
   "isbn": "978-80-7227-377-5",
   "languagecode": "cs",
   "modified": "2021-10-06T00:00:00.000Z",
@@ -10,10 +10,10 @@
   "subtitle": "... a jiné příběhy",
   "title": "Jidáš byl ufon",
   "yearpublished": "2016",
-  "revision": "76be19d",
+  "revision": "671aeea",
   "generatedAt": {
-    "date": "Sun Apr 24 2022 22:56:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650840969851
+    "date": "Sun Apr 24 2022 23:13:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650842010895
   },
   "documents": [
     {
@@ -39,9 +39,9 @@
     {
       "title": "Jidáš byl ufon • Jidáš byl ufon",
       "file": "jidas_byl_ufon_005.html",
-      "words": 8924,
-      "chars": 55882,
-      "ideas": 354,
+      "words": 8923,
+      "chars": 55880,
+      "ideas": 353,
       "role": "chapter",
       "order": 1,
       "prev": "jidas_byl_ufon_002.html",
@@ -59,9 +59,9 @@
     {
       "title": "Kuklův klan • Jidáš byl ufon",
       "file": "jidas_byl_ufon_006.html",
-      "words": 12114,
-      "chars": 73748,
-      "ideas": 472,
+      "words": 12113,
+      "chars": 73746,
+      "ideas": 471,
       "role": "chapter",
       "order": 2,
       "prev": "jidas_byl_ufon_005.html",
@@ -99,9 +99,9 @@
     {
       "title": "Marie Laveau Superstar • Jidáš byl ufon",
       "file": "jidas_byl_ufon_008.html",
-      "words": 6726,
-      "chars": 41349,
-      "ideas": 229,
+      "words": 6725,
+      "chars": 41347,
+      "ideas": 228,
       "role": "chapter",
       "order": 4,
       "prev": "jidas_byl_ufon_007.html",
@@ -139,9 +139,9 @@
     {
       "title": "Ďáblův doktor a mrtvý wallaby • Jidáš byl ufon",
       "file": "jidas_byl_ufon_010.html",
-      "words": 10257,
-      "chars": 61987,
-      "ideas": 379,
+      "words": 10256,
+      "chars": 61982,
+      "ideas": 378,
       "role": "chapter",
       "order": 6,
       "prev": "jidas_byl_ufon_009.html",
@@ -199,14 +199,14 @@
   ],
   "totals": {
     "all": {
-      "words": 52898,
-      "chars": 324048,
-      "ideas": 1983
+      "words": 52894,
+      "chars": 324037,
+      "ideas": 1979
     },
     "chapters": {
-      "words": 52726,
-      "chars": 322982,
-      "ideas": 1955
+      "words": 52722,
+      "chars": 322971,
+      "ideas": 1951
     }
   }
 }

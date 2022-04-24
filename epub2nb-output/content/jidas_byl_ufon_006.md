@@ -1,13 +1,10 @@
 ---
 title: Kuklův klan
+subtitle: I.
 contentType: prose
 ---
 
 (dobrodružné romaneto)
-
-### I.
-
-  
 
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, četl obtahy příštího vydání literární přílohy, kterou vedl, a vpisoval do článků korekturní značky. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
@@ -41,9 +38,7 @@ Zdeněk seděl u Ducha, před sebou dvojku rulandského, četl obtahy příšt�
 
 > „Tak platí.“
 
-\* \* \*
-
-  
+> \* \* \*
 
 Ten e-mail Marek dostal asi týden po tom, co jeho článek vyšel.
 
@@ -55,11 +50,11 @@ Dobrý den… Marku! S radostným rozechvěním jsem si přečetla Váš člán
 
   
 
-Marek dojedl smažené nudle a napustil do pánve vodu. Připečené těstoviny se částečně odlepily ode dna a rozvlnily se v kalné vodě jak vlasy mořských sasanek. Marek je chvíli okouzleně pozoroval a zalitoval, že nechal uschnout svoji jedinou květinu, zděděnou po předchozím nájemníkovi. Když se nudle přestaly hýbat, odvrátil se od dřezu a šel zkontrolovat nové příspěvky na svých oblíbených pornostránkách. S blížící se třicítkou bylo čím dál náročnější na výročních třídních srazech vyvolávat dojem, že si takový život vybral a má ho rád.
+> Marek dojedl smažené nudle a napustil do pánve vodu. Připečené těstoviny se částečně odlepily ode dna a rozvlnily se v kalné vodě jak vlasy mořských sasanek. Marek je chvíli okouzleně pozoroval a zalitoval, že nechal uschnout svoji jedinou květinu, zděděnou po předchozím nájemníkovi. Když se nudle přestaly hýbat, odvrátil se od dřezu a šel zkontrolovat nové příspěvky na svých oblíbených pornostránkách. S blížící se třicítkou bylo čím dál náročnější na výročních třídních srazech vyvolávat dojem, že si takový život vybral a má ho rád.
 
   
 
-Přespříští den Marek usedl v doktorandském kabinetu a připadal si jako napodobenina detektiva Phila Marlowa čekajícího na velký případ; jen nikde v místnosti z přetékajícího popelníku nestoupal cigaretový dým, protože celá budova byla nekuřácká, a místo unaveného větráku u stropu hučela v místnosti klimatizace; ostatně ani důchodkyně Mája neslibovala být chandlerovskou femme fatale.
+> Přespříští den Marek usedl v doktorandském kabinetu a připadal si jako napodobenina detektiva Phila Marlowa čekajícího na velký případ; jen nikde v místnosti z přetékajícího popelníku nestoupal cigaretový dým, protože celá budova byla nekuřácká, a místo unaveného větráku u stropu hučela v místnosti klimatizace; ostatně ani důchodkyně Mája neslibovala být chandlerovskou femme fatale.
 
 > Doktorandský kabinet byla malá místnost ve fakultním podkroví, takže když otevřela dveře mladá žena, vysvětlil jí Marek, že učebny jsou o patro níž.
 
@@ -79,13 +74,13 @@ Přespříští den Marek usedl v doktorandském kabinetu a připadal si jako 
 
   
 
-Než se Mája stačila nadechnout, vkročil do kabinetu profesor Hrobařík. „Marku, hledám kolegu Hníka…,“ řekl, než se jeho pohled srazil s Májiným. „Promiňte, přijdu jindy, stejně tu není, že.“ A zavřel za sebou dveře.
+> Než se Mája stačila nadechnout, vkročil do kabinetu profesor Hrobařík. „Marku, hledám kolegu Hníka…,“ řekl, než se jeho pohled srazil s Májiným. „Promiňte, přijdu jindy, stejně tu není, že.“ A zavřel za sebou dveře.
 
 > „To byl profesor Hrobařík, naše kapacita na přelom devatenáctýho a dvacátýho století, možná bych ho moh zavolat, ať…“ Marek zachytil, že si Mája stiskla žiletku na krku, až to zabolelo. Zhluboka dýchala. Nakonec řekla, jako by ho neslyšela: „Tady se nedá mluvit. Nechtěl byste se projít?“
 
   
 
-Venku se šeřilo a vzduchem poletovaly sněhové vločky. Marek s Májou prošli přecpanou Národní třídou a pak po Smetanově nábřeží, které v podvečerní zácpě připomínalo dlouhé začouzené parkoviště, směrem ke Starému Městu. Povídali si o Praze. Mája ukázala do parčíku na kašnu, tyčící se z trávníku jako věž katedrály, s jezdeckou sochou císaře Františka uprostřed.
+> Venku se šeřilo a vzduchem poletovaly sněhové vločky. Marek s Májou prošli přecpanou Národní třídou a pak po Smetanově nábřeží, které v podvečerní zácpě připomínalo dlouhé začouzené parkoviště, směrem ke Starému Městu. Povídali si o Praze. Mája ukázala do parčíku na kašnu, tyčící se z trávníku jako věž katedrály, s jezdeckou sochou císaře Františka uprostřed.
 
 > „Víte, že šachta, kterou napájej tady Krannerovu kašnu, vede do podzemní chodby, a ta jde až támhle do Divadelní ulice?“
 
@@ -125,7 +120,7 @@ Venku se šeřilo a vzduchem poletovaly sněhové vločky. Marek s Májou pro�
 
   
 
-Zabočili do Kozí ulice. Její reliéf ukazoval tíhu času – jak se povrch města během staletí zdvihal, byly teď staré domy na jedné straně ulice až o dva metry níž než nové budovy na straně druhé. Tenhle střet dvou časů v jednom místě Markovi připomněl i další, nejhloub zasutý čas v pražském podzemí, kde několik metrů pod dnešními chodníky vedou stezky ještě z románských dob. Tak jako na začátku procházky si Marek vzpomněl na Kuklovo psaní o bludištích chodeb pod Prahou.
+> Zabočili do Kozí ulice. Její reliéf ukazoval tíhu času – jak se povrch města během staletí zdvihal, byly teď staré domy na jedné straně ulice až o dva metry níž než nové budovy na straně druhé. Tenhle střet dvou časů v jednom místě Markovi připomněl i další, nejhloub zasutý čas v pražském podzemí, kde několik metrů pod dnešními chodníky vedou stezky ještě z románských dob. Tak jako na začátku procházky si Marek vzpomněl na Kuklovo psaní o bludištích chodeb pod Prahou.
 
 > Po vyvýšeném chodníku došli až k pivnici U Milosrdných. Byla to jedna z těch hospod, odkud ještě dneska může být host vyhozen, když při příchodu uctivě nepozdraví.
 
@@ -199,9 +194,11 @@ Zabočili do Kozí ulice. Její reliéf ukazoval tíhu času – jak se povrch 
 
   
 
-Večer, zpátky ve svojí garsonce, připustil vodu do pánve, aby se mořská květina na jejím dně zase rozvlnila, ale kalný podvodní svět už mu nepřišel tolik poetický jako včera, tak ho seškrábal drátěnkou.
+> Večer, zpátky ve svojí garsonce, připustil vodu do pánve, aby se mořská květina na jejím dně zase rozvlnila, ale kalný podvodní svět už mu nepřišel tolik poetický jako včera, tak ho seškrábal drátěnkou.
 
 ### II.
+
+  
 
 V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel.
 
@@ -223,7 +220,7 @@ V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do �
 
   
 
-V sobotu bylo mrazivo a krásně a Mája s červenými tvářemi, širokým úsměvem a plátěným batohem přiběhla Na Knížecí minutu před odjezdem autobusu.
+> V sobotu bylo mrazivo a krásně a Mája s červenými tvářemi, širokým úsměvem a plátěným batohem přiběhla Na Knížecí minutu před odjezdem autobusu.
 
 > „Jak se těšíte na vejlet?“ oplatil jí úsměv Marek, protože z něj rázem spadl neklid.
 
@@ -239,7 +236,7 @@ V sobotu bylo mrazivo a krásně a Mája s červenými tvářemi, širokým 
 
   
 
-Na autobusovém nádraží je přivítala velká reklama na sedlčanské sýry. Svépomocí pak našli náměstí a s pomocí místních i knihovnu. Byla to šedivá panelová budova, ale uvnitř plná barev; ve vestibulu je vítala výstava místního fotoklubu, schodiště lemovaly výkresy z výtvarné soutěže dětí a program na nástěnce sliboval různorodé akce od výletu na hrad Zvěřinec přes přednášku o Srí Lance až po slavnostní odhalení pamětní desky K. L. Kukly.
+> Na autobusovém nádraží je přivítala velká reklama na sedlčanské sýry. Svépomocí pak našli náměstí a s pomocí místních i knihovnu. Byla to šedivá panelová budova, ale uvnitř plná barev; ve vestibulu je vítala výstava místního fotoklubu, schodiště lemovaly výkresy z výtvarné soutěže dětí a program na nástěnce sliboval různorodé akce od výletu na hrad Zvěřinec přes přednášku o Srí Lance až po slavnostní odhalení pamětní desky K. L. Kukly.
 
 > „Škoda že vám to odhalení uteklo, naši ochotníci tam sehráli Kuklovu jednoaktovku,“ přivítala je Vladana. Byla stejně krásná jako Mája a Markovi najednou připadalo neskutečné, kolik času dokázal předtím strávit v monogamním vztahu se svojí disertační prací. To všechno bylo najednou pryč. Překvapilo ho, že Vladana je zhruba stejný ročník jako on nebo Mája, a přitom se tak vášnivě zajímá o sto let mrtvého spisovatele, kterého jeho doba zatratila, nemluvě o době naší, která už si ani nevzpomněla. Vlastně na tom všichni tři byli stejně. Mája s Vladanou si vyměnily opatrný, nedůvěřivý pohled.
 
@@ -297,7 +294,7 @@ Na autobusovém nádraží je přivítala velká reklama na sedlčanské sýry. 
 
   
 
-Venku se stmívalo a v ulicích ožívaly lucerny. Marek s Májou vyšli z knihovny a zamířili zpátky k náměstí, kde měli podle Vladaniných instrukcí najít Kuklovu pamětní desku. Bílý jehlan věže svatomartinského kostela čněl nad paneláky a svítil do šera, z hospody Na Vyšehradě voněla do mrazu zelňačka.
+> Venku se stmívalo a v ulicích ožívaly lucerny. Marek s Májou vyšli z knihovny a zamířili zpátky k náměstí, kde měli podle Vladaniných instrukcí najít Kuklovu pamětní desku. Bílý jehlan věže svatomartinského kostela čněl nad paneláky a svítil do šera, z hospody Na Vyšehradě voněla do mrazu zelňačka.
 
 > Po chvíli bezradného ticha Marek vyhrkl: „Proč si řikáš Mája? Jmenuješ se Marie, ne?“
 
@@ -325,7 +322,7 @@ Venku se stmívalo a v ulicích ožívaly lucerny. Marek s Májou vyšli z k
 
   
 
-Toho dne už se do Prahy nevrátili. Marek, kterého hřál na účtu honorář od Zdeňka, navrhl, aby strávili noc v místním hotelu, ale nakonec našli levnější penzion pár kroků od náměstí.
+> Toho dne už se do Prahy nevrátili. Marek, kterého hřál na účtu honorář od Zdeňka, navrhl, aby strávili noc v místním hotelu, ale nakonec našli levnější penzion pár kroků od náměstí.
 
 > Postele v jejich pokoji byly přiražené každá k jiné zdi.
 
@@ -336,8 +333,6 @@ Toho dne už se do Prahy nevrátili. Marek, kterého hřál na účtu honorář 
 > A jak řekla, tak udělali.
 
 ### III.
-
-  
 
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, a recenzoval román. Zběžně přečetl první a poslední stránku, pak knihou zalistoval a na náhodně zvoleném místě zaškrtl dvě pasáže, které ve svém článku hodlal citovat. Takhle šlo zpracovat několikasetstránkovou knihu za půl hodiny.
 
@@ -383,9 +378,7 @@ Zdeněk seděl u Ducha, před sebou dvojku rulandského, a recenzoval román. 
 
 > „Tak patnácet, no.“
 
-\* \* \*
-
-  
+> \* \* \*
 
 Marek otevřel dveře svojí garsonky. Pokojem se linula vůně smažené zeleniny a píseň _Me and Bobby McGee_. Mája tančila u kuchyňské linky a zasypávala pánev kořením.
 
@@ -397,7 +390,7 @@ Marek otevřel dveře svojí garsonky. Pokojem se linula vůně smažené zeleni
 
   
 
-„Proč tu nikdy nezůstaneš přes noc?“ zeptal se potom.
+> „Proč tu nikdy nezůstaneš přes noc?“ zeptal se potom.
 
 > „Protože jsem vampýr,“ ušklíbla se a kousla ho do krku.
 
@@ -421,7 +414,7 @@ Marek otevřel dveře svojí garsonky. Pokojem se linula vůně smažené zeleni
 
   
 
-Zahlédl ji, akorát když vcházela do pasáže vedoucí k Národní třídě. Běžel za ní a uviděl ji znovu na rohu ulice, jak zahýbá na nábřeží kolem kavárny Slavia. Rychle vzpomínal na přečtené detektivky, ale v houštině proudících lidí žádné krycí manévry stejně nepotřeboval. Nastoupila do sedmnáctky a Marek jen taktak stačil naskočit do druhého vozu. Vždycky když tramvaj zastavila, přilepil obličej na sklo a sledoval, kdo vystupuje. Dočkal se v Kobylisích, kde Mája opustila tramvaj a zamířila k autobusové zastávce. Marek vyrazil za ní, připravený kdykoli schovat obličej za deník _Metro_, který sebral prve v tramvaji. Do autobusu vstoupila zadními dveřmi, takže Marek oběhl chumel nastupujících, aby se dovnitř dostal předními.
+> Zahlédl ji, akorát když vcházela do pasáže vedoucí k Národní třídě. Běžel za ní a uviděl ji znovu na rohu ulice, jak zahýbá na nábřeží kolem kavárny Slavia. Rychle vzpomínal na přečtené detektivky, ale v houštině proudících lidí žádné krycí manévry stejně nepotřeboval. Nastoupila do sedmnáctky a Marek jen taktak stačil naskočit do druhého vozu. Vždycky když tramvaj zastavila, přilepil obličej na sklo a sledoval, kdo vystupuje. Dočkal se v Kobylisích, kde Mája opustila tramvaj a zamířila k autobusové zastávce. Marek vyrazil za ní, připravený kdykoli schovat obličej za deník _Metro_, který sebral prve v tramvaji. Do autobusu vstoupila zadními dveřmi, takže Marek oběhl chumel nastupujících, aby se dovnitř dostal předními.
 
 > Na zastávce Odra Mája vystoupila, Marek za ní. Prošli sídlištěm, a ještě než se nad paneláky vynořila věž bohnického kostela, pochopil, kam mají namířeno. Dohnal ji před branou léčebny. Chytil ji za rukáv a otočil k sobě.
 
@@ -445,9 +438,7 @@ Zahlédl ji, akorát když vcházela do pasáže vedoucí k Národní třídě.
 
 > Doklopýtala až k obryni v bílém. Ta si nevzrušeně prohlédla její ránu na předloktí a poslala ji do budovy. Potom zahodila světlušku cigarety, věnovala Markovi poslední pohled a zavřela za sebou dveře. Marek stál na trávníku před vysloužilým komínem, v kůži otisky Májiných zubů, a byla mu tma a zima.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Kukla v dopise žádal rodinu, aby jeho deník opatrovala a v pravý čas s ním vyšla na světlo. Přitom deník někam ukryl – a kdyby ho schoval v domě, pozůstalí by ho jistě snadno objevili. Co tedy zbývá?
 
@@ -461,7 +452,7 @@ Kukla v dopise žádal rodinu, aby jeho deník opatrovala a v pravý čas s 
 
   
 
-Začal ji do Bohnic doprovázet a podnikali spolu dlouhé procházky po okolí léčebny, Bohnickým údolím přes osadu Zámky k Vltavě, a těšili se na jaro, až začnou řekou jezdit přívozy. O víkendech pacienti směli opustit léčebnu i přes noc, takže Mája se na soboty a neděle stěhovala do Markovy garsonky. Dokonce mu začala odpovídat na otázky; na všechny kromě těch, které se týkaly její rodiny.
+> Začal ji do Bohnic doprovázet a podnikali spolu dlouhé procházky po okolí léčebny, Bohnickým údolím přes osadu Zámky k Vltavě, a těšili se na jaro, až začnou řekou jezdit přívozy. O víkendech pacienti směli opustit léčebnu i přes noc, takže Mája se na soboty a neděle stěhovala do Markovy garsonky. Dokonce mu začala odpovídat na otázky; na všechny kromě těch, které se týkaly její rodiny.
 
 > „Proč nosíš na krku tu žiletku?“ zeptal se při její první víkendové návštěvě.
 
@@ -497,7 +488,7 @@ Začal ji do Bohnic doprovázet a podnikali spolu dlouhé procházky po okolí 
 
   
 
-Marek vypátral inženýra Vějíře, pražského speleologa, kterého kdysi do tajemství podzemní Prahy zasvěcoval jistý kněz, a toho zase coby malého kluka ve 20. letech pražským podzemím prováděl sám Kukla.
+> Marek vypátral inženýra Vějíře, pražského speleologa, kterého kdysi do tajemství podzemní Prahy zasvěcoval jistý kněz, a toho zase coby malého kluka ve 20. letech pražským podzemím prováděl sám Kukla.
 
 > Inženýr Vějíř v kanceláři svojí agentury „pro poznání Země“ Markovi vyprávěl, jak ho koncem 60. let starý páter zavedl do katakomb pod kostelem Panny Marie Vítězné a jak tam tehdy coby začínající speleolog uviděl podzemní hřbitov ze 17. a 18. století, přesně jak to předtím četl v Kuklově _Podzemní Praze_: _Z největší části jsou rakve otevřeny a mrtvoly v nich tak zachovány, že v tvářích mnohých mužů, žen i dětí rozeznáváme dosud zřetelně podobu, rysy i výraz obličeje_…
 
@@ -551,7 +542,7 @@ Nemohu ani oka zamhouřiti… na prsou cítím tíhu ze samého napětí… hned
 
   
 
-Tímto zápisem Marek skončil a osudné události 24. října 1930 už nechal na čtenářčině představivosti (nechtěl být jako Jan Tleskač, který si do deníku stihl poznamenat i to, že jeho vrah už za ním stoupá nahoru do zvonice a lucerna mu málo svítí). Teď jen zbývalo ten soubor wordových stránek, zachycující Markovu představu posledních měsíců života K. L. Kukly, přepsat do věrohodně působícího sešitu, a to písmem co nejvíc podobným Kuklovu.
+> Tímto zápisem Marek skončil a osudné události 24. října 1930 už nechal na čtenářčině představivosti (nechtěl být jako Jan Tleskač, který si do deníku stihl poznamenat i to, že jeho vrah už za ním stoupá nahoru do zvonice a lucerna mu málo svítí). Teď jen zbývalo ten soubor wordových stránek, zachycující Markovu představu posledních měsíců života K. L. Kukly, přepsat do věrohodně působícího sešitu, a to písmem co nejvíc podobným Kuklovu.
 
 > Marek si sjednal další schůzku v Sedlčanech, tentokrát bez Májina doprovodu. Potřeboval od knihovnice Vladany získat nějaký Kuklův vlastnoručně psaný text, který se pak pokusí napodobit.
 
@@ -559,7 +550,7 @@ Tímto zápisem Marek skončil a osudné události 24. října 1930 už nechal 
 
   
 
-„K čemu to vlastně potřebujete?“ zeptala se Vladana, když se Marek usadil na pohovku v knihovnické kanceláři a ona mu kopírovala Kuklův dopis Kovařovicovi.
+> „K čemu to vlastně potřebujete?“ zeptala se Vladana, když se Marek usadil na pohovku v knihovnické kanceláři a ona mu kopírovala Kuklův dopis Kovařovicovi.
 
 > „Chci zfingovat Kuklův deník, je to něco jako terapie pro moji bláznivou holku,“ měl Marek říct a asi by sám vypadal trochu jako blázen, ale aspoň by se všechno hned vysvětlilo. Místo toho rozverně odpověděl: „Myslim, že stojim před objevem Kuklova neznámýho díla, podle toho dopisu chci ověřit, že ho napsal opravdu on.“
 
@@ -587,9 +578,7 @@ Tímto zápisem Marek skončil a osudné události 24. října 1930 už nechal 
 
 > „Ten deník chci,“ řekla ještě trochu zadýchaně, když si pak zapínala košili.
 
-\* \* \*
-
-  
+> \* \* \*
 
 V jednom pražském vetešnictví, kde se podle vývěsního štítu zastavil čas v roce 1920, Marek koupil zpuchřelý sešit a přepsal do něj celý deník rukopisným stylem, který nacvičil podle dopisu Kovařovicovi. Nebylo to tak těžké, Kukla měl úhledné, drobné písmo, z nějž jenom iniciály vyčnívaly určitou rozmáchlostí. Hotové dílo následně vložil do zrezivělé plechovky od kávy, kterou sehnal v tomtéž vetešnictví; představoval si, že tak nějak by mohl sešit odolat nepříznivému klimatu v podzemí.
 
@@ -598,8 +587,6 @@ V jednom pražském vetešnictví, kde se podle vývěsního štítu zastavil �
 > Potom Marek namluvil inženýru Vějířovi, že píše odbornou studii o vztahu K. L. Kukly ke skutečné podzemní Praze, vymámil z něj klíč od vchodu do šachty v Divadelní ulici a nechal si udělat jeho kopii. Jednou v noci, kdy i u Ducha zhaslo světlo a poslední noční ptáci odlétli do nonstopek na Novém Městě, sestoupil pod Krannerovu kašnu a vsunul plechovku s deníkem do jedné z větracích šachet.
 
 ### V.
-
-  
 
 Zdeněk seděl na baru, před sebou dvojku rulandského a papír, v ruce tužku.
 
@@ -651,9 +638,7 @@ Zdeněk seděl na baru, před sebou dvojku rulandského a papír, v ruce tužk
 
 > „Tak jdem na to?“ řekl, když mu natočila nového kozla.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Marek cítil, že potřebuje o Kuklovi vědět víc, než sám dokáže vypátrat, proto jednoho dne zaklepal na dveře profesora Hrobaříka. Jeho pracovna připomínala archiv Národní knihovny, stěny byly od podlahy ke stropu zarovnané starými knihami, které vydávaly lehce omamný pach. Jenom pod oknem stálo místo knih kanape, kde Hrobařík sváděl studentky. Marek si vzpomněl, jak na židli, kam ho dnes profesor usadil, dělal před lety přijímací zkoušku. Tenkrát proti němu seděl Hrobařík, děkan fakulty a stará široká paní, která po celou dobu nepromluvila ani slovo a o níž se později dozvěděl, že bývala milenkou kritika Václava Černého. Tehdy v Hrobaříkově kabinetu, s pohledem upřeným na knihy a na kanape, si Marek umínil, že bude literárním vědcem.
 
@@ -703,15 +688,15 @@ Marek cítil, že potřebuje o Kuklovi vědět víc, než sám dokáže vypátr
 
   
 
-Marek věděl, že o rozhovoru s Hrobaříkem se před Májou nesmí zmínit, depresemi a sebepoškozováním odpovídala i na mnohem menší rozrušení. S profesorovými závěry se očividně odmítala smířit, jinak by Marka nežádala o pomoc. Marek Hrobaříkově verzi věřil, ale tím spíš bylo nutné pokračovat v pátrání, které Máje dodávalo potřebný optimismus a vyhlídku jakéhosi hlubšího smyslu. Májina nemoc se podle jejích vlastních slov nedá úplně vyléčit, ale Marek věřil, že hledání Kuklova deníku – nebo jakákoli jiná činnost, která by ji naplňovala – jí může přinést aspoň úlevu. A posílit závislost na Markovi, pochopitelně. Nejlepší by bylo prozkoumávat pražské podzemí; začít třeba petřínskými štolami a skončit klidně jeskyněmi za Prahou, tím můžou strávit přinejmenším rok. A kdyby Máje začala docházet trpělivost, vytáhl by Marek svůj trumf – za­vedl by ji do chodby pod Krannerovou kašnou a udělal z ní objevitelku Kuklova literárního kšaftu.
+> Marek věděl, že o rozhovoru s Hrobaříkem se před Májou nesmí zmínit, depresemi a sebepoškozováním odpovídala i na mnohem menší rozrušení. S profesorovými závěry se očividně odmítala smířit, jinak by Marka nežádala o pomoc. Marek Hrobaříkově verzi věřil, ale tím spíš bylo nutné pokračovat v pátrání, které Máje dodávalo potřebný optimismus a vyhlídku jakéhosi hlubšího smyslu. Májina nemoc se podle jejích vlastních slov nedá úplně vyléčit, ale Marek věřil, že hledání Kuklova deníku – nebo jakákoli jiná činnost, která by ji naplňovala – jí může přinést aspoň úlevu. A posílit závislost na Markovi, pochopitelně. Nejlepší by bylo prozkoumávat pražské podzemí; začít třeba petřínskými štolami a skončit klidně jeskyněmi za Prahou, tím můžou strávit přinejmenším rok. A kdyby Máje začala docházet trpělivost, vytáhl by Marek svůj trumf – za­vedl by ji do chodby pod Krannerovou kašnou a udělal z ní objevitelku Kuklova literárního kšaftu.
 
   
 
-Stalo se to ale dřív, než čekal.
+> Stalo se to ale dřív, než čekal.
 
   
 
-„Chci se milovat,“ sáhla mu jednou na poklopec, zatímco si volnou rukou otírala slzy.
+> „Chci se milovat,“ sáhla mu jednou na poklopec, zatímco si volnou rukou otírala slzy.
 
 > Marek souhlasil, i když původně myslel spíš na šukání.
 
@@ -741,7 +726,9 @@ Stalo se to ale dřív, než čekal.
 
 > Pochopil, že na prozkoumávání petřínských štol a jeskyň za Prahou není čas. Mája musí dostat Kuklův deník hned.
 
-\* \* \*
+> \* \* \*
+
+  
 
 … Byla půlnoc, čirá tma a krutý, třeskutý mráz…! V pražských ulicích bylo smutno a pusto. Poslední vagóny elektrických drah odjely do remíz, s okny zamrzlými až do běla. Sem tam mihl se člověk s ohrnutým límcem kabátu, lampář, zhasínající světla v ulici, nebo strážník, který přešlapuje a dýchá do zkřehlých rukou!
 
@@ -761,7 +748,7 @@ Jen v ozářených oknech nočních tančíren to víří a kypí… vzduch je
 
   
 
-Divadelní ulice vede souběžně se Smetanovým nábřežím, ale asi dva metry pod jeho úrovní, takže park, který je v sevření těchto dvou cest a v jehož středu se tyčí Krannerova kašna, musel být na „divadelní“ straně postaven na kamenném valu, aby zůstal s nábřežím v jedné rovině. Tak vznikl pod povrchem parku podzemní prostor, kam lze z Divadelní ulice poměrně pohodlně vstoupit.
+> Divadelní ulice vede souběžně se Smetanovým nábřežím, ale asi dva metry pod jeho úrovní, takže park, který je v sevření těchto dvou cest a v jehož středu se tyčí Krannerova kašna, musel být na „divadelní“ straně postaven na kamenném valu, aby zůstal s nábřežím v jedné rovině. Tak vznikl pod povrchem parku podzemní prostor, kam lze z Divadelní ulice poměrně pohodlně vstoupit.
 
 > Marek s Májou došli k zídce porostlé břečťanem, podpírající zadní část parku. Marek odemkl litinovou mříž a potom i malá dřevěná dvířka, v jejichž rozích si od jeho minulé návštěvy stihli pavouci znovu uplést sítě, aby vrátili vchodu do podzemí patřičnou atmosféru. Marek se opřel do dřeva, které se zaskřípěním povolilo, a ze šachty se vyřinula tma s mrazivým dechem městských útrob. Marek se naposledy rozhlédl po ulici, jestli je nesleduje nějaký zvědavec. Zazdálo se mu, že na rohu ulice se mihl povědomý stín, ale když zamrkal, aby z očí vyhnal mžitky ze srážky jarního slunce a ledové tmy, byla Divadelní už zase liduprázdná. Marek s Májou rozsvítili čelovky a po čtyřech, nohama napřed, se vsoukali do podzemní Prahy.
 
@@ -786,8 +773,6 @@ Divadelní ulice vede souběžně se Smetanovým nábřežím, ale asi dva metry
 > „Ten deník chci,“ řekl obrys hlasem knihovnice Vladany.
 
 ### VI.
-
-  
 
 Zdeněk seděl na baru, před sebou dvojku rulandského, četl obtahy příštího vydání a vpisoval do článků korekturní značky. Na třetí stránce byla otištěná ukázka z _Kuklova klanu_. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
@@ -823,9 +808,7 @@ Zdeněk seděl na baru, před sebou dvojku rulandského, četl obtahy příští
 
 > „Já zaplatim,“ řekl Marek. „Musim jít psát, teď je to napínavý.“
 
-\* \* \*
-
-  
+> \* \* \*
 
 Když si Marek zvykl na příliv bodavého světla, zjistil, že na ně Vladana míří puškou. Byla to stejná zbraň, kterou viděl u ní v kanceláři při první návštěvě Sedlčan. Vzpomněl si na zákon čechovovského dramatu, že když se v úvodu hry na scéně objeví puška, musí se z ní na konci hry vystřelit. Kéž by ho to napadlo dřív.
 
@@ -899,7 +882,7 @@ Když si Marek zvykl na příliv bodavého světla, zjistil, že na ně Vladana 
 
   
 
-Běželi, chodba se stáčela zpátky k Divadelní ulici a prostor kolem nich se začal měnit, vzdušnou a přesně vyrýsovanou šachtu z druhé poloviny 19. století nahrazovala užší, křivá chodbička s nepravidelně vsazenými opukovými kameny. Museli se předklonit, nakonec lezli skoro po čtyřech. Z dálky za sebou slyšeli Vladaniny výkřiky a občasné výstřely, zřejmě narážela na potkaní rodinky, rozrušené nenadálými otřesy.
+> Běželi, chodba se stáčela zpátky k Divadelní ulici a prostor kolem nich se začal měnit, vzdušnou a přesně vyrýsovanou šachtu z druhé poloviny 19. století nahrazovala užší, křivá chodbička s nepravidelně vsazenými opukovými kameny. Museli se předklonit, nakonec lezli skoro po čtyřech. Z dálky za sebou slyšeli Vladaniny výkřiky a občasné výstřely, zřejmě narážela na potkaní rodinky, rozrušené nenadálými otřesy.
 
 > „Neměli bysme jí jít pomoct nebo tak něco?“ řekl Marek zadýchaně.
 
@@ -923,7 +906,7 @@ Běželi, chodba se stáčela zpátky k Divadelní ulici a prostor kolem nich 
 
   
 
-Konečně se smršť přehnala a pražské útroby se začaly pomalu uklidňovat. Ozývalo se slábnoucí dunění, jako když odchází bouřka. Marek nejistě zvedl hlavu a rozkašlal se. Po rotundě vířil kamenný prach a vymlácenými okny se mísil s kouřem zvenčí. _S kouřem?_ překvapilo Marka. Mája taky vzhlédla. Leželi pod oltářem, který pochytal většinu letících kamenů, takže vyvázli jen s modřinami. Vedle nich na zemi ležel obraz _Zvěstování Páně_.
+> Konečně se smršť přehnala a pražské útroby se začaly pomalu uklidňovat. Ozývalo se slábnoucí dunění, jako když odchází bouřka. Marek nejistě zvedl hlavu a rozkašlal se. Po rotundě vířil kamenný prach a vymlácenými okny se mísil s kouřem zvenčí. _S kouřem?_ překvapilo Marka. Mája taky vzhlédla. Leželi pod oltářem, který pochytal většinu letících kamenů, takže vyvázli jen s modřinami. Vedle nich na zemi ležel obraz _Zvěstování Páně_.
 
 > „Ty jsi s ní spal, že jo,“ řekla Mája ve chvíli, kdy Marek řekl: „Ty sis to s tou nemocnou babičkou vymyslela.“
 
@@ -933,7 +916,7 @@ Konečně se smršť přehnala a pražské útroby se začaly pomalu uklidňova
 
   
 
-Venku je čekala druhá rána. Zírali na trosky města, na chodníky pokryté sklem z vytlučených oken a na mraky těžkého kouře, které neochotně klesaly na zem. Ve vzduchu byl cítit plyn. Zkáza se z podzemních chodeb rozšířila přes sklepy domů do celé Divadelní ulice. Otřesení chodci se potáceli pryč od místa výbuchu, někteří se drželi za hlavu. Kdosi mluvil o terorismu, a že prý to zasáhlo i Národní divadlo.
+> Venku je čekala druhá rána. Zírali na trosky města, na chodníky pokryté sklem z vytlučených oken a na mraky těžkého kouře, které neochotně klesaly na zem. Ve vzduchu byl cítit plyn. Zkáza se z podzemních chodeb rozšířila přes sklepy domů do celé Divadelní ulice. Otřesení chodci se potáceli pryč od místa výbuchu, někteří se drželi za hlavu. Kdosi mluvil o terorismu, a že prý to zasáhlo i Národní divadlo.
 
 > Opřeli se o ozdobný plůtek, navržený kdysi Josefem Mánesem, a připadali si jako v televizních záběrech z nějaké blízkovýchodní války. Z hospody U Ducha vyšli Zdeněk s barmankou. Ona nevěřícně plakala, on ji držel kolem ramen.
 
@@ -951,7 +934,7 @@ Venku je čekala druhá rána. Zírali na trosky města, na chodníky pokryté s
 
   
 
-Marek s Májou osaměli a nedívali se jeden druhému do očí.
+> Marek s Májou osaměli a nedívali se jeden druhému do očí.
 
 > „Kde máš deník?“ zeptal se jí.
 
@@ -981,9 +964,7 @@ Marek s Májou osaměli a nedívali se jeden druhému do očí.
 
 > Zamířil ke svojí garsonce. Když došel do Divadelní ulice, zjistil, že v jeho domě se propadlo několik stropů a z bytů jsou rozvaliny; ale nezdálo se, že by byl někdo zraněný. Pod nohama mu skřípalo sklo a nad hlavou kroužil policejní vrtulník jako obří všetečná vážka.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Od výbuchu v Divadelní ulici uplynulo několik měsíců.
 
