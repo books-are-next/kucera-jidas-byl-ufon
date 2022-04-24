@@ -14,20 +14,20 @@
       "yearPublished": "2016"
     },
     "elements": {
-      "title": "MLP_uroven2_kapitola\nMLP_uroven3_nadpis\nMLP_uroven3_nadpis ParaOverride-7",
-      "subtitle": "",
-      "h2": "MLP_uroven2_kapitola\nMLP_uroven3_nadpis\nMLP_uroven3_nadpis ParaOverride-7\n",
-      "h3": "MLP_uroven3_nadpis\nMLP_uroven3_nadpis ParaOverride-7",
+      "title": "MLP_uroven2_kapitola\n\n",
+      "subtitle": "MLP_uroven3_nadpis",
+      "h2": "MLP_uroven2_kapitola\n\n",
+      "h3": "MLP_uroven3_nadpis\n",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\n\n",
+      "brBefore": "MLP_text_bez1radku_-I- \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\n\n",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I- \nMLP_citat_autor\nMLP_text",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I- \nMLP_citat_autor\nMLP_text\nMLP_hvezdicky\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-",
       "figure": "MLP_obrazky\nMLP_obrazky",
-      "em": "MLP_citat\nMLP_citat_autor\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b\nMLP_dopis_bez1radku_-I- ",
+      "em": "MLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b\nMLP_dopis_bez1radku_-I- ",
       "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
@@ -37,6 +37,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "jidas_byl_ufon_001.md",
@@ -122,7 +123,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "V království Urubů",
+            "title": "V království Urubů",
             "children": []
           },
           {
@@ -155,13 +156,13 @@
             "filename": "jidas_byl_ufon_010.md",
             "xhtml": "jidas_byl_ufon_010.xhtml",
             "id": 9,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Ďáblův doktor a mrtvý wallaby",
+            "title": "Ďáblův doktor a mrtvý wallaby",
             "children": []
           },
           {
@@ -189,19 +190,20 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       },
       {
         "isSection": true,
         "inToc": true,
         "id": "section-2",
-        "children": [],
         "listType": "plain",
-        "devoured": false
+        "devoured": false,
+        "children": []
       }
     ],
-    "replacements": []
+    "replacements": [
+      {}
+    ]
   },
   "epub": {
     "metadata": {
@@ -371,6 +373,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1650838564247
+    "generatedAt": 1650840911882
   }
 }
