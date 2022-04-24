@@ -1,5 +1,6 @@
 ---
 title: "Ďáblův doktor a\_mrtvý wallaby"
+subtitle: Ďábel
 contentType: prose
 ---
 
@@ -10,10 +11,6 @@ contentType: prose
 > _Od Šumburka přehlédne se celá krajina na vše strany, také jest zde proslulý doktor, který jest velmi stár, ale výtečně prý nemocné léčí a hojí._
 
 — Z cestovního deníku císaře Josefa II.
-
-### Ďábel
-
-  
 
 „Teufel,“ představil se můj nový nakladatel a odložil si plášť. Četl ve sborníku Kruhu autorů Liberecka moje povídky na motivy jizersko­horských pověstí a nabídl mi vydání knížky, takže teď přijel za mnou do kanceláře, abych podepsal nakladatelskou smlouvu.
 
@@ -29,7 +26,7 @@ contentType: prose
 
   
 
-Pití nám rozvázalo jazyky a zbytek večera jsme si jen tak povídali. Teufel mi řekl o svých literárních kontaktech v Austrálii a na Novém Zélandu, a že jestli dostaneme grant z ministerstva, mohli bychom tu knížku nechat přeložit do angličtiny.
+> Pití nám rozvázalo jazyky a zbytek večera jsme si jen tak povídali. Teufel mi řekl o svých literárních kontaktech v Austrálii a na Novém Zélandu, a že jestli dostaneme grant z ministerstva, mohli bychom tu knížku nechat přeložit do angličtiny.
 
 > „Myslíte, že pověsti z Jizerek tam budou někoho zajímat?“ pochyboval jsem polichoceně a nechal si dolít.
 
@@ -79,15 +76,13 @@ D. Johanna Fausta kniha mirákulí, uměn a divů neboli jeho vlastní rukopis,
 
   
 
-Když jsem se potácel dolů do města, německé vily na mě zíraly lhostejnými skelnými pohledy a fáborky nad autobazarem chichotavě šelestily v nočním větru. Napadlo mě, že Teufel třeba ještě nestihl odjet… Křižoval jsem prázdné ulice a marně se ptal v recepcích hotelů, kde mě pokládali za opilce a výtržníka.
+> Když jsem se potácel dolů do města, německé vily na mě zíraly lhostejnými skelnými pohledy a fáborky nad autobazarem chichotavě šelestily v nočním větru. Napadlo mě, že Teufel třeba ještě nestihl odjet… Křižoval jsem prázdné ulice a marně se ptal v recepcích hotelů, kde mě pokládali za opilce a výtržníka.
 
 > V krvi mi vířily zbytky Devil’s Share i Teufelových hypnotik.
 
 > Domů jsem šel přes hráz. Za přehradou se černal náš věžák, kde svítilo už jen okno sochaře Slívy v posledním patře a odsud to vypadalo jak pokračování hvězdné oblohy. Nedávno jsem četl o teorii astronomů, že kolem Slunce kdysi obíhalo o jednu planetu víc, ale gravitace ostatních planet ji vytlačila z oběžné dráhy a ten ztracený svět prý dodnes bloudí vesmírem. Myslel jsem na svoji ženu, a jak naše postel ze začátku voněla čerstvým dřevem. Na hladině pode mnou se převalovalo hejno kaprů a vytvářelo divoké, proměnlivé obrazce ve světle hrázních luceren. Zmámeně jsem na ně zíral, nakloněný přes zábradlí. Staří mystici říkají, že všechna magie je v přírodě a adepti čarodějnictví musejí přírodu pokorně pozorovat. Astrofyzici pomocí pokusů s laserovými paprsky vymysleli teorii, jak mohl na Zemi vzniknout život, a přitom pořád nedokážou život definovat a říct, v čem spočívá jeho jedinečnost. Vzpomněl jsem si na sousedku, která před lety skočila z druhé strany hráze, ale dole se zabořila po kolena do bahna, takže se nezabila, jenom si rozdrtila nohy; s ohleduplně nezúčastněným pohledem jí dneska otevíráme dveře výtahu, aby mohla s vozíkem projet. Odstoupil jsem od zábradlí, protože se mi pekelně zatočila hlava. Cítil jsem, jak mi do krku stoupají žaludeční šťávy, a ke křoví za koncem hráze jsem doběhl v poslední chvíli.
 
 ### Markétka
-
-  
 
 Následující den byla naštěstí sobota. Spolkl jsem brufen, uvařil si kafe a progoogloval Teufelovo jméno – podle očekávání na mě vyskočila jen německy psaná hesla o čertech a množství obrázků rohatců s vidlemi i bez nich. Na stránkách nakladatelství, kterým se Teufel zaštiťoval, jeho jméno taky nikde nebylo. Napsal jsem mu na adresu, z níž mě před týdnem oslovil, ale e-mail se vrátil jako nedoručitelný. Přemýšlel jsem, co dělat dál.
 
@@ -97,7 +92,7 @@ Následující den byla naštěstí sobota. Spolkl jsem brufen, uvařil si kafe 
 
   
 
-Zastavil jsem u Burku; velká roubená stavba budila úctu i dneska, tím spíš musela před dvěma staletími působit na vesničany jako hrad. Kittelovo muzeum sídlilo v menším domku naproti. Opřel jsem kolo o kamennou zídku, kterou si prý Kittel nechal postavit pekelnými havrany, a vešel dovnitř.
+> Zastavil jsem u Burku; velká roubená stavba budila úctu i dneska, tím spíš musela před dvěma staletími působit na vesničany jako hrad. Kittelovo muzeum sídlilo v menším domku naproti. Opřel jsem kolo o kamennou zídku, kterou si prý Kittel nechal postavit pekelnými havrany, a vešel dovnitř.
 
 > Byl jsem jediný návštěvník, takže ke mně hned přitančila průvodkyně. Mohli jsme být vrstevníci, ale ona vypadala jiskrně a svěže.
 
@@ -165,8 +160,6 @@ Had z lískového keře k mnoha svobodným uměnám poslouží, získáš jej 
 
 ### Mistr
 
-  
-
 V patře nade mnou bzučel vysavač jako mechanický komár. Myslel jsem na dobu, kdy se věřilo v ďábly, kdy zuřila sedmiletá válka a v místě našich paneláků tábořili Švédové, kdy horami putovali pašeráci a v lesích hřměly přestřelky mezi myslivci a pytláky, takže ještě dneska leží pod jehličím olověné kule, odlité z kradených kostel­ních rámů. Rád jsem studoval pověsti z těch časů a vkládal do nich kus svojí samoty. Když Teufel zneužil moje psaní, zasáhl mě na nekrytém místě a já byl teď rozhodnutý dostat ho za každou cenu. Pohled mi zabloudil ke zdi, kde visela myslivecká dýka po dědovi – byla to jediná použitelná zbraň, kterou jsem doma měl.
 
 > Zavolal jsem _libereckému Hanussenovi_. Vzal telefon skoro okamžitě, představil se svým občanským jménem, a teprve když jsem mu vysvětlil, proč se s ním chci sejít, začal mluvit jako mystik. Domluvili jsme si schůzku v Café Reichenberg na dnešní odpoledne, protože zřejmě taky neměl v neděli nic lepšího na práci.
@@ -175,7 +168,7 @@ V patře nade mnou bzučel vysavač jako mechanický komár. Myslel jsem na dob
 
   
 
-Tramvaj do Liberce jela kolem prosečského lesa, kde kdysi na formanské vozy číhal pověstný loupežník Schmirgel, a dál podél Nisy, připomínající občas stoku, jak se u stavidel hromadily plastové lahve, polámané větve a nažloutlá pěna. Vystoupil jsem v centru plném prázdných obchoďáků a vystoupal k náměstí, kde se tyčila secesní budova Café Reichenberg. Hanussen už čekal před vchodem a kouřil.
+> Tramvaj do Liberce jela kolem prosečského lesa, kde kdysi na formanské vozy číhal pověstný loupežník Schmirgel, a dál podél Nisy, připomínající občas stoku, jak se u stavidel hromadily plastové lahve, polámané větve a nažloutlá pěna. Vystoupil jsem v centru plném prázdných obchoďáků a vystoupal k náměstí, kde se tyčila secesní budova Café Reichenberg. Hanussen už čekal před vchodem a kouřil.
 
 > „Jdete za mnou!“ zamával na mě s cigaretou mezi prsty.
 
@@ -239,11 +232,9 @@ Tramvaj do Liberce jela kolem prosečského lesa, kde kdysi na formanské vozy �
 
   
 
-Cestou domů, zrovna když tramvaj vjela do šedivého kouře, protože zahrádkáři podél řeky pálili shrabanou trávu, mi Hanussen zavolal. Říkal, že Kromlechovi zkusil napsat, ale e-mail se mu vrátil jako nedoručitelný. Poděkoval jsem a zavěsil. Potom jsem se dlouho díval do houstnoucího dýmu a myslel na Teufela, jak za sebou pálí mosty.
+> Cestou domů, zrovna když tramvaj vjela do šedivého kouře, protože zahrádkáři podél řeky pálili shrabanou trávu, mi Hanussen zavolal. Říkal, že Kromlechovi zkusil napsat, ale e-mail se mu vrátil jako nedoručitelný. Poděkoval jsem a zavěsil. Potom jsem se dlouho díval do houstnoucího dýmu a myslel na Teufela, jak za sebou pálí mosty.
 
 ### Doktor
-
-  
 
 V pondělí jsem šel do práce s útrobami sevřenými strachem. Na zmizení grimoáru se přijde, až si ho někdo bude chtít prohlédnout, ale těžko říct, jestli se to stane zítra nebo za měsíc. Vedle archivu stála budova bývalé porodnice, už oprýskaná a se zrezivělými ukazateli, obrostlá nálety dřevin. Tady jsem přišel na svět, ale momentálně jsem vůči tomu místu necítil žádný vděk.
 
@@ -265,7 +256,7 @@ V pondělí jsem šel do práce s útrobami sevřenými strachem. Na zmizení 
 
   
 
-Usedl jsem za stůl, vytáhl z peněženky lístek se dvěma telefonními čísly a napsal zprávu na to druhé:
+> Usedl jsem za stůl, vytáhl z peněženky lístek se dvěma telefonními čísly a napsal zprávu na to druhé:
 
 Jeste jednou diky za strejdu, pomohl mi. Tak se mej a at vam v Burku nestrasi :-)
 
@@ -277,7 +268,7 @@ Jeste jednou diky za strejdu, pomohl mi. Tak se mej a at vam v Burku nestrasi 
 
   
 
-Sešli jsme se v pozdním odpoledni v hospodě U Zpovědi. Ve skutečnosti se jmenovala jinak, ale protože stála nedaleko kostela, vžil se mezi místními ten zbožný název. Za mých středoškolských let se tu hrály automaty, k jídlu se podávala instantní čínská polívka a lžíce měly uprostřed dírku, aby nelákaly narkomany. Během let všechno tohle zmizelo a dnes byla hospoda U Zpovědi docela příjemná sídlištní pivnice, kde staré časy připomínaly jenom mastné skvrny ve zdi nad pisoáry, vytlačené za ty roky do omítky stovkami čel zdejších štamgastů.
+> Sešli jsme se v pozdním odpoledni v hospodě U Zpovědi. Ve skutečnosti se jmenovala jinak, ale protože stála nedaleko kostela, vžil se mezi místními ten zbožný název. Za mých středoškolských let se tu hrály automaty, k jídlu se podávala instantní čínská polívka a lžíce měly uprostřed dírku, aby nelákaly narkomany. Během let všechno tohle zmizelo a dnes byla hospoda U Zpovědi docela příjemná sídlištní pivnice, kde staré časy připomínaly jenom mastné skvrny ve zdi nad pisoáry, vytlačené za ty roky do omítky stovkami čel zdejších štamgastů.
 
 > „Po škole jsme sem chodívali na zelenou, tady nám vždycky nalili,“ vyprávěl jsem Markétě.
 
@@ -339,11 +330,9 @@ Sešli jsme se v pozdním odpoledni v hospodě U Zpovědi. Ve skutečnosti se
 
   
 
-Když zmizela, dal jsem si ještě pivo se zelenou a došlo mi, že jsem zapomněl Markétu svádět. Vlastně jsem se jí ani nezeptal, jak se jmenuje její syn nebo kolik mu je let. Potom jsem myslel na svoji ženu a v hlavě se mi jak zaseklá deska točila Dylanova píseň o tom, že člověk se vždycky může vrátit, ale nikdy ne celou cestu. Nakonec jsem zaplatil, dopotácel se na záchod a do vytlačené skvrny nad pisoárem opřel ztěžklé čelo.
+> Když zmizela, dal jsem si ještě pivo se zelenou a došlo mi, že jsem zapomněl Markétu svádět. Vlastně jsem se jí ani nezeptal, jak se jmenuje její syn nebo kolik mu je let. Potom jsem myslel na svoji ženu a v hlavě se mi jak zaseklá deska točila Dylanova píseň o tom, že člověk se vždycky může vrátit, ale nikdy ne celou cestu. Nakonec jsem zaplatil, dopotácel se na záchod a do vytlačené skvrny nad pisoárem opřel ztěžklé čelo.
 
 ### Čarodějka
-
-  
 
 Týdny plynuly a já zkusil snad všechno. Napadlo mě, že Teufelova znalost nakladatelských smluv a knižního trhu vychází z toho, že někdy opravdu vydával knihy, a tak jsem obvolával nakladatelství a ptal se po současném nebo bývalém zaměstnanci, který by odpo­vídal Teufelovu popisu. Marně. Taky jsem zvažoval, jestli krádež v archivu neprovedl víckrát, a probíral jsem se podobnými případy z minulých let. Dokonce jsem ve vězení navštívil muže, který na zámku v Nelahozevsi a v dalších institucích uloupil historické mapy za třináct milionů. Připomínal postavu z Čapkových povídek – středoškolský učitel zeměpisu a vášnivý sběratel, který chodil po archivech a vyřezával mapy ze starých knih. Nakonec z nich uspořádal výstavu a pozvánku na vernisáž poslal i do nelahozeveského zámku, kde hned zavolali policii. Vyprávěl mi o lásce ke kartografii i o technice krádeží, ale k Teufelovi mě nijak nepřiblížil.
 
@@ -353,7 +342,7 @@ Týdny plynuly a já zkusil snad všechno. Napadlo mě, že Teufelova znalost n
 
   
 
-Poslala mi odkaz na příspěvek z jakéhosi australského literárního serveru. Prý ho záhadologové sdílejí ve svojí mezinárodní komunitě, takže doputoval i k Markétinu strýci a liberečtí mágové, pokud tedy umějí anglicky, jsou z něj celí pryč.
+> Poslala mi odkaz na příspěvek z jakéhosi australského literárního serveru. Prý ho záhadologové sdílejí ve svojí mezinárodní komunitě, takže doputoval i k Markétinu strýci a liberečtí mágové, pokud tedy umějí anglicky, jsou z něj celí pryč.
 
 > Rozklikl jsem link a našel povídku od jistého Johnnyho Hellera. Česky by se jmenovala nejspíš _Čarodějka_ a začínala by asi takhle:
 
@@ -379,31 +368,29 @@ Jenom zoufalí muži vyhledávají přízeň woolgrumských žen. Matka se nemů
 
   
 
-Ty dvě věty, kterými povídka končila, jsem dobře znal – pocházely totiž ze _Smržovského grimoáru_.
+> Ty dvě věty, kterými povídka končila, jsem dobře znal – pocházely totiž ze _Smržovského grimoáru_.
 
   
 
-Teprve když obrazovka počítače potemněla a spořič po ní začal rozhazovat digitální hvězdokupy, probral jsem se z vytržení. Vžil jsem se do úžasu libereckých mágů – ovšem já věděl víc než oni. Teufel se přede mnou zmínil o literárních kontaktech v Austrálii; když jsem později náš rozhovor znovu a znovu rozebíral, pokládal jsem jeho povídání jen za výmysly, které mě měly rozjařit a přimět pít; ale zřejmě chvílemi mluvil pravdu, aby jeho lež zněla věrohodněji. Teď mi bylo jasné, že autor _Čarodějky_ vlastní _Smržovský grimoár_ a zná i pověst o doktoru Kittelovi.
+> Teprve když obrazovka počítače potemněla a spořič po ní začal rozhazovat digitální hvězdokupy, probral jsem se z vytržení. Vžil jsem se do úžasu libereckých mágů – ovšem já věděl víc než oni. Teufel se přede mnou zmínil o literárních kontaktech v Austrálii; když jsem později náš rozhovor znovu a znovu rozebíral, pokládal jsem jeho povídání jen za výmysly, které mě měly rozjařit a přimět pít; ale zřejmě chvílemi mluvil pravdu, aby jeho lež zněla věrohodněji. Teď mi bylo jasné, že autor _Čarodějky_ vlastní _Smržovský grimoár_ a zná i pověst o doktoru Kittelovi.
 
 > Progoogloval jsem si Johnnyho Hellera a zjistil, že je to docela uznávaný spisovatel, přinejmenším v Západní Austrálii, kde žije. Za jeden svůj román získal výroční cenu západoaustralské vlády a v lauda­tiu, které bylo na internetu taky, porota ocenila jeho schopnost snoubit tradiční vyprávění různých kultur – především evropské s aboridžinskou – a připomínat tak, že určité věci jsou všem lidem na světě společné. Loni mu vyšel román v němčině a při té příležitosti navštívil knižní veletrh ve Frankfurtu nad Mohanem – právě tady se mohl seznámit s Teufelem, který mu zřejmě slíbil sehnat vzácnou variaci Faustovy knihy a jako prémii mu vyprávěl ještě pověst o ďáblovu doktorovi. Johnny Heller prý žil na samotě, v kamenném domku v podhůří masivu Stirling Range, a krom spíš výjimečné účasti na veletrzích komunikoval s okolním světem hlavně svými texty; rozhovor médiím neposkytl už aspoň deset let.
 
   
 
-Nevěděl jsem, co si s tím vším počít. Mohl jsem oslovit jeho austral­ské nakladatelství nebo redakci onoho literárního serveru a poprosit je o kontakt na autora, ale vzhledem k Hellerovu samotářství by mi ho sotva poskytli. Navíc nevím, co bych mu vlastně psal – těžko by uvěřil, že kniha, kterou za nemalé peníze koupil, je kradená a já ji teď chci v tichosti, bez vědomí policie, vrátit zpátky do našeho archivu. Psal jsem Markétě, ale ta mi poradila to, co pokaždé – abych se přiznal a nechal všechno vyřešit úřady.
+> Nevěděl jsem, co si s tím vším počít. Mohl jsem oslovit jeho austral­ské nakladatelství nebo redakci onoho literárního serveru a poprosit je o kontakt na autora, ale vzhledem k Hellerovu samotářství by mi ho sotva poskytli. Navíc nevím, co bych mu vlastně psal – těžko by uvěřil, že kniha, kterou za nemalé peníze koupil, je kradená a já ji teď chci v tichosti, bez vědomí policie, vrátit zpátky do našeho archivu. Psal jsem Markétě, ale ta mi poradila to, co pokaždé – abych se přiznal a nechal všechno vyřešit úřady.
 
 > Tu noc jsem si vzal dva hypnogeny, ale stejně jsem moc nespal.
 
   
 
-Druhý den ráno v práci mi sekretářka oznámila, že volal někdo z Liberce a ptal se, jestli pořád máme _Smržovský grimoár_. Podala mi telefonní číslo, mám to s „tím záhadologem“ vyřídit. Zavolal jsem mu – Hanussen to naštěstí nebyl – a co nejstručněji ho ujistil, že Faustova kniha je stále na svém místě. Jestli jsem se dosud mohl považovat za Teufelovu oběť, tímhle telefonátem se ze mě stal spolupachatel.
+> Druhý den ráno v práci mi sekretářka oznámila, že volal někdo z Liberce a ptal se, jestli pořád máme _Smržovský grimoár_. Podala mi telefonní číslo, mám to s „tím záhadologem“ vyřídit. Zavolal jsem mu – Hanussen to naštěstí nebyl – a co nejstručněji ho ujistil, že Faustova kniha je stále na svém místě. Jestli jsem se dosud mohl považovat za Teufelovu oběť, tímhle telefonátem se ze mě stal spolupachatel.
 
 > Musel jsem nutně mluvit s Johnnym Hellerem.
 
 > Po několikahodinovém prohledávání internetu jsem konečně objevil způsob – Heller byl registrovaný na serveru HelpX, který sdružuje farmáře hledající pracovní sílu a cestovatele ochotné pracovat za nocleh a stravu. Bez dlouhého přemýšlení jsem se zaregistroval. Heller sháněl zdatné a zručné muže pro stavební práce a já mu nabídl svoji pomoc, i když jsem v životě nestloukl ani ptačí budku. Chtěl jsem ho hlavně přimět k odpovědi a vtáhnout do korespondence.
 
 ### Had
-
-  
 
 Některé stromy podél silnice byly zčernalé, ohořelé. Z jiných stromů visely cáry kůry jako lidská kůže nebo vytékala krvavě červená smůla. Míjeli jsme cedule _Risk Poison_, protože po okolí byly rozmístěné otrávené návnady na lišky. Potom se začalo stmívat a z okna autobusu už jsem viděl jenom ohně, jak farmáři pálili suché větve, aby předešli dalším požárům buše. Jeli jsme celou noc.
 
@@ -417,7 +404,7 @@ Některé stromy podél silnice byly zčernalé, ohořelé. Z jiných stromů v
 
   
 
-Stál jsem u benzínové pumpy na kraji Cranbrooku, sledoval autobus mizející pod siluetou Stirling Range a přemýšlel, co budu dělat, jestli Johnny nedorazí, protože další spoj měl jet až následující den. Město Cranbrook vzniklo v předminulém století jako stanice železniční společnosti Great Southern Railway, ale osobní vlaky už tudy dávno nejezdí. Dnes tu žije asi tři sta lidí, hotel je zavřený a spousta domů na prodej. Farma Johnnyho Hellera má ležet ještě kus cesty za městem, uprostřed buše na břehu řeky Gordon River.
+> Stál jsem u benzínové pumpy na kraji Cranbrooku, sledoval autobus mizející pod siluetou Stirling Range a přemýšlel, co budu dělat, jestli Johnny nedorazí, protože další spoj měl jet až následující den. Město Cranbrook vzniklo v předminulém století jako stanice železniční společnosti Great Southern Railway, ale osobní vlaky už tudy dávno nejezdí. Dnes tu žije asi tři sta lidí, hotel je zavřený a spousta domů na prodej. Farma Johnnyho Hellera má ležet ještě kus cesty za městem, uprostřed buše na břehu řeky Gordon River.
 
 > Johnny přijel s asi hodinovým zpožděním, vystrčil z okýnka hlavu s bílou bradkou a hřívou bílých vlasů a řekl, že mu nešlo nastartovat auto, protože předtím dobíjel autobaterkou nějaké stroje na zahradě. Byl mnohem starší než na fotografiích, které jsem vygoogloval; jen jeho placatý nos od austrálských předků byl stejný jako na fotkách. Když jsem otevřel dveře spolujezdce, vyvalily se na zem letáky a nezaplacené účty.
 
@@ -425,7 +412,7 @@ Stál jsem u benzínové pumpy na kraji Cranbrooku, sledoval autobus mizející
 
   
 
-Cestou z Cranbrooku jsme vedli zdvořilostní hovor a já přemýšlel, jak starého spisovatele začít zpracovávat.
+> Cestou z Cranbrooku jsme vedli zdvořilostní hovor a já přemýšlel, jak starého spisovatele začít zpracovávat.
 
 > „Je u vás teď velká zima?“ zeptal se, jak se asi ptával návštěvníků z Evropy.
 
@@ -477,7 +464,7 @@ Cestou z Cranbrooku jsme vedli zdvořilostní hovor a já přemýšlel, jak st
 
   
 
-Dostal jsem za úkol vykopat základy pro další přístavbu, aby se do domu vešlo nové křídlo knihovny. Šlo to líp, než jsem čekal, protože půda byla písčitá a stačilo ji nabírat lopatou. Johnny zatím svážel kameny, z nichž chtěl postavit obvodové zdi. Na spodních stranách kamenů seděli jedovatí pavouci _redbackové_ a Johnny je smetal na zem holou rukou.
+> Dostal jsem za úkol vykopat základy pro další přístavbu, aby se do domu vešlo nové křídlo knihovny. Šlo to líp, než jsem čekal, protože půda byla písčitá a stačilo ji nabírat lopatou. Johnny zatím svážel kameny, z nichž chtěl postavit obvodové zdi. Na spodních stranách kamenů seděli jedovatí pavouci _redbackové_ a Johnny je smetal na zem holou rukou.
 
 > „U nás máme takovou pověst o doktorovi, kterýmu kouzelný havrani postavili dům,“ prohodil jsem trochu zadýchaně. „Ty by se nám teď hodili.“
 
@@ -501,21 +488,19 @@ Dostal jsem za úkol vykopat základy pro další přístavbu, aby se do domu ve
 
   
 
-Když jsme měli po práci a Johnny v kuchyni ohříval klokaní párky, slídil jsem po knihovně. Pak mě napadlo, že jestli chce Johnny vybudovat nový přístavek pro knihy a jestli grimoár získal teprve nedávno, nemá smysl hledat ho ve stávající knihovně, ale spíš v papírových krabicích, které stály všude, kde na ně ještě bylo místo. Nahlížel jsem i za dřevěné trámy, do nahrubo omítnutých pokojů…
+> Když jsme měli po práci a Johnny v kuchyni ohříval klokaní párky, slídil jsem po knihovně. Pak mě napadlo, že jestli chce Johnny vybudovat nový přístavek pro knihy a jestli grimoár získal teprve nedávno, nemá smysl hledat ho ve stávající knihovně, ale spíš v papírových krabicích, které stály všude, kde na ně ještě bylo místo. Nahlížel jsem i za dřevěné trámy, do nahrubo omítnutých pokojů…
 
 > Nakonec jsem _Smržovský grimoár_ objevil v pracovně, rozložený vedle starého, zažloutlého počítače.
 
   
 
-V noci se mi zdálo, že slyším strašidelný vřískot kolihy. Vyšel jsem před dům, kde stál Johnny uprostřed kruhu vyrytého v písku, držel rozevřený grimoár a předčítal pekelná zaříkání. Od řeky k němu přicházela nahá žena s plovacími blánami mezi prsty, doprovázená krákáním vran. Byl to jiný zvuk, než jaký vydávají evropské vrány – chvílemi zněl jako ovčí bečení a chvílemi jako dětský pláč.
+> V noci se mi zdálo, že slyším strašidelný vřískot kolihy. Vyšel jsem před dům, kde stál Johnny uprostřed kruhu vyrytého v písku, držel rozevřený grimoár a předčítal pekelná zaříkání. Od řeky k němu přicházela nahá žena s plovacími blánami mezi prsty, doprovázená krákáním vran. Byl to jiný zvuk, než jaký vydávají evropské vrány – chvílemi zněl jako ovčí bečení a chvílemi jako dětský pláč.
 
 > Johnny se ke mně otočil a pronesl: „_Auchade hadicicacum, Fortice cerre, dice Millecus Carnicui vide Segme Heymadide Ceme Cema Ditamme_.“
 
 > To bylo zaříkání lískového hada, užovky bílé jako padlý sníh. _Tato slova promluv, tím si ji podmaníš a stáhni jí kůži a vyjmi jazyk a do bílého ubrousku ulož a kůži i jazyk společné uchovávej_. Pochopil jsem v tom snu, že já jsem ten had s bílou kůží; můj příjezd sem nebyla náhoda. Zmámeně jsem vkročil do kruhu, Johnny vytáhl dýku a od řeky zesílilo kvákání žab.
 
 ### Wallaby
-
-  
 
 Po týdnu práce jsme dokončili přístavek a Johnny mi nabídl výlet do Stirling Range, kam se prý chtěli podívat všichni jeho zahraniční návštěvníci. Radostně jsem souhlasil, abych nevzbudil podezření. Stirling Range jsou nejvyšší hory v Západní Austrálii a posvátné místo zdejších Aboridžinců – právě odtud v _čase snění_ sestoupily na zem první bytosti, papoušci, klokani a lidé.
 
@@ -529,7 +514,7 @@ Po týdnu práce jsme dokončili přístavek a Johnny mi nabídl výlet do Stir
 
   
 
-Johnny přeřadil na nižší rychlost a pátral očima před sebou, takže před prvním klokanem stihl zabrzdit včas. Stmívalo se a skákajících siluet na silnici přibývalo, proto když jsme z bezpečné vzdálenosti jistili pohledem jednu skupinku, skočil nám malý wallaby přímo pod kola.
+> Johnny přeřadil na nižší rychlost a pátral očima před sebou, takže před prvním klokanem stihl zabrzdit včas. Stmívalo se a skákajících siluet na silnici přibývalo, proto když jsme z bezpečné vzdálenosti jistili pohledem jednu skupinku, skočil nám malý wallaby přímo pod kola.
 
 > Bylo to jen malé hrknutí.
 
@@ -559,7 +544,7 @@ Johnny přeřadil na nižší rychlost a pátral očima před sebou, takže př
 
   
 
-Sedli jsme si zpátky do auta a čekali, až někdo pojede kolem nebo až se rozední. Voda nám došla a teplé oblečení jsme si na cestu ani nevzali, promáčklými dveřmi dovnitř táhl chlad. Johnny vypadal sklesle, zřejmě na něj dolehla smrt malého wallabyho.
+> Sedli jsme si zpátky do auta a čekali, až někdo pojede kolem nebo až se rozední. Voda nám došla a teplé oblečení jsme si na cestu ani nevzali, promáčklými dveřmi dovnitř táhl chlad. Johnny vypadal sklesle, zřejmě na něj dolehla smrt malého wallabyho.
 
 > „Proč vlastně žijete tady?“ přerušil jsem ticho.
 
@@ -595,11 +580,9 @@ Sedli jsme si zpátky do auta a čekali, až někdo pojede kolem nebo až se ro
 
   
 
-Ráno mě probudila myšlenka, že Austrálie je jako dětství na vesnici; i tady nový den ohlašují hrdličky a člověk může prožít tajemství při cestě lesem. Vstal jsem, odhrnul těžký závěs a chvíli jen tak mžoural do slunce. Teprve pak jsem zapnul telefon, kde mě čekala zpráva od Markéty: _Pruser. Strejda zasel k vam do archivu a zjistil, ze grimoar je pryc. Chtej po tobe vyhlasit patrani. :-( Prijed co nejdriv_.
+> Ráno mě probudila myšlenka, že Austrálie je jako dětství na vesnici; i tady nový den ohlašují hrdličky a člověk může prožít tajemství při cestě lesem. Vstal jsem, odhrnul těžký závěs a chvíli jen tak mžoural do slunce. Teprve pak jsem zapnul telefon, kde mě čekala zpráva od Markéty: _Pruser. Strejda zasel k vam do archivu a zjistil, ze grimoar je pryc. Chtej po tobe vyhlasit patrani. :-( Prijed co nejdriv_.
 
 ### Ďábel
-
-  
 
 Stoupal jsem do kopce podél německých vil, pod sebou město, v dálce hory, a fáborky nad autobazarem se v ranním slunci třpytily jak vodní hladina. V aktovce jsem nesl _Smržovský grimoár_, obálku a mysliveckou dýku po dědovi. Kdyby mi někdo prohledal tašku, myslel by možná, že jdu provádět pekelná zaříkání, protože v grimoáru hned na začátku stojí: _Nejprve se udělá kruh kordem, kterým ještě nebyl nikdo poraněn_. Byl jsem klidný jako lidé, kteří nemají co ztratit, a v noci jsem usnul i bez prášku.
 
@@ -639,7 +622,7 @@ Stoupal jsem do kopce podél německých vil, pod sebou město, v dálce hory, 
 
   
 
-Za dobu, co jsem nebyl v Praze, dostavěli metro až na Břevnov, takže jsem byl v pokušení dojet na Petřiny a zazvonit u dveří našeho starého bytu, ale přiměl jsem se vystoupit na Národní třídě, kde za mojí nepřítomnosti postavili pro změnu sklobetonového obra plného obchodů. Došel jsem na nábřeží a nasedl do sedmnáctky směr Modřany.
+> Za dobu, co jsem nebyl v Praze, dostavěli metro až na Břevnov, takže jsem byl v pokušení dojet na Petřiny a zazvonit u dveří našeho starého bytu, ale přiměl jsem se vystoupit na Národní třídě, kde za mojí nepřítomnosti postavili pro změnu sklobetonového obra plného obchodů. Došel jsem na nábřeží a nasedl do sedmnáctky směr Modřany.
 
 > Zkontroloval jsem pomačkanou obálku s razítkem _Par Avion_, kterou mi věnoval Johnny Heller – Teufel mu v ní poslal _Smržovský grimoár_ a napsal na ni i zpáteční adresu; zřejmě nechtěl riskovat, že se cenná zásilka cestou ztratí. Očekával jsem, že si coby kryptonym tentokrát zvolí něco jako _Mr. Boomerang_, takže mě překvapilo, jaké obyčejné české jméno bylo na obálce napsané. Tramvaj jela podél řeky, nad místy, kam jsme se ženou chodívali pozorovat ondatry, ale vzpomínky na mě teď nedoléhaly. Cítil jsem, jak se mi stahují vnitřnosti, a když jsem vystoupil na zastávce Černý kůň, musel jsem se několikrát zhluboka nadechnout.
 
@@ -659,7 +642,7 @@ Za dobu, co jsem nebyl v Praze, dostavěli metro až na Břevnov, takže jsem b
 
   
 
-Teufel leknutím vyskočil ze židle jako čert z krabičky.
+> Teufel leknutím vyskočil ze židle jako čert z krabičky.
 
 > Využil jsem jeho překvapení a rychle za sebou zamkl.
 
@@ -739,8 +722,6 @@ Varuji tě, nezvěstuj to nikomu, kdo toho není hoden, jinak ti bude zlomen vaz
 
 ### Krásná
 
-  
-
 Bylo po dešti, z lesů stoupala pára a ze zahrad vylézali hlemýždi. Sledoval jsem autobus mizející pod siluetou Krkonoš, kde na vrchol­cích i přes zamženou oblohu svítily zbytky sněhu, a pak jsem vykročil za davem do Krásné. Zdejší prvomájová pouť je událost i pro přespolní. V kostele svatého Josefa sloužil mši vikář z Mladé Boleslavi a pod barokní klenbou se tísnilo na sto lidí; pod kůrem parkovaly kočárky a vikářovo kázání občas zanikalo v pláči dětí. Na konci mše ti nejzbožnější a nejzdatnější po kolenou vyšli _svaté schody_ – připojil jsem se k nim; nikdy jsem se nemodlil, ale po událostech uplynulých týdnů jsem cítil potřebu klečet.
 
 > Před kostelem mě zastavil Hanussen. Opíral se o jeden z toskán­ských sloupů, na nichž je usazená socha svatého Josefa, kouřil cigaretu a hypnotizoval mě zvídavým pohledem.
@@ -767,7 +748,7 @@ I přihodilo se mi, že velmi mocný duch se mi zjevil a žádal vysvětlení,
 
   
 
-Proplétal jsem se mezi davy a stánky, až jsem skoro vrazil do Markéty.
+> Proplétal jsem se mezi davy a stánky, až jsem skoro vrazil do Markéty.
 
 > „Čau, jak bylo v Austrošce?“ přivítala mě pusou na tvář.
 
@@ -815,7 +796,7 @@ Proplétal jsem se mezi davy a stánky, až jsem skoro vrazil do Markéty.
 
   
 
-Z Krásné jsem šel domů pěšky, a abych nemusel po silnici, vzal jsem to lesem. Stromy ve větru sotva slyšitelně skřípaly, před očima mi proletěl černobílý motýl. Kráčel jsem po zasypaných lomech, kde lidé v pravěku těžili kámen na výrobu sekyr a vozili ho až do Maďarska a Itálie. Tyhle dějiny našeho kraje jsou starší než Stonehenge nebo egyptské pyramidy, takže mi nad těmi lomy moje vyprávění o samotě připadalo docela bezvýznamné.
+> Z Krásné jsem šel domů pěšky, a abych nemusel po silnici, vzal jsem to lesem. Stromy ve větru sotva slyšitelně skřípaly, před očima mi proletěl černobílý motýl. Kráčel jsem po zasypaných lomech, kde lidé v pravěku těžili kámen na výrobu sekyr a vozili ho až do Maďarska a Itálie. Tyhle dějiny našeho kraje jsou starší než Stonehenge nebo egyptské pyramidy, takže mi nad těmi lomy moje vyprávění o samotě připadalo docela bezvýznamné.
 
 > V lese nad Novou Vsí ke mně přiběhl hrubosrstý jezevčík. Vyskakoval a válel sudy, jako bychom se znali odpradávna, neměl obojek a pod nánosy špíny se mu rýsovala žebra. Mívali jsme se ženou jezevčíka; umřel, když byly mrazy, takže abych mohl vykopat hrob, musel jsem napřed rozbít zem krumpáčem. Dalšího psa jsme si už nestihli pořídit.
 
@@ -825,6 +806,6 @@ Z Krásné jsem šel domů pěšky, a abych nemusel po silnici, vzal jsem to l
 
   
 
-Přehrada zrcadlila siluety paneláků a místa, kde vodu čeřil vítr, se třpytila sluncem. Kolem kroužili výletníci, cyklisté i kolečkoví bruslaři, stánkaři roztáčeli první letošní piva a pod zkoseným břehem seděl soused s nahozenými pruty. Kapři se vyhřívali těsně pod hladinou a někteří plavali podél hráze, lapali tlamami vzduch a vzhlíželi nahoru k chodcům.
+> Přehrada zrcadlila siluety paneláků a místa, kde vodu čeřil vítr, se třpytila sluncem. Kolem kroužili výletníci, cyklisté i kolečkoví bruslaři, stánkaři roztáčeli první letošní piva a pod zkoseným břehem seděl soused s nahozenými pruty. Kapři se vyhřívali těsně pod hladinou a někteří plavali podél hráze, lapali tlamami vzduch a vzhlíželi nahoru k chodcům.
 
 > Dingo na to koukal jako na něco magického.

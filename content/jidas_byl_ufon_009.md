@@ -1,5 +1,6 @@
 ---
 title: Vězeň damašský
+subtitle: ''
 contentType: prose
 ---
 
@@ -9,8 +10,6 @@ contentType: prose
 
 _— Ägyptische Zeitung_, rubrika „Z kolonií“,  
 14\. květen 1899
-
-  
 
 Píšu v sedle, notes rozložený na koňské šíji. V rohu papíru je mastná skvrna a písmo mám poněkud kostrbaté, jak hřebec cválá kamenitou pouští. Až toto vyprávění dokončím, podá mi můj věrný sluha a přítel hádží Halef ze své sedlové brašny trochu _ssamghu_, arabské gumy, abych spisek zalepil a poslal přes moře vám, svým čtenářům. Budete ho číst v knize s pevnou vazbou a zlatou ořízkou a ani vás nenapadne, za jakých okolností se zrodil. Škoda že alespoň projednou nemůže moje vyprávění vyjít takto, na listech notesu, se skvrnou v rohu, aby skutečně každý pochopil, že má dobrodružství nevznikají ve studovně, jak se tu a tam vysloví nějaký moudrý pán.
 
@@ -22,14 +21,12 @@ Píšu v sedle, notes rozložený na koňské šíji. V rohu papíru je mastn�
 
 > Plaše se usměju a pobídnu koně, abych mu nemusel odpovídat.
 
-\* \* \*
+> \* \* \*
 
 > _Mé práce nelze posuzovat jako knihy jiných autorů, ani ty Vernovy. Ty mé nejsou jen plody dlouhých a namáhavých studií, ale mnohem více úspěchem téměř třicetiletých cest, strádání a nebezpečí; jsou doslova zality mou krví z ran, jejichž jizvy dodnes nosím na těle._
 
 — Z dopisu nakladateli J. R. Vilímkovi,  
 8\. 7. 1898
-
-  
 
 Přejeli jsme Džabal aš-Šarkí, což znamená Východní hory, a pod námi se rozprostřela otevřená, pahorkatá krajina, v jejímž středu jako lidské mraveniště leží starobylé město Damašek. Už jsme se chtěli pustit po svahu dolů, podél biblické řeky Barada, která by nás dovedla přímo k městským hradbám, když jsem v dálce zahlédl dvě skupiny jezdců. Druhá pronásledovala první a vzdálenost mezi nimi se zkracovala.
 
@@ -105,15 +102,13 @@ Přejeli jsme Džabal aš-Šarkí, což znamená Východní hory, a pod námi s
 
 > Vstal jsem, sáhl do sedlové brašny a podal mu brožovaný výtisk _Pokladu na stříbrném jezeře_.
 
-\* \* \*
+> \* \* \*
 
 > _Kdysi v tomto domě uvařil otec nynějšího majitele dva Armény zaživa se zelím a Arméni žijící v Damašku museli své krajany jíst. Ti Arméni ukradli pašovi zelí; on zloděje odhalil a takto je potrestal._
 
 — Z poznámek Kláry Plöhnové, později Mayové,  
 na zadní straně fotografie „paláce Asada paši“  
 v Damašku, červen 1900
-
-  
 
 Vojáci vjeli do města od severu hlavní branou Bab al-Faraj. Po rozloučení s arménskou rodinou jsme tedy radši objeli půlku města a zamířili k jižní bráně Bab Kisan, aby nás nikdo nespojoval s dopolední střelbou na fezy. Před hradbami jsme nejdřív cítili a potom i viděli hromady hnoje, určené k vytápění bezmála čtyř stovek městských lázní. Napadlo mě, jestli apoštola Pavla, když utíkal z Damašku právě touto branou, vyprovázel na cestu stejný pach kobylinců.
 
@@ -131,7 +126,7 @@ Vojáci vjeli do města od severu hlavní branou Bab al-Faraj. Po rozloučení s
 
   
 
-Po návštěvě mešity jsme zamířili do křesťanské čtvrti. Ne že bych chtěl Halefa dál trápit věroukou – v této části města se ale dalo snáz sehnat pivo, jímž jsem rád splachoval prach cest při svých výpravách v Orientu i v Americe. Měli jsme štěstí, protože jsme záhy objevili kavárnu, kde prodávali pravé plzeňské pivo z Mnichova. Objednal jsem u kavárníka pro sebe láhev dvanáctky a pro Halefa sklenici čaje, když vtom se v rohu místnosti zdvihla povědomá hlava v turbanu, ležící až dosud ochable na stole.
+> Po návštěvě mešity jsme zamířili do křesťanské čtvrti. Ne že bych chtěl Halefa dál trápit věroukou – v této části města se ale dalo snáz sehnat pivo, jímž jsem rád splachoval prach cest při svých výpravách v Orientu i v Americe. Měli jsme štěstí, protože jsme záhy objevili kavárnu, kde prodávali pravé plzeňské pivo z Mnichova. Objednal jsem u kavárníka pro sebe láhev dvanáctky a pro Halefa sklenici čaje, když vtom se v rohu místnosti zdvihla povědomá hlava v turbanu, ležící až dosud ochable na stole.
 
 > „Kara ben Nemsí!“ poznal mě po hlase dávný přítel.
 
@@ -165,7 +160,7 @@ Po návštěvě mešity jsme zamířili do křesťanské čtvrti. Ne že bych ch
 
   
 
-Neměl jsem v hlavě přímo plán, spíš jsem pozvání do Basadovy kuchyně pokládal za dobrý způsob, jak proniknout do paláce a snad se dostat až k samotnému pašovi. Potom už by pro člověka mojí kuráže a bystrosti nemělo být těžké Basada zajmout a vyměnit jeho svobodu za svobodu nebohých Arménů a za dopis sultánovi, odvolávající veškeré pomluvy na adresu mého přítele.
+> Neměl jsem v hlavě přímo plán, spíš jsem pozvání do Basadovy kuchyně pokládal za dobrý způsob, jak proniknout do paláce a snad se dostat až k samotnému pašovi. Potom už by pro člověka mojí kuráže a bystrosti nemělo být těžké Basada zajmout a vyměnit jeho svobodu za svobodu nebohých Arménů a za dopis sultánovi, odvolávající veškeré pomluvy na adresu mého přítele.
 
 > Než jsem stačil všechno dobře uvážit, vstoupilo do kavárny deset vojáků.
 
@@ -193,14 +188,12 @@ Neměl jsem v hlavě přímo plán, spíš jsem pozvání do Basadovy kuchyně 
 
 > Malý šejk bez ptaní splnil rozkaz. Můj plán byl takový – budeme předstírat, že jsme zajatci vojáků a necháme se jimi doprovodit do paláce. Ve skutečnosti budou ovšem oni našimi zajatci. Svoje revolvery schováme v pláštích, jejich zbraně naopak musejí být vidět, ovšem zneškodněné. Koně a pušky jsme za patřičný bakšiš nechali u kavárníka, ty na naší nadcházející výpravě nebudeme potřebovat.
 
-\* \* \*
+> \* \* \*
 
 > _Vidíte, Karel May je přes svých šest desítek let ještě podnikavý a připraven k činu, platí-li to dobru druhého._
 
 — Karel May v dopisu J. Dederlemu,  
 8\. listopadu 1899
-
-  
 
 Vojáci nás vedli ulicemi a lidé se smáli, pokřikovali a těšili se na veřejnou baštonádu. Občas po nás někdo hodil nahnilou datli a netušil, že důstojníkovi, který kráčel první, míří na záda hlaveň mého revolveru a že moji přátelé hlídají zbylé vojáky. Tohle mám nejradši, předstírat, že jsem poražený, ponížený, prostomyslný. Až posměváčkové zjistí, jak se nechali přelstít a že je vysoce převyšuji, budu se smát já. V takových chvílích se vždycky cítím být mstitelem všech zneuznaných a podceňovaných.
 
@@ -228,7 +221,7 @@ Vojáci nás vedli ulicemi a lidé se smáli, pokřikovali a těšili se na ve
 
   
 
-„Příteli Osmane!“ zašklebil se Ašár a ani se nenamáhal vstát z divanu. Jen pevněji sevřel svoji drahokamy vykládanou dýmku s jantarovým prstencem, jako kdyby někoho škrtil. „Jsem rád, že jsi přijal pozvání k hostině.“
+> „Příteli Osmane!“ zašklebil se Ašár a ani se nenamáhal vstát z divanu. Jen pevněji sevřel svoji drahokamy vykládanou dýmku s jantarovým prstencem, jako kdyby někoho škrtil. „Jsem rád, že jsi přijal pozvání k hostině.“
 
 > Napadlo mě, kolik chudáků by vyzdvihl z bídy jediný kámen z pašovy dýmky. Vtom moji pozornost upoutalo něco jiného – pohled Basadovy ženy Asmy, upřený na mě.
 
@@ -262,14 +255,12 @@ Vojáci nás vedli ulicemi a lidé se smáli, pokřikovali a těšili se na ve
 
 > To už bylo příliš. Poslední věc, kterou jsem slyšel, byl Asmin ďábelský smích. Pak jsem konečně omdlel.
 
-\* \* \*
+> \* \* \*
 
 > _Jednoho z následujících dní je postižen těžkým nervovým zhroucením. Jeho průvodce Sedžid Hassan říká, že se choval jako pomatenec, všechnu stravu házel do záchodu a dlouhé dny hladověl. Po týdnu May pozvolna přichází k sobě._
 
 — Christian Heermann:  
 _Muž, který byl Old Shatterhand_, 1988
-
-  
 
 Zdál se mi zvláštní sen. Seděl jsem u zříceniny starodávného hradu a shlížel do kraje, který trochu připomínal Persii a trochu mé rodné Krušné hory. Můj věrný vraník Assil odpočíval hned vedle a hřívu mu pročesávala dívka, kterou jsem viděl tančit tady v damašském paláci. Řekl jsem tady? Jsem přece _tam_, u ní. Dívka měla husté černé vlasy spletené do těžkých copů, které jí splývaly na plece. Oblečená byla do bílých šatů, závoj odhrnutý dozadu. Lze lidskou bytost přirovnat k básni?
 
@@ -307,14 +298,12 @@ Zdál se mi zvláštní sen. Seděl jsem u zříceniny starodávného hradu a 
 
 > Dělo se tu něco moc podivného. Zavřel jsem oči a snažil se utřídit si myšlenky.
 
-\* \* \*
+> \* \* \*
 
 > _Nebylo to nic neodkladného, o čem jsem chtěl se Šakarou promluvit. (…) Ale když jsem začal rozmlouvat, bylo mi, jako by se ve mně otvíralo všecko zamčené, aby to spatřila, zkoumala, schválila nebo zamítla. (…) Když jsem s ní teď rozmlouval, vynořil se přede mnou opět ten okamžik, kdy jsem ji nemocný z lože spatřil podruhé; nedaleko dveří seděla uprostřed květin._
 
 — Karel May: _Ahriman Mirza_  
 _(V říši stříbrného lva IV_._)_, 1903
-
-  
 
 Musel jsem usnout, protože když jsem znova otevřel oči, do kobky okénkem proudilo ostré ranní světlo. Prohlédl jsem si v něm svoji vyrážku, byla jasně rudá.
 
@@ -352,14 +341,12 @@ Musel jsem usnout, protože když jsem znova otevřel oči, do kobky okénkem pr
 
 > „Jenom když si je předtím češu,“ zasmála se a pak rychle odběhla, protože do dvora vcházely stráže. V rukou mi zůstal jen ten džbánek mléka.
 
-\* \* \*
+> \* \* \*
 
 > _Jsem tak bohatě zásoben náměty, že ve svých šedesáti letech musím jen spěchat, spěchat, spěchat, abych i svým čtenářům dal to, co naplnilo moje srdce a učinilo mě tak nekonečně šťastným, neboť co jsem dosud napsal, je pouze úvod, který nebude možné pochopit bez znalosti následujícího. Proto také můj radostný a neotřesitelný klid vůči novinám, které na mne útočí, aniž by mne chápaly._
 
 — Karel May v dopise J. Dederlemu,  
 po odjezdu z Damašku, červen 1900
-
-  
 
 Když se paša od žalářníka dozvěděl, že už jsem se dostal z nejhoršího, nechal nás předvést na dvůr. Šel jsem poslední, vratkým krokem, oslabený týdenním horečnatým sněním, a přímé denní světlo mě oslepovalo. Když jsem si rukou zaclonil oči, uviděl jsem Basada s Asmou polehávat na divanu ve stínu palem; Šakara seděla jako psík na polštáři u jejich nohou. Uprostřed dvorany čpěl sud se zelím, vedle něj na železném roštu hořela polena a nad ně Núbijci zavěsili obrovský kotel s vodou. Za nádobou stálo v půlkruhu v několika řadách asi třicet vojáků s připravenými puškami.
 
@@ -409,7 +396,7 @@ Když se paša od žalářníka dozvěděl, že už jsem se dostal z nejhorší
 
   
 
-Než jsem stačil dát Basadovi pádnou odpověď, uslyšeli jsme za palácovou zdí hlasy. Rychle jich přibývalo, slévaly se v jeden mohutný proud a žádaly propuštění zajatců. Záhy se k hlasům přidalo i bušení na bránu.
+> Než jsem stačil dát Basadovi pádnou odpověď, uslyšeli jsme za palácovou zdí hlasy. Rychle jich přibývalo, slévaly se v jeden mohutný proud a žádaly propuštění zajatců. Záhy se k hlasům přidalo i bušení na bránu.
 
 > „To jsou naši!“ zavýskl jeden z Arménů.
 
@@ -427,7 +414,7 @@ Než jsem stačil dát Basadovi pádnou odpověď, uslyšeli jsme za palácovou 
 
   
 
-Začal boj muže proti muži. Já ovšem nejdřív musel srovnat účet s Núbijci. Drtil jsem je svojí pěstí s dobře posazenými klouby, a když už ruka umdlévala, použil jsem pažbu revolveru. Musel jsem jim zasadit víc ran, než mívám ve zvyku, ale zanedlouho přede mnou leželi omráčení všichni čtyři.
+> Začal boj muže proti muži. Já ovšem nejdřív musel srovnat účet s Núbijci. Drtil jsem je svojí pěstí s dobře posazenými klouby, a když už ruka umdlévala, použil jsem pažbu revolveru. Musel jsem jim zasadit víc ran, než mívám ve zvyku, ale zanedlouho přede mnou leželi omráčení všichni čtyři.
 
 > Vtom vřava kolem mě ustala, zápolící muži se na okamžik ztišili. Rozhlédl jsem se kolem sebe a pochopil jsem – Šakara s Asmou se na sebe vrhly, vzduchem létaly cáry šatů a všichni se zatajeným dechem sledovali tu krásu bez závoje. Rychle jsem dceru Džamikunů odtrhl, protože další nemravnou scénu jsem si nemohl dovolit; varováním mi bylo, že z mého nedávného románu _Pouští a harémem_ Fehsenfeld vypustil _a harémem_. Zahalil jsem Šakaru svým pláštěm, Asma se přikryla polštářem a muži se vrátili k boji na život a na smrt.
 
@@ -479,14 +466,12 @@ Začal boj muže proti muži. Já ovšem nejdřív musel srovnat účet s Núbi
 
 > Ohledáním mrtvoly jsem zjistil, že Ašára Basada zadusil košťál, který Adolf z vůle Boží nestihl rozšlapat a který pašovi pronikl hluboko do jícnu.
 
-\* \* \*
+> \* \* \*
 
 > _Jsem teď přímo opak dřívějšího Karla. Toho jsem s velkým ceremoniálem utopil v Rudém moři, s lodním uhlím, které ho stáhlo ke dnu._
 
 — Karel May v dopise Richardovi a Kláře Plöhnovým,  
 Jemen, 16. září 1899
-
-  
 
 Ve dvoraně nastal mír. Po Basadově smrti obě strany zanechaly bojů a ošetřování raněných i drancování paláce probíhalo ve vzájemné shodě. Vojáci se s Armény dávali do řeči, protože se často znali ze sousedství a jako malí společně chodili házet kamení nebo pouštět draky. Já jsem zase v přátelské rozpravě s Núbijci zavzpomínal na dobrodružství z dob, kdy jsem se plavil po Nilu ze Súdánu do Káhiry.
 
@@ -516,9 +501,9 @@ Ve dvoraně nastal mír. Po Basadově smrti obě strany zanechaly bojů a ošet
 
   
 
-Vrátili jsme se do kavárny, kde jsme předtím nechali koně a pušky, a já tam nad lahví dvanáctky dopsal zbytek příběhu – jak s Šakarou opouštíme Damašek východní branou Bab Šarkí a vjíždíme do kamenité pouště, já na svém věrném vraníku Assilovi a ona na pašově bělouši. Potom cváláme k perským horám, kde nakonec čtenářům zmizíme z očí.
+> Vrátili jsme se do kavárny, kde jsme předtím nechali koně a pušky, a já tam nad lahví dvanáctky dopsal zbytek příběhu – jak s Šakarou opouštíme Damašek východní branou Bab Šarkí a vjíždíme do kamenité pouště, já na svém věrném vraníku Assilovi a ona na pašově bělouši. Potom cváláme k perským horám, kde nakonec čtenářům zmizíme z očí.
 
-\* \* \*
+> \* \* \*
 
 > _Ti, kteří mě nechtějí pochopit, protože píšu proti jejich předsudkům, mi předhazují, že své „Já“ vynáším do nebes. Nazývají mě chvastounem a snad ještě jinak a hůř. Milý Bože! Nikdo nemá tak málo důvodů a chuti vychloubat se jako právě já! To „Já“, o kterém píšu, to přece nejsem já sám, nýbrž je to otázka lidstva, kterou se pokouším zosobnit, abych na ni mohl odpovědět._
 

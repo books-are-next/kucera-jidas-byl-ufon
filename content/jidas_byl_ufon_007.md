@@ -1,5 +1,6 @@
 ---
 title: "V\_království Urubů"
+subtitle: ''
 contentType: prose
 ---
 
@@ -8,8 +9,6 @@ contentType: prose
 > _Toho rána Tamapu odešel na lov s odhodláním, že chytí jednoho uruba. Šel směrem k laguně, protože věděl, že sem tento dravý pták chodí chytat ryby. Schoval se za strom a trpělivě čekal. Urubu přiletěl a začal číhat na své oblíbené ryby. Byl tím tak zaujat, že neslyšel, jak Tamapu vzal šíp a napjal luk. Na místě ptáka zabil. Tamapu byl na to velmi hrdý, protože bylo těžké uruba překvapit a zasáhnout. Chystal se vydat i se svou trofejí na zpáteční cestu do vesnice, když zaslechl jakési sténání. Vypadalo to, že pochází od velké palmy na břehu jezera. Tamapu se přiblížil a uviděl nádherného malého uruba. Rozhodl se, že ho vezme s sebou a ponechá si ho. Malý urubu ho následoval a pořád vzlykal. Občas se Tamapu ohlédl, urubu měl obličej a tělo ženy a překrásné peří. Proč by se s ní nemohl oženit? Byla mnohem krásnější než všechny dívky ve vesnici…_
 
 _— Mýty a legendy amerického kontinentu_
-
-  
 
 Inspektor Tamapu de Silveira věděl, že se těžko může stát detektivem v kriminální povídce. Moderní knižní detektivové bývají rozvedení alkoholici a proutníci, kteří ztratili někoho blízkého v tragické autonehodě, případně něčí smrt zavinili při výkonu služby. Zároveň bývají obdaření nějakou mimořádnou schopností, nebo mají aspoň psího parťáka. Tamapu měl hodnou ženu, na psy alergii a pil jen společensky, aby se neřeklo. Jeho babička byla indiánka, ale to, že on sám nosil indiánské jméno, s tím nesouviselo – jen se narodil v době hledání kořenů, kdy indiánská jména přišla do módy. Tamapu býval cvičitelem capoeiry, ovšem po zranění kolena přestal a od té doby mírně tloustl. K jeho zálibám patřilo sbírání fotbalových dresů – a měl i takové obskurní kousky jako trikoty fotbalistů Arménie nebo České republiky – ale ani to nebylo dostatečně osobité, aby si ho čtenáři zapamatovali.
 
@@ -25,7 +24,7 @@ Inspektor Tamapu de Silveira věděl, že se těžko může stát detektivem v 
 
   
 
-Dešťové mraky pohltily hrb Corcovado i s Kristem Vykupitelem. V navlhlých ulicích houstla mlha a od moře skučel studený vítr, takže na pláže padala nálada anglických blat. Tamapu se vřadil do ranní zácpy, v níž se s urputností buvolů prodíraly městské autobusy. Posouval se ke třídě Rio Branco a potom dál k přístavišti.
+> Dešťové mraky pohltily hrb Corcovado i s Kristem Vykupitelem. V navlhlých ulicích houstla mlha a od moře skučel studený vítr, takže na pláže padala nálada anglických blat. Tamapu se vřadil do ranní zácpy, v níž se s urputností buvolů prodíraly městské autobusy. Posouval se ke třídě Rio Branco a potom dál k přístavišti.
 
 > Vzpomněl si, jak ho v těch místech před lety přepadli během nočního čekání na semaforech – měl tenkrát nové auto, takže si ho zřejmě spletli s cizincem. _Assaltantes_ byli velice profesionální, obstoupili vůz, namířili na něj zbraně a řekli si o peníze. Tamapu byl tenkrát obstojný _jogador_, bojovník capoeiry, a v pouzdře měl služební pistoli, ale ani ho nenapadlo klást odpor, protože znal policejní statistiky a věděl, jak hrdinové obvykle dopadají. Podal jim peněženku a poprosil, aby mu vrátili doklady, což zbojníci z favely udělali. Krátce po Tamapuově incidentu radní rozhodli, že rijští řidiči v noci nemusejí stavět na červenou, díky čemuž klesl počet přepadení a stoupl počet přejetých chodců.
 
@@ -33,9 +32,7 @@ Dešťové mraky pohltily hrb Corcovado i s Kristem Vykupitelem. V navlhlých
 
 > Když loď vyplula do zálivu Guanabara, mraky se na chvilku rozestoupily a Tamapu zahlédl Krista nad městem. Dneska poprvé v jeho pažích viděl gesto loučení.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Anglické počasí svíralo jen Rio. Nad zátokou svítilo slunce, podél lodi vyskakovali z vody delfíni a z hřbetů jim odstřikovaly kapky duhy. Tamapu se už dlouho necítil takhle svobodný. Míjeli oblé ostrůvky, které díky zvyku stavět kostely na vrcholech kopců připomínaly obrysy dívčích ňader. Po necelé hodině plavby se na obzoru konečně vynořila Paqueta, s věží kostela, vyčnívající mezi korunami stromů. Nad věží kroužili ptáci urubové.
 
@@ -65,7 +62,7 @@ Anglické počasí svíralo jen Rio. Nad zátokou svítilo slunce, podél lodi v
 
   
 
-„Tak povídejte,“ vybídl Tamapu Marcia, který zatím rozléval pivo z lahve do malých skleniček. Inspektor se musel sám sobě usmát – odpustil svému podřízenému špinavé kalhoty a zahrádkaření, hlavně aby ve službě nepil. Měl by mu vyčinit aspoň teď, ale paquetské slunce pálilo tak, že ze sebe dostal jen žíznivé přitakání.
+> „Tak povídejte,“ vybídl Tamapu Marcia, který zatím rozléval pivo z lahve do malých skleniček. Inspektor se musel sám sobě usmát – odpustil svému podřízenému špinavé kalhoty a zahrádkaření, hlavně aby ve službě nepil. Měl by mu vyčinit aspoň teď, ale paquetské slunce pálilo tak, že ze sebe dostal jen žíznivé přitakání.
 
 > „Jakého vraha? Myslel jsem, že ta holka prostě zmizela, o vraždě nikdo nemluvil.“
 
@@ -107,9 +104,7 @@ Anglické počasí svíralo jen Rio. Nad zátokou svítilo slunce, podél lodi v
 
 > Potom vyšli do odpoledního slunce. Před jídelnou narazili na několik urubů pojídajících zbytky Antoniových ryb a Tamapu pochopil, proč předtím, když loď vjížděla do přístavu, kroužili nad kostelní věží. Cantina Bom Jesus spojovala všechny obyvatele ostrova.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Byla to tedy klasická záhada zamčeného pokoje; konečně něco jiného než smutné případy, kdy se na kraji favely střílí kvůli drogám. Tamapu procházel alejí baobabů, které se tyčily podél cesty k policejní stanici jako dvacet velkých černoušků, a vzpomněl si na zvyk, o němž slýchal už jako malý. Zastavil se a políbil kmen největšího z nich, přezdívaného „Maria Gorda“, tedy „Tlustá Marie“, aby mu přinesl štěstí. Marcio se na něj přátelsky šklebil – věděl, že zvyky se mají dodržovat.
 
@@ -131,9 +126,7 @@ Byla to tedy klasická záhada zamčeného pokoje; konečně něco jiného než 
 
 > „To se tu stává,“ vysvětlil mu později Marcio, „je tu na ně hrozně vlhko. Taky nám tu všechno reziví, lampy, lavičky, zámky…“
 
-\* \* \*
-
-  
+> \* \* \*
 
 Žena odešla do práce, ještě než se František probudil. Převaloval se sám mezi spánkem a bděním, první myšlenky se mu mísily s posledními sny a čím dál víc odbíhaly od kriminální zápletky k milostným tématům – vztahu Ytuany s Lucasem, do nějž se zvláštním způsobem projektoval vztah inspektora s jeho manželkou.
 
@@ -143,13 +136,13 @@ Byla to tedy klasická záhada zamčeného pokoje; konečně něco jiného než 
 
   
 
-Vstal, vytáhl žaluzii a podíval se z okna. Na svahu za domem se ranní mlhou projížděla dívka na koni. František na ni zíral jako na přelud, ani by si nevzpomněl, kdy naposled na vlastní oči viděl koně. Vlastně by si skoro ani nevzpomněl, kdy naposled na vlastní oči viděl cizí dívku. Po chvíli si všimnul, že jezdkyně jsou dvě, jedna vždycky čeká pod kopcem a v sedle se střídají. Hned dostal nápad na detektivku z dostihového prostředí o záměně dvou žokejek, z nichž jedna ze žárlivosti zavraždí druhou, ale vzápětí ho v útrobách bodla jehla marnosti a on radši zase zatáhl žaluzii.
+> Vstal, vytáhl žaluzii a podíval se z okna. Na svahu za domem se ranní mlhou projížděla dívka na koni. František na ni zíral jako na přelud, ani by si nevzpomněl, kdy naposled na vlastní oči viděl koně. Vlastně by si skoro ani nevzpomněl, kdy naposled na vlastní oči viděl cizí dívku. Po chvíli si všimnul, že jezdkyně jsou dvě, jedna vždycky čeká pod kopcem a v sedle se střídají. Hned dostal nápad na detektivku z dostihového prostředí o záměně dvou žokejek, z nichž jedna ze žárlivosti zavraždí druhou, ale vzápětí ho v útrobách bodla jehla marnosti a on radši zase zatáhl žaluzii.
 
 > Šel se nasnídat a při jídle pročetl leták Penny marketu.
 
   
 
-Poslední dobou nerad vycházel z bytu, s výjimkou pravidelných výprav do supermarketu, kde skupoval alkohol v akci. Věděl, že žena to s ním má těžké, a dojímala ho její trpnost, v níž občas viděl obětavost. Už proto ji nemohl opustit.
+> Poslední dobou nerad vycházel z bytu, s výjimkou pravidelných výprav do supermarketu, kde skupoval alkohol v akci. Věděl, že žena to s ním má těžké, a dojímala ho její trpnost, v níž občas viděl obětavost. Už proto ji nemohl opustit.
 
 > Když byla v práci, František rád pil a koukal z okna na ulici pod sebou, na barokní kostelík svatého Jana Křtitele, kterému ani obklíčení paneláky a plastovými kontejnery nesebralo zbytky vznešenosti (zachytil ho v knížce _Svatojánské vraždy_), anebo na zastřené siluety Lužických hor v dálce (ty zvěčnil v románu _Nový poklad na Sierra Madre_).
 
@@ -157,15 +150,13 @@ Poslední dobou nerad vycházel z bytu, s výjimkou pravidelných výprav do s
 
   
 
-V obchodě František koupil veku, vejce, sýr ke strouhání a láhev _cachaçi_. To už měl svůj plán vymyšlený.
+> V obchodě František koupil veku, vejce, sýr ke strouhání a láhev _cachaçi_. To už měl svůj plán vymyšlený.
 
 > Dopoledne psal, k obědu si ohřál, co zbylo od neděle, a odpoledne psal dál. Přiblížil se k vyřešení celého případu, ale všechno čtenářům prozradit nechtěl – rád by na svou jihoamerickou detektivku uplatnil Borgesovu myšlenku, že záhada je součástí nadpřirozeného, zatímco její rozluštění je jenom trik.
 
 > Když padl soumrak, vyklonil se František z okna s cigaretou a sklenicí cachaçi a pozoroval uvolněný vánoční řetěz na protější lodžii, který se v houstnoucím šeru vlnil jako medúza. Dole na zastávce kašlali lidé. Na zemi ležel sníh, v němž František tušil ranní otisky koňských kopyt.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Čelní strana domu v ulici Princezny Adelaide, obílená vápnem, působila dojmem malé útulné vilky, ale když Tamapu prošel brankou a podíval se dál za stromy kryjící její boky, zjistil, že na slušivou hlavní stavbu je zezadu nalepená dlouhá šedivá budova zastřešující bezpočet malých činžovních bytů. Marcio otevřel hlavní dveře a vedl inspektora nekonečnou ponurou chodbou.
 
@@ -279,9 +270,7 @@ V obchodě František koupil veku, vejce, sýr ke strouhání a láhev _cacha�
 
 > „Jo, její babička byla indiánka. Ale s tím to jméno nesouvisí, to jí rodiče dali jen tak.“
 
-\* \* \*
-
-  
+> \* \* \*
 
 Inspektor na osiřelé policejní stanici večeřel obložené chleby od manželky, zapíjel je pivem, které našel v lednici, četl Ytuaninu knihu a snažil se krotit svoje čtenářské fantazie. Za oknem zatím hvízdal osamělý komár jako harmonikář v _Tenkrát na Západě_.
 
@@ -289,9 +278,7 @@ Inspektor na osiřelé policejní stanici večeřel obložené chleby od manžel
 
 > Než se Tamapu uložil ke spánku, vytočil číslo svojí ženy. Měla vypnutý telefon.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Zrovna když se Marcio pustil do roztloukání nasekaných lián, přerušil Františkovo psaní klíč v zámku. Domů se vrátila jeho žena.
 
@@ -333,7 +320,7 @@ Tamapu chtěl myslet na Ytuanu, ale místo toho myslel na svoji ženu. Myslel na
 
   
 
-Teď František strouhal sýr na smaženky, zatímco žena třídila špinavé prádlo a tmavé házela do pračky, protože zítra měli naposledy v tomto týdnu nárok na sušárnu. František nad struhadlem myslel na _Mýty a legendy_.
+> Teď František strouhal sýr na smaženky, zatímco žena třídila špinavé prádlo a tmavé házela do pračky, protože zítra měli naposledy v tomto týdnu nárok na sušárnu. František nad struhadlem myslel na _Mýty a legendy_.
 
 > Indián Tamapu si z lovu, poté co zabil ptáka urubu, přivedl do vesnice krásnou dceru urubího krále. Ale protože jeho matka snachu cizinku nenáviděla, rozhodli se novomanželé vyletět do království Urubů. Tam zase nenáviděl ptačí král svého lidského zetě, proto ho podrobil řadě zkoušek, které ho měly připravit o život. Tamapu s pomocí lesních zvířat všem nástrahám unikl, ale nakonec pochopil, že žít s královskou dcerou mu není souzeno, takže se po pavoučím vlákně spustil zpátky domů. František v té pověsti o lidech a bozích viděl hlavně příběh nemožnosti porozumění. Jen přemýšlel, jestli se Tamapu zabitím uruba provinil, a následující události tak na sebe přivolal jako trest, nebo jestli marnost vztahu s milovanou ženou byla v jeho osudu vkořeněná už od narození.
 
@@ -341,7 +328,7 @@ Teď František strouhal sýr na smaženky, zatímco žena třídila špinavé p
 
   
 
-Napadlo ho to nedávno, když se v časopise cukrovkářů dočetl o syndromu náhlého úmrtí: _„Dead in bed syndrom“ je uváděn jako příčina smrti až 6 % diabetiků 1. typu mladších 40 let. Typickou obětí je mladý, dobře kompenzovaný diabetik, který jde večer normálně spát a ráno je nalezen mrtev. Nejčastější diagnóza zní: smrt v důsledku srdeční arytmie navozené nerozpoznanou hypoglykémií během spánku._
+> Napadlo ho to nedávno, když se v časopise cukrovkářů dočetl o syndromu náhlého úmrtí: _„Dead in bed syndrom“ je uváděn jako příčina smrti až 6 % diabetiků 1. typu mladších 40 let. Typickou obětí je mladý, dobře kompenzovaný diabetik, který jde večer normálně spát a ráno je nalezen mrtev. Nejčastější diagnóza zní: smrt v důsledku srdeční arytmie navozené nerozpoznanou hypoglykémií během spánku._
 
 > František tenkrát stránku z časopisu opatrně vytrhl a uložil ji do svých desek na poznámky.
 
@@ -373,9 +360,7 @@ Napadlo ho to nedávno, když se v časopise cukrovkářů dočetl o syndromu 
 
 > „Tak já ti to píchnu,“ nabídl se a bodl.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Ráno Tamapua probudil zpěv z ptačího hřbitova přes ulici. Paqueta byla nejspíš jediné místo na světě, kde lidé svým domácím papouškům a dalším opeřencům založili opravdový hřbitov, s kamennými náhrobky a vtesanými epitafy, bílými sochami zemřelých v nadživotní velikosti a květinami a stromy všude kolem. Ve větvích téhle zahrady mrtvých s oblibou usedali živí ptáci a zpívali.
 
@@ -387,7 +372,7 @@ Ráno Tamapua probudil zpěv z ptačího hřbitova přes ulici. Paqueta byla ne
 
   
 
-Zpátky na stanici našel inspektor Marcia zabraného do práce. Smečka toulavých psů prý poplašila koně, a ten rozkopl pouliční lampu. Místní měli zvířata rádi, takže psím tulákům se na Paquetě na rozdíl od Ria žilo dobře. Příhodám jako té dnešní nikdo nevěnoval pozornost, ale sepsat hlášení byla povinnost. Marcio od svého stolu vzhlédl skoro zoufale, protože ani inspektora zničená lampa nezaujala. Tamapuovy šedé buňky mozkové už naplno zaměstnávalo heslo Ytuaniny schránky.
+> Zpátky na stanici našel inspektor Marcia zabraného do práce. Smečka toulavých psů prý poplašila koně, a ten rozkopl pouliční lampu. Místní měli zvířata rádi, takže psím tulákům se na Paquetě na rozdíl od Ria žilo dobře. Příhodám jako té dnešní nikdo nevěnoval pozornost, ale sepsat hlášení byla povinnost. Marcio od svého stolu vzhlédl skoro zoufale, protože ani inspektora zničená lampa nezaujala. Tamapuovy šedé buňky mozkové už naplno zaměstnávalo heslo Ytuaniny schránky.
 
 > Vzal si protokol případu, položil se venku do hamaky, napsal do telefonu dívčinu e-mailovou adresu a přemýšlel. Pro úplnost zkusil na přihlašovací stránce do pole „heslo“ vepsat postupně a v různých kombinacích její osobní údaje, jako jméno nebo cifry z data narození, a nezapomněl ani na jméno Lucas. Vyzkoušel taky nejčastěji používaná e-mailová hesla, tedy samotné slovo „heslo“ nebo číselnou řadu od 1 do 9. Nepřekvapilo ho ale, že žádná z možností nefungovala. Zasněná dívka jako Ytuana – a o její slabosti pro sny inspektor nepochyboval – by si nezvolila něco tak všedního.
 
@@ -419,7 +404,7 @@ Zpátky na stanici našel inspektor Marcia zabraného do práce. Smečka toulav�
 
   
 
-Nejdřív se přihlásil do Ytuaniny e-mailové schránky. Našel v ní běžné dopisování s rodiči i profesory na univerzitě a zprávy z inter­netových obchodů. Ani občasná korespondence s Lucasem neodhalila nic důležitého – šlo vesměs o nákupní seznamy, které jeden z partnerů posílal, když ten druhý byl zrovna v Riu.
+> Nejdřív se přihlásil do Ytuaniny e-mailové schránky. Našel v ní běžné dopisování s rodiči i profesory na univerzitě a zprávy z inter­netových obchodů. Ani občasná korespondence s Lucasem neodhalila nic důležitého – šlo vesměs o nákupní seznamy, které jeden z partnerů posílal, když ten druhý byl zrovna v Riu.
 
 > Zajímavější byly Ytuaniny zprávy jisté kamarádce z Pernambuca. Tamapu si poznamenal jméno, kdyby bylo třeba ji vyslechnout, ačkoli už z e-mailů zjistil, co potřeboval – Ytuana ve vztahu s Lucasem nebyla šťastná. Před časem ho zkusila opustit, ale nakonec se prašnými cestami doplazila zpátky do ulice Princezny Adelaide. Od té doby jiné muže nevyhledávala; nesnesla by, aby byl Lucas nešťastný, nesnesla by znovu ten výraz, který tenkrát říkal – dělej, co potřebuješ, já tu na tebe počkám. Proč neopustil on ji, nevěděla. Asi ji měl rád. Ona jeho taky. Láska za časů samoty.
 
@@ -429,7 +414,7 @@ Nejdřív se přihlásil do Ytuaniny e-mailové schránky. Našel v ní běžn�
 
   
 
-Potom nasedl na policejní kolo a vyrazil na druhou stranu ostrova, na místo činu. Všechny podrobnosti znal z Marciova protokolu, ale stejně se chtěl do paquetské džungle podívat. Když se ráno vrátil ze snídaně, řekl mu Marcio, že mezitím volali z Ria – nazítří prý konečně dorazí technici a psovodi, aby prohledali celý ostrov. Proto chtěl Tamapu vidět locus delicti ještě dnes, v klidu a sám.
+> Potom nasedl na policejní kolo a vyrazil na druhou stranu ostrova, na místo činu. Všechny podrobnosti znal z Marciova protokolu, ale stejně se chtěl do paquetské džungle podívat. Když se ráno vrátil ze snídaně, řekl mu Marcio, že mezitím volali z Ria – nazítří prý konečně dorazí technici a psovodi, aby prohledali celý ostrov. Proto chtěl Tamapu vidět locus delicti ještě dnes, v klidu a sám.
 
 > Kolo vrzalo a řídítka se samovolně stáčela k jedné straně, ale inspektor to ani nevnímal. Hlavu měl plnou Ytuanina případu, v němž Lucas rázem přestal být hlavním podezřelým. Šaman pravděpodobně nebyl Ytuanin milenec, protože ani její dopisy kamarádce nenasvědčovaly tomu, že by milence měla nebo toužila mít. Mohlo jít o drogy – „Šaman“ se ostatně jako přezdívka pro dealera nabízí –, ale inspektor doufal, že se mýlí; potom by se totiž jeho záhada zamčeného ostrova změnila v obyčejný mord se zakopanou mrtvolou, kterou zítra vystopují policejní psi.
 
@@ -437,7 +422,7 @@ Potom nasedl na policejní kolo a vyrazil na druhou stranu ostrova, na místo �
 
   
 
-V ulici Princezny Adelaide ho zastavila teskná kytarová melodie pronikající moskytiérou v okně Lucasovy garsonky. Opřel kolo o plot, vešel do domu a na konci dlouhé chodby zaklepal na Lucasovy dveře. Kytara ztichla a po chvíli inspektor zaslechl šouravé kroky. Dveře se otevřely, kruhy pod Lucasovýma očima, temnější než předtím, kontrastovaly s mladíkovou pobledlou tváří.
+> V ulici Princezny Adelaide ho zastavila teskná kytarová melodie pronikající moskytiérou v okně Lucasovy garsonky. Opřel kolo o plot, vešel do domu a na konci dlouhé chodby zaklepal na Lucasovy dveře. Kytara ztichla a po chvíli inspektor zaslechl šouravé kroky. Dveře se otevřely, kruhy pod Lucasovýma očima, temnější než předtím, kontrastovaly s mladíkovou pobledlou tváří.
 
 > „Že nesmíte odjet z ostrova, neznamená, že nesmíte ven z bytu,“ řekl Tamapu co nejsrdečněji.
 
@@ -479,9 +464,7 @@ V ulici Princezny Adelaide ho zastavila teskná kytarová melodie pronikající
 
 > „Už nám nemusíte být k dispozici, můžete jet do Ria nebo domů do Pernambuca, jak se vám zlíbí,“ řekl Lucasovi na rozloučenou.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Na ostrově bylo mrtvo, obyvatelé trávili siestu ve svých domech, a na ulici zůstalo jenom sem tam toulavé psisko, uložené v palmovém stínu, a žebra se mu zdvihala v pravidelném, klidném rytmu. Tamapu cítil, že s každým šlápnutím do rozviklaných pedálů se po­otočí i soukolí v jeho hlavě a rozřešení Ytuanina případu se rýsuje stejně neodvratně jako silueta džungle na obzoru.
 
@@ -493,7 +476,7 @@ Na ostrově bylo mrtvo, obyvatelé trávili siestu ve svých domech, a na ulici
 
   
 
-Džungle stoupala do kopce a Tamapu stoupal s ní. Prošel kolem opuštěné vojenské základny, překročil zástup jaguářích mravenců a klestil si cestu snovou vůní divokých květin. Najednou zaslechl slabý úder. A další. Zastavil se a naslouchal, ale nedokázal určit víc než směr. Sek. Sek. Sešel ze stezky a opatrně se prodíral porostem. Paquetská džungle je malá, při pohledu zvenčí vlastně jen zarostlý kopec, ale když člověk sejde z cesty, dostávají vzdálenosti nový rozměr. I čas je jiný. Tamapu se snažil dávat pozor na hady a vyhýbat se tlustým pavučinám. Občas se porostem prosmýklo zvíře, jehož podobu jenom tušil. Údery sílily, teď už Tamapu dokázal určit, že jejich původce je člověk. Jako by někdo sekal do měkkého dřeva. Tamapu ostražitě našlapoval a po tváři mu stékal pot, který komáři hltali spolu s jeho krví. Cítil vodu, stojatou, trochu tlející. Podle čím dál zřetelnějších úderů Tamapu rozpoznal mačetu. Ten člověk tedy má zbraň, kdežto inspektor nechal pistoli na stanici. Pomalu rozhrnoval větve a komáři i pach vody byli stále štiplavější.
+> Džungle stoupala do kopce a Tamapu stoupal s ní. Prošel kolem opuštěné vojenské základny, překročil zástup jaguářích mravenců a klestil si cestu snovou vůní divokých květin. Najednou zaslechl slabý úder. A další. Zastavil se a naslouchal, ale nedokázal určit víc než směr. Sek. Sek. Sešel ze stezky a opatrně se prodíral porostem. Paquetská džungle je malá, při pohledu zvenčí vlastně jen zarostlý kopec, ale když člověk sejde z cesty, dostávají vzdálenosti nový rozměr. I čas je jiný. Tamapu se snažil dávat pozor na hady a vyhýbat se tlustým pavučinám. Občas se porostem prosmýklo zvíře, jehož podobu jenom tušil. Údery sílily, teď už Tamapu dokázal určit, že jejich původce je člověk. Jako by někdo sekal do měkkého dřeva. Tamapu ostražitě našlapoval a po tváři mu stékal pot, který komáři hltali spolu s jeho krví. Cítil vodu, stojatou, trochu tlející. Podle čím dál zřetelnějších úderů Tamapu rozpoznal mačetu. Ten člověk tedy má zbraň, kdežto inspektor nechal pistoli na stanici. Pomalu rozhrnoval větve a komáři i pach vody byli stále štiplavější.
 
 > Konečně se vegetace rozestoupila a Tamapua bodl do očí odraz světla v laguně. Odpolední slunce procházelo korunami stromů zešikma jako vitráží a nad hladinou vytvářelo šerosvitnou náladu barokní kaple. _Pérola barocca_, nepravidelná perla, taková byla laguna na Paquetě, ohraničená mohutnými balvany. Jenom ty údery mačetou rušily kostelní klid. Šaman stál na jednom z kamenů, otočený k Tamapuovi zády, a sekal liány smrti. U nohou mu ležela kupka lián už sklizených a vedle, na vyhaslém ohništi, odpočíval měděný kotlík.
 
@@ -503,7 +486,7 @@ Džungle stoupala do kopce a Tamapu stoupal s ní. Prošel kolem opuštěné v
 
   
 
-„_Olá_,“ pozdravil inspektor.
+> „_Olá_,“ pozdravil inspektor.
 
 > „_Olá_,“ odpověděl Marcio.
 
@@ -535,13 +518,11 @@ Džungle stoupala do kopce a Tamapu stoupal s ní. Prošel kolem opuštěné v
 
   
 
-Tamapu si mnul koleno. Marcio pomalu vstával z vody, držel si naražená žebra a popadal dech. Pistole i mačeta neškodně ležely na dně.
+> Tamapu si mnul koleno. Marcio pomalu vstával z vody, držel si naražená žebra a popadal dech. Pistole i mačeta neškodně ležely na dně.
 
 > „Polezte ven,“ podal mu Tamapu ruku. „Zapomenu na to, co se tu teď stalo, i na to, že jste chtěl očernit nevinného, když mi popíšete, co se tady v pondělí odpoledne opravdu odehrálo.“
 
-\* \* \*
-
-  
+> \* \* \*
 
 Večeře byla snědená, pražská mordparta vyřešila svůj poslední případ a nahradil ji proud reklam. Seděli na pohovce, břicha bezstarostně povolená.
 
@@ -553,9 +534,7 @@ Večeře byla snědená, pražská mordparta vyřešila svůj poslední případ
 
 > Políbil ji na orosené čelo, přitiskla se k němu. V tu chvíli byl šťastný jako první den toho maturitního jara, kdy se o něj zlehka opírala cestou domů. Její rodina tehdy bydlela na kraji města a František si vzpomínal, že na poli v dálce se ve zvířeném prachu honily dva secí stroje jako zelení nosorožci. Věděl, že i ona je šťastná. Vzpomněl si na citát, který by se hodil jako motto detektivky z Brazílie – Márquez jím uvedl svoji _Kroniku ohlášené smrti: Láska se loví z výšky_.
 
-\* \* \*
-
-  
+> \* \* \*
 
 Slunce zmizelo za vrcholkem kopce a hladina laguny potemněla. _Pérola negra_. Tamapu si vzpomněl na pověst z Ytuaniny knihy, o jaguárovi, který po laguně posílal svoje oči, a pátravě prohlédl vodní plochu. Džungle kolem nich ožívala výkřiky opic a ptáků. Marcio dokončil svůj příběh a chvěl se po celém těle. Tamapu to připisoval jeho nedobrovolné koupeli, než si uvědomil, že se chvěje i on sám. Mlčeli.
 
@@ -567,13 +546,11 @@ Slunce zmizelo za vrcholkem kopce a hladina laguny potemněla. _Pérola negra_.
 
 > Marcio chvíli nechápavě zíral, ale nakonec porozuměl. Beze slova se zvedl a začal rozdělávat oheň, v jehož světle potom roztloukal nasekané liány –
 
-\* \* \*
-
-  
+> \* \* \*
 
 O dva dny později vyšel v místním deníku článek, který začínal zhruba takhle: _Skokem z okna svého bytu spáchal sebevraždu František Hodkovský, oblíbený autor detektivních knih, držitel čestné medaile našeho města. Policie později v bytě nalezla mrtvé tělo jeho manželky. Zemřela nejspíš ve spánku po těžkém diabetickém záchvatu, cizí zavinění policejní mluvčí vyloučil. Policie pracuje s hypotézou, že právě její smrt byla motivem spisovatelovy sebevraždy. „Je to obrov­ská ztráta,“ uvedl Hodkovského nakladatel s tím, že chystá vydání autorovy poslední, nedokončené prózy V království Urubů a dotisk románu Vražda v Polskim Expressu._
 
-\* \* \*
+> \* \* \*
 
 > _Tamapu už neměl žádnou naději žít se ženou, kterou miloval. Rozhodl se tedy podle pavoukových rad, že si zachrání alespoň život a dostane se na zem živ a zdráv. Ještě dlouho potom, kdykoli uviděl třpytící se pavučinu na slunci, se mu zdálo, že má tvar obrovského žebříku a on stoupá po příčkách, aby znovu našel v oblacích, v království Urubů, královskou dceru._
 
