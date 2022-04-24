@@ -8,7 +8,7 @@ _Záhady nás zajímají všechny. Aspoň doufám._
 > _— Dan Brown v pořadu BBC,  
 > 7\. dubna 2006_
 
-### I.
+#### I.
 
   
 
@@ -74,7 +74,7 @@ Když se usadil, jako první ke stolku přistoupila Ipek.
 
 > Muž k němu beze slova otočil vnitřní stranu límce kabátu. Robert uviděl odznak jednotek SS.
 
-### II.
+#### II.
 
   
 
@@ -124,7 +124,7 @@ Johan se ztěžka zvedl a snažil se popadnout dech. Cítil, že má zlomené �
 
 Nemo stál ve stínu hlavní brány a sledoval Johana. Věděl, že ten člověk hledá Roberta Langdona. A že ho k němu dovede.
 
-### III.
+#### III.
 
   
 
@@ -218,7 +218,7 @@ Dneska se ale neusmíval.
 
 > V nastalém tichu uslyšeli za dveřmi kroky.
 
-### IV.
+#### IV.
 
   
 
@@ -322,7 +322,7 @@ Fiat přejel Atatürkův most a mířil po Kennedyho třídě do historické č
 
 Nemo se vynořil z vody. Z čela mu crčela krev, naražené kosti ho bolely, ale to nebylo nic proti bolesti z porážky, kterou mu uštědřil ten nesmrtelný _Lazarus_. Krauloval ke břehu, než někdo stačí přivolat ambulanci. Do rozbřesku zbývalo necelých devět hodin. Mohl udělat jediné – skrýt se v chrámu a počkat, až tam Langdon dorazí. Nechtěl ho nechat zajít tak daleko, ale teď už neměl jinou možnost.
 
-### V.
+#### V.
 
   
 
@@ -360,7 +360,7 @@ Nemo se vynořil z vody. Z čela mu crčela krev, naražené kosti ho bolely, 
 
 > Pak přišel zřízenec kavárny a za ty čmáranice je ihned vyhodil ven.
 
-### VI.
+#### VI.
 
   
 
@@ -396,7 +396,7 @@ Robert s Ipek zamířili k fiatu.
 
 > „Přesně tak,“ přikývl Johan. „A árijská rasa s pomocí _Kosmova evangelia_ ovládne vesmír.“
 
-### VII.
+#### VII.
 
   
 
@@ -452,7 +452,7 @@ Johan se obrátil k Robertovi. „Na co jste přišel, profesore?“
 
 > „Totiž, ehm, zdá se, že _Jidáš byl ufon_.“
 
-### VIII.
+#### VIII.
 
   
 
@@ -482,7 +482,7 @@ Mysli, Roberte!
 
 > „_Hagia Sofia!_“ vykřikl. „Tam leží klíč k tajemství!“
 
-### IX.
+#### IX.
 
   
 
@@ -498,7 +498,7 @@ Chrám Boží moudrosti neboli Hagia Sofia. Robert ji dobře znal z Wikipedie, 
 
 > Robert poděkoval a všichni tři se vydali k budově. Pokladní se za nimi dívala a těšila se, až bude doma vyprávět, že mluvila s Tomem Hanksem.
 
-### X.
+#### X.
 
   
 
@@ -536,7 +536,7 @@ Nadčlověk!
 
 > „_Alles gute_,“ řekl Johan a přijal smrtící ránu.
 
-### XI.
+#### XI.
 
   
 
@@ -592,7 +592,7 @@ Robert s Ipek utíkali temným Istanbulem. Náměstí Sultána Ahmeda bylo skor
 
 > „Rychle! Dovnitř!“ šeptl Robert. „A rozsviťte si baterku.“ Ipek, neschopná slova, vstoupila na první schůdek. Robert ji následoval a zevnitř zavřel vchod, jako by to byly obyčejné posuvné dveře.
 
-### XII.
+#### XII.
 
   
 
@@ -614,7 +614,7 @@ Stoupali po schůdcích až do chodby, která vedla nad Justiniánovou nádrží
 
 > „To hned zjistíme.“
 
-### XIII.
+#### XIII.
 
   
 
@@ -670,7 +670,7 @@ V labyrintu chodeb sledovali znamení spirály, a to je dovedlo až do rozlehl
 
 > Ipek svěsila hlavu. „Otec zemřel při autonehodě krátce po naší cestě.“
 
-### XIV.
+#### XIV.
 
   
 
@@ -716,7 +716,7 @@ Vtom nad sebou ucítili slabé dunění. Polekaně vzhlédli.
 
 > „Ne!“ zvolala Ipek. Nechtěla otce ztratit podruhé a vrhla se k němu. Kulka ji zasáhla mezi lopatky a ona se s výkřikem zvrátila v otcově náruči.
 
-### XV.
+#### XV.
 
   
 
