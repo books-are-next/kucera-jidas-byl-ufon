@@ -14,21 +14,21 @@
       "yearPublished": "2016"
     },
     "elements": {
-      "title": "MLP-uroven2-kapitola\nMLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady\nMLP_uroven2_kapitola\nMLP_uroven3_nadpis",
+      "title": "MLP_uroven2_kapitola\nMLP_uroven3_nadpis\nMLP_uroven3_nadpis ParaOverride-7",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis\nMLP_uroven2_kapitola\nMLP_uroven3_nadpis",
-      "h3": "MLP_uroven2_kapitola\nMLP_uroven3_nadpis",
-      "h4": "MLP_uroven3_nadpis",
+      "h2": "MLP_uroven2_kapitola\nMLP_uroven3_nadpis\nMLP_uroven3_nadpis ParaOverride-7\n",
+      "h3": "MLP_uroven3_nadpis\nMLP_uroven3_nadpis ParaOverride-7",
+      "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP_text_bez1radku_-12-0-\nMLP_text_bez1radku_-I-",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\n\n",
       "brAfter": "",
-      "blockquote": "\nMLP-dopis-bez1radku--I\nMLP_citat_autor\nMLP_dopis_bez1radku_-I-\nMLP_text\nMLP_verse_-0-12-\nMLP_verse_-12-12-",
-      "figure": "MLP-obrazky\nMLP_obrazky",
-      "em": "\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP_citat_autor\nMLP_dopis_bez1radku_-I-\nMLP_dopis_podpis_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_titulka_prekladatel\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b",
-      "strong": "MLP-licence-paragraf\nMLP-tiraz-autor-a-nazev\nMLP_licence_paragraf\nMLP_tiraz_autor_a_nazev",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I- \nMLP_citat_autor\nMLP_text",
+      "figure": "MLP_obrazky\nMLP_obrazky",
+      "em": "MLP_citat\nMLP_citat_autor\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b\nMLP_dopis_bez1radku_-I- ",
+      "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
     },
@@ -155,13 +155,13 @@
             "filename": "jidas_byl_ufon_010.md",
             "xhtml": "jidas_byl_ufon_010.xhtml",
             "id": 9,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Ďáblův doktor a mrtvý wallaby",
+            "title": "Ďáblův doktor a mrtvý wallaby",
             "children": []
           },
           {
@@ -189,7 +189,16 @@
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
+      },
+      {
+        "isSection": true,
+        "inToc": true,
+        "id": "section-2",
+        "children": [],
+        "listType": "plain",
+        "devoured": false
       }
     ],
     "replacements": []
