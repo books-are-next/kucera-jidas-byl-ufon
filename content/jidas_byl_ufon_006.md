@@ -203,6 +203,8 @@ Večer, zpátky ve svojí garsonce, připustil vodu do pánve, aby se mořská k
 
 #### II.
 
+  
+
 V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel.
 
 > Tolik se Marek o Kuklových posledních dnech dočetl v knize o literárních mýtech a záhadách. Předpokládal, že klíč k pátrání po Kuklově deníku leží někde v těch šesti dnech na konci října třicátého roku. Dopis, v němž se Kukla o deníku zmiňuje, podle Máji vznikl 28. října. Takový dopis nemusel nic znamenat, protože ve chvíli, kdy člověka opouštějí tělesné i duševní síly, může blouznit o ledasčem (což ostatně Kukla dělal, i když byl zcela zdráv), na druhou stranu ale Marek věděl, že právě krátce před smrtí se umírajícímu často rozjasní a on si věci kolem sebe uvědomuje ostřeji než po celé měsíce předtím.
@@ -742,6 +744,8 @@ Stalo se to ale dřív, než čekal.
 > Pochopil, že na prozkoumávání petřínských štol a jeskyň za Prahou není čas. Mája musí dostat Kuklův deník hned.
 
 \* \* \*
+
+  
 
 … Byla půlnoc, čirá tma a krutý, třeskutý mráz…! V pražských ulicích bylo smutno a pusto. Poslední vagóny elektrických drah odjely do remíz, s okny zamrzlými až do běla. Sem tam mihl se člověk s ohrnutým límcem kabátu, lampář, zhasínající světla v ulici, nebo strážník, který přešlapuje a dýchá do zkřehlých rukou!
 
