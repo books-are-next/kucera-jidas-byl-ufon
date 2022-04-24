@@ -5,7 +5,7 @@ contentType: prose
 
 (dobrodružné romaneto)
 
-### I.
+#### I.
 
   
 
@@ -201,7 +201,7 @@ Zabočili do Kozí ulice. Její reliéf ukazoval tíhu času – jak se povrch 
 
 Večer, zpátky ve svojí garsonce, připustil vodu do pánve, aby se mořská květina na jejím dně zase rozvlnila, ale kalný podvodní svět už mu nepřišel tolik poetický jako včera, tak ho seškrábal drátěnkou.
 
-### II.
+#### II.
 
 V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel.
 
@@ -335,7 +335,7 @@ Toho dne už se do Prahy nevrátili. Marek, kterého hřál na účtu honorář 
 
 > A jak řekla, tak udělali.
 
-### III.
+#### III.
 
   
 
@@ -529,7 +529,7 @@ Marek vypátral inženýra Vějíře, pražského speleologa, kterého kdysi do 
 
 > To bylo ono.
 
-### IV.
+#### IV.
 
 > _21\. října 1930_
 
@@ -597,7 +597,7 @@ V jednom pražském vetešnictví, kde se podle vývěsního štítu zastavil �
 
 > Potom Marek namluvil inženýru Vějířovi, že píše odbornou studii o vztahu K. L. Kukly ke skutečné podzemní Praze, vymámil z něj klíč od vchodu do šachty v Divadelní ulici a nechal si udělat jeho kopii. Jednou v noci, kdy i u Ducha zhaslo světlo a poslední noční ptáci odlétli do nonstopek na Novém Městě, sestoupil pod Krannerovu kašnu a vsunul plechovku s deníkem do jedné z větracích šachet.
 
-### V.
+#### V.
 
   
 
@@ -785,7 +785,7 @@ Divadelní ulice vede souběžně se Smetanovým nábřežím, ale asi dva metry
 
 > „Ten deník chci,“ řekl obrys hlasem knihovnice Vladany.
 
-### VI.
+#### VI.
 
   
 
