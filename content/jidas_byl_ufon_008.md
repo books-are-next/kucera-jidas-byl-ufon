@@ -5,14 +5,14 @@ contentType: prose
 
 (podle Roberta Tallanta a Roberta Altmana)
 
-Eh, yé, yé, Mamzelle Marie  
+_Eh, yé, yé, Mamzelle Marie  
 Ya, yé, yé, li konin tu, gris-gris  
 Li té kouri lekal, aver vieux kokodril  
-Oh, ouai, yé Mamzelle Marie
+Oh, ouai, yé Mamzelle Marie_
 
-Li appé vini, li Grand Zombi  
+_Li appé vini, li Grand Zombi  
 Li appé vini, pol fé mouri!  
-Oh, ouai, yé Mamzelle Marie!
+Oh, ouai, yé Mamzelle Marie!_
 
 ### I.
 
