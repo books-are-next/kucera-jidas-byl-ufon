@@ -44,7 +44,7 @@ tocBase:
         title: Vězeň damašský
         hiddenTitle: false
       - link: jidas_byl_ufon_010.html
-        title: "Ďáblův doktor a\_mrtvý wallaby"
+        title: Ďáblův doktor a mrtvý wallaby
         hiddenTitle: false
       - link: jidas_byl_ufon_011.html
         title: Poznámka autora

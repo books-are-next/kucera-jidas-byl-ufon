@@ -14,7 +14,7 @@ _Li appé vini, li Grand Zombi
 Li appé vini, pol fé mouri!  
 Oh, ouai, yé Mamzelle Marie!_
 
-#### I.
+### I.
 
   
 
@@ -136,7 +136,7 @@ Doma ji čekalo překvapení, usazené u stolu s hrnkem kávy. Marie Philome b
 
 > „Nevím,“ odpověděla Marie Laveau. „Nevím, co bude.“
 
-#### II.
+### II.
 
   
 
@@ -344,7 +344,7 @@ Butlerovo panování nad New Orleansem netrvalo dlouho. Vláda ve Washingtonu oc
 
 Mezi Yankeei se rychle šířily pověsti o staré černošce, která dokáže ve svojí chatrči za pár drobných sehrát děsivé představení se závanem tajemných afrických kultů, takže navzdory protestům Marie Philome se ještě před koncem války dokázala Marie Laveau vrátit k řemeslu.
 
-#### III.
+### III.
 
   
 
