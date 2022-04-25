@@ -1,7 +1,7 @@
 {
   "author": "Štěpán Kučera",
   "contenttype": "prose",
-  "identifier": "kucera-jidas-byl-ufon-7b70f48",
+  "identifier": "kucera-jidas-byl-ufon-3e4325f",
   "isbn": "978-80-7227-377-5",
   "languagecode": "cs",
   "modified": "2021-10-06T00:00:00.000Z",
@@ -10,10 +10,10 @@
   "subtitle": "... a jiné příběhy",
   "title": "Jidáš byl ufon",
   "yearpublished": "2016",
-  "revision": "7b70f48",
+  "revision": "3e4325f",
   "generatedAt": {
-    "date": "Mon Apr 25 2022 20:08:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650917294399
+    "date": "Mon Apr 25 2022 20:14:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650917649053
   },
   "documents": [
     {
@@ -59,8 +59,8 @@
     {
       "title": "Kuklův klan • Jidáš byl ufon",
       "file": "jidas_byl_ufon_006.html",
-      "words": 12114,
-      "chars": 73748,
+      "words": 12113,
+      "chars": 73747,
       "ideas": 472,
       "role": "chapter",
       "order": 2,
@@ -199,13 +199,13 @@
   ],
   "totals": {
     "all": {
-      "words": 52898,
-      "chars": 324048,
+      "words": 52897,
+      "chars": 324047,
       "ideas": 1983
     },
     "chapters": {
-      "words": 52726,
-      "chars": 322982,
+      "words": 52725,
+      "chars": 322981,
       "ideas": 1955
     }
   }
