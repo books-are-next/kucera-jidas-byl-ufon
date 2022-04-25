@@ -15,9 +15,9 @@
     },
     "elements": {
       "title": "MLP_uroven2_kapitola\n\n",
-      "subtitle": "MLP_uroven3_nadpis",
-      "h2": "MLP_uroven2_kapitola\n\n",
-      "h3": "MLP_uroven3_nadpis\n",
+      "subtitle": "",
+      "h2": "MLP_uroven2_kapitola\nMLP_uroven3_nadpis\n\n",
+      "h3": "MLP_uroven3_nadpis\n\n",
       "h4": "",
       "hr": "",
       "hrBefore": "",
@@ -201,9 +201,7 @@
         "children": []
       }
     ],
-    "replacements": [
-      {}
-    ]
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -240,13 +238,13 @@
       },
       {
         "titleSuggest": "Jidáš byl ufon",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "I.",
         "filename": "jidas_byl_ufon_005.md",
         "xhtml": "jidas_byl_ufon_005.xhtml"
       },
       {
         "titleSuggest": "Kuklův klan",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "I.",
         "filename": "jidas_byl_ufon_006.md",
         "xhtml": "jidas_byl_ufon_006.xhtml"
       },
@@ -258,7 +256,7 @@
       },
       {
         "titleSuggest": "Marie Laveau Superstar",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "I.",
         "filename": "jidas_byl_ufon_008.md",
         "xhtml": "jidas_byl_ufon_008.xhtml"
       },
@@ -270,7 +268,7 @@
       },
       {
         "titleSuggest": "Ďáblův doktor a mrtvý wallaby",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Ďábel",
         "filename": "jidas_byl_ufon_010.md",
         "xhtml": "jidas_byl_ufon_010.xhtml"
       },
@@ -373,6 +371,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1650840911882
+    "generatedAt": 1650841950776
   }
 }
