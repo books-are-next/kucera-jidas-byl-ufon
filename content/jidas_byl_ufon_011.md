@@ -1,6 +1,5 @@
 ---
 title: Poznámka autora
-subtitle: ''
 contentType: prose
 ---
 

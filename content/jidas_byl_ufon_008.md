@@ -1,6 +1,5 @@
 ---
 title: Marie Laveau Superstar
-subtitle: I.
 contentType: prose
 ---
 
@@ -14,6 +13,8 @@ Oh, ouai, yé Mamzelle Marie_
 _Li appé vini, li Grand Zombi  
 Li appé vini, pol fé mouri!  
 Oh, ouai, yé Mamzelle Marie!_
+
+### I.
 
 _Spolu s ní umírá mnoho zla, ale neměli bychom dodat, že i trocha poezie?_ psalo se po její smrti v novinách _The Times Democrat_.
 

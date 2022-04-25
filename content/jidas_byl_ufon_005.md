@@ -1,6 +1,5 @@
 ---
 title: Jidáš byl ufon
-subtitle: I.
 contentType: prose
 ---
 
@@ -8,6 +7,8 @@ Záhady nás zajímají všechny. Aspoň doufám.
 
 > — Dan Brown v pořadu BBC,  
 > 7\. dubna 2006
+
+### I.
 
 „Zítřek, tedy dvacátý první prosinec 2012, je z astrologického hlediska jedno z nejvýznamnějších dat vůbec,“ říkala právě docentka Ipek Sakarya z institutu kosmických věd Istanbulské univerzity a hlas se jí neznatelně třásl vzrušením. „Zítra za rozednění se Slunce po šestadvaceti tisíci letech ocitne v konjunkci průsečnice Mléčné dráhy a roviny ekliptiky.“
 

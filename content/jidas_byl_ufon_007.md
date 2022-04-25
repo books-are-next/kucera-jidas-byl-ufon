@@ -1,6 +1,5 @@
 ---
 title: "V\_království Urubů"
-subtitle: ''
 contentType: prose
 ---
 

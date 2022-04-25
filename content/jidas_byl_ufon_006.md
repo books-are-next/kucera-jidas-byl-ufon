@@ -1,10 +1,11 @@
 ---
 title: Kuklův klan
-subtitle: I.
 contentType: prose
 ---
 
 (dobrodružné romaneto)
+
+### I.
 
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, četl obtahy příštího vydání literární přílohy, kterou vedl, a vpisoval do článků korekturní značky. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
