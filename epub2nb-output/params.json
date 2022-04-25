@@ -23,11 +23,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku_-I- \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\n\n",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I- \nMLP_citat_autor\nMLP_hvezdicky\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-",
-      "figure": "MLP_obrazky\nMLP_obrazky",
-      "em": "MLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b\nMLP_dopis_bez1radku_-I- ",
+      "brBefore": "MLP_text_bez1radku_-I- \nMLP_text_bez1radku_-12-0-\n\n",
+      "brAfter": "MLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-I-\n",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I-\nMLP_citat_autor\nMLP_hvezdicky\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-\nMLP_text_bez1radku_-I-",
+      "figure": "MLP_obrazky",
+      "em": "MLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I-\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b\nMLP_dopis_bez1radku_-I-\nMLP_text_bez1radku_-I- ",
       "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
@@ -370,6 +370,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1650916017770
+    "generatedAt": 1650916741011
   }
 }
