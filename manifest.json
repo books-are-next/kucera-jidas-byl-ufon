@@ -1,7 +1,7 @@
 {
   "author": "Štěpán Kučera",
   "contenttype": "prose",
-  "identifier": "kucera-jidas-byl-ufon-4a00c45",
+  "identifier": "kucera-jidas-byl-ufon-18df0ef",
   "isbn": "978-80-7227-377-5",
   "languagecode": "cs",
   "modified": "2021-10-06T00:00:00.000Z",
@@ -10,10 +10,10 @@
   "subtitle": "... a jiné příběhy",
   "title": "Jidáš byl ufon",
   "yearpublished": "2016",
-  "revision": "4a00c45",
+  "revision": "18df0ef",
   "generatedAt": {
-    "date": "Mon Apr 25 2022 19:37:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650915421573
+    "date": "Mon Apr 25 2022 19:48:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650916090671
   },
   "documents": [
     {
@@ -179,9 +179,9 @@
     {
       "title": "Tiráž • Jidáš byl ufon",
       "file": "colophon.html",
-      "words": 165,
-      "chars": 1036,
-      "ideas": 24,
+      "words": 166,
+      "chars": 1040,
+      "ideas": 25,
       "role": "colophon",
       "order": null,
       "prev": "jidas_byl_ufon_011.html",
@@ -192,103 +192,16 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Jidáš byl ufon",
-              "id": "jidáš-byl-ufon",
-              "children": [
-                {
-                  "index": 2,
-                  "level": 3,
-                  "name": "… a jiné příběhy",
-                  "id": "-ajiné-příběhy",
-                  "children": []
-                },
-                {
-                  "index": 3,
-                  "level": 3,
-                  "name": "Štěpán Kučera",
-                  "id": "štěpán-kučera",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "Text díla (Štěpán Kučera: Jidáš byl ufon … a jiné příběhy), publikovaného Městskou knihovnou v Praze, je vázán autorskými právy a jeho použití je definováno Autorským zákonem č. 121/2000 Sb.",
-              "id": "text-díla-štěpán-kučera-jidáš-byl-ufon-a-jiné-příběhy-publikovaného-městskouknihovnouvpraze-jenbspvázán-autorskými-právy-anbspjeho-použití-jenbspdefinováno-autorskýmzákonem-č1212000sb",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko.",
-              "id": "vydání-obálka-upoutávka-citační-stránka-anbspgrafická-úprava-jehož-autorem-jenbspměstská-knihovna-vpraze-podléhá-licenci-creative-commons-uveďte-autora-nevyužívejte-dílo-komerčně-zachovejte-licenci-30-českohttpscreativecommonsorglicensesby-nc-sa30cz",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "Štěpán KučeraJidáš byl ufon",
-              "id": "štěpán-kučerajidáš-byl-ufon",
-              "children": [
-                {
-                  "index": 7,
-                  "level": 3,
-                  "name": "… a jiné příběhy",
-                  "id": "-ajiné-příběhy-1",
-                  "children": []
-                },
-                {
-                  "index": 8,
-                  "level": 3,
-                  "name": "Redakce Jaroslava Bednářová",
-                  "id": "redakce-jaroslava-bednářová",
-                  "children": []
-                },
-                {
-                  "index": 9,
-                  "level": 3,
-                  "name": "Mariánské nám. 1, 115 72 Praha 1",
-                  "id": "mariánské-nám1-11572-praha1",
-                  "children": []
-                },
-                {
-                  "index": 10,
-                  "level": 3,
-                  "name": "Verze 1.0 z 8. 10. 2021",
-                  "id": "verze10-z8102021",
-                  "children": []
-                },
-                {
-                  "index": 11,
-                  "level": 3,
-                  "name": "ISBN 978-80-274-1885-5 (pdf)",
-                  "id": "isbn-978-80-274-1885-5-pdf",
-                  "children": []
-                },
-                {
-                  "index": 12,
-                  "level": 3,
-                  "name": "ISBN 978-80-274-1886-2 (prc)",
-                  "id": "isbn-978-80-274-1886-2-prc",
-                  "children": []
-                }
-              ]
-            }
-          ]
+          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 52896,
-      "chars": 324049,
-      "ideas": 1982
+      "words": 52897,
+      "chars": 324053,
+      "ideas": 1983
     },
     "chapters": {
       "words": 52725,
