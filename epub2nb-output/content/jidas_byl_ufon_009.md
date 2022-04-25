@@ -1,6 +1,5 @@
 ---
 title: Vězeň damašský
-subtitle: ''
 contentType: prose
 ---
 

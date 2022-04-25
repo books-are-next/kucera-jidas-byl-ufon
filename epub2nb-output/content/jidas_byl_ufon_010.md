@@ -1,6 +1,5 @@
 ---
 title: "Ďáblův doktor a\_mrtvý wallaby"
-subtitle: Ďábel
 contentType: prose
 ---
 
@@ -11,6 +10,8 @@ contentType: prose
 > _Od Šumburka přehlédne se celá krajina na vše strany, také jest zde proslulý doktor, který jest velmi stár, ale výtečně prý nemocné léčí a hojí._
 
 — Z cestovního deníku císaře Josefa II.
+
+### Ďábel
 
 „Teufel,“ představil se můj nový nakladatel a odložil si plášť. Četl ve sborníku Kruhu autorů Liberecka moje povídky na motivy jizersko­horských pověstí a nabídl mi vydání knížky, takže teď přijel za mnou do kanceláře, abych podepsal nakladatelskou smlouvu.
 
