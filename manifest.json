@@ -1,7 +1,7 @@
 {
   "author": "Štěpán Kučera",
   "contenttype": "prose",
-  "identifier": "kucera-jidas-byl-ufon-7fbb90d",
+  "identifier": "kucera-jidas-byl-ufon-df5359e",
   "isbn": "978-80-7227-377-5",
   "languagecode": "cs",
   "modified": "2021-10-06T00:00:00.000Z",
@@ -10,10 +10,10 @@
   "subtitle": "... a jiné příběhy",
   "title": "Jidáš byl ufon",
   "yearpublished": "2016",
-  "revision": "7fbb90d",
+  "revision": "df5359e",
   "generatedAt": {
-    "date": "Mon Apr 25 2022 20:25:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650918340589
+    "date": "Mon Apr 25 2022 20:30:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650918634968
   },
   "documents": [
     {
