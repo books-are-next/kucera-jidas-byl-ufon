@@ -13,8 +13,6 @@ contentType: prose
 
 ### Ďábel
 
-  
-
 „Teufel,“ představil se můj nový nakladatel a odložil si plášť. Četl ve sborníku Kruhu autorů Liberecka moje povídky na motivy jizersko­horských pověstí a nabídl mi vydání knížky, takže teď přijel za mnou do kanceláře, abych podepsal nakladatelskou smlouvu.
 
 „Dáte si něco k pití, kafe, čaj?“
@@ -86,8 +84,6 @@ V krvi mi vířily zbytky Devil’s Share i Teufelových hypnotik.
 Domů jsem šel přes hráz. Za přehradou se černal náš věžák, kde svítilo už jen okno sochaře Slívy v posledním patře a odsud to vypadalo jak pokračování hvězdné oblohy. Nedávno jsem četl o teorii astronomů, že kolem Slunce kdysi obíhalo o jednu planetu víc, ale gravitace ostatních planet ji vytlačila z oběžné dráhy a ten ztracený svět prý dodnes bloudí vesmírem. Myslel jsem na svoji ženu, a jak naše postel ze začátku voněla čerstvým dřevem. Na hladině pode mnou se převalovalo hejno kaprů a vytvářelo divoké, proměnlivé obrazce ve světle hrázních luceren. Zmámeně jsem na ně zíral, nakloněný přes zábradlí. Staří mystici říkají, že všechna magie je v přírodě a adepti čarodějnictví musejí přírodu pokorně pozorovat. Astrofyzici pomocí pokusů s laserovými paprsky vymysleli teorii, jak mohl na Zemi vzniknout život, a přitom pořád nedokážou život definovat a říct, v čem spočívá jeho jedinečnost. Vzpomněl jsem si na sousedku, která před lety skočila z druhé strany hráze, ale dole se zabořila po kolena do bahna, takže se nezabila, jenom si rozdrtila nohy; s ohleduplně nezúčastněným pohledem jí dneska otevíráme dveře výtahu, aby mohla s vozíkem projet. Odstoupil jsem od zábradlí, protože se mi pekelně zatočila hlava. Cítil jsem, jak mi do krku stoupají žaludeční šťávy, a ke křoví za koncem hráze jsem doběhl v poslední chvíli.
 
 ### Markétka
-
-  
 
 Následující den byla naštěstí sobota. Spolkl jsem brufen, uvařil si kafe a progoogloval Teufelovo jméno – podle očekávání na mě vyskočila jen německy psaná hesla o čertech a množství obrázků rohatců s vidlemi i bez nich. Na stránkách nakladatelství, kterým se Teufel zaštiťoval, jeho jméno taky nikde nebylo. Napsal jsem mu na adresu, z níž mě před týdnem oslovil, ale e-mail se vrátil jako nedoručitelný. Přemýšlel jsem, co dělat dál.
 
@@ -165,8 +161,6 @@ Ustoupil jsem mimoděk o půl kroku.
 
 ### Mistr
 
-  
-
 V patře nade mnou bzučel vysavač jako mechanický komár. Myslel jsem na dobu, kdy se věřilo v ďábly, kdy zuřila sedmiletá válka a v místě našich paneláků tábořili Švédové, kdy horami putovali pašeráci a v lesích hřměly přestřelky mezi myslivci a pytláky, takže ještě dneska leží pod jehličím olověné kule, odlité z kradených kostel­ních rámů. Rád jsem studoval pověsti z těch časů a vkládal do nich kus svojí samoty. Když Teufel zneužil moje psaní, zasáhl mě na nekrytém místě a já byl teď rozhodnutý dostat ho za každou cenu. Pohled mi zabloudil ke zdi, kde visela myslivecká dýka po dědovi – byla to jediná použitelná zbraň, kterou jsem doma měl.
 
 Zavolal jsem _libereckému Hanussenovi_. Vzal telefon skoro okamžitě, představil se svým občanským jménem, a teprve když jsem mu vysvětlil, proč se s ním chci sejít, začal mluvit jako mystik. Domluvili jsme si schůzku v Café Reichenberg na dnešní odpoledne, protože zřejmě taky neměl v neděli nic lepšího na práci.
@@ -242,8 +236,6 @@ Dopili jsme kávu a Hanussen mi vyprávěl, že všechna magie je v přírodě
 > Cestou domů, zrovna když tramvaj vjela do šedivého kouře, protože zahrádkáři podél řeky pálili shrabanou trávu, mi Hanussen zavolal. Říkal, že Kromlechovi zkusil napsat, ale e-mail se mu vrátil jako nedoručitelný. Poděkoval jsem a zavěsil. Potom jsem se dlouho díval do houstnoucího dýmu a myslel na Teufela, jak za sebou pálí mosty.
 
 ### Doktor
-
-  
 
 V pondělí jsem šel do práce s útrobami sevřenými strachem. Na zmizení grimoáru se přijde, až si ho někdo bude chtít prohlédnout, ale těžko říct, jestli se to stane zítra nebo za měsíc. Vedle archivu stála budova bývalé porodnice, už oprýskaná a se zrezivělými ukazateli, obrostlá nálety dřevin. Tady jsem přišel na svět, ale momentálně jsem vůči tomu místu necítil žádný vděk.
 
@@ -343,8 +335,6 @@ Přivolala vrchního, že chce platit.
 
 ### Čarodějka
 
-  
-
 Týdny plynuly a já zkusil snad všechno. Napadlo mě, že Teufelova znalost nakladatelských smluv a knižního trhu vychází z toho, že někdy opravdu vydával knihy, a tak jsem obvolával nakladatelství a ptal se po současném nebo bývalém zaměstnanci, který by odpo­vídal Teufelovu popisu. Marně. Taky jsem zvažoval, jestli krádež v archivu neprovedl víckrát, a probíral jsem se podobnými případy z minulých let. Dokonce jsem ve vězení navštívil muže, který na zámku v Nelahozevsi a v dalších institucích uloupil historické mapy za třináct milionů. Připomínal postavu z Čapkových povídek – středoškolský učitel zeměpisu a vášnivý sběratel, který chodil po archivech a vyřezával mapy ze starých knih. Nakonec z nich uspořádal výstavu a pozvánku na vernisáž poslal i do nelahozeveského zámku, kde hned zavolali policii. Vyprávěl mi o lásce ke kartografii i o technice krádeží, ale k Teufelovi mě nijak nepřiblížil.
 
 Do práce jsem chodil s čím dál větší úzkostí, protože každým dalším dnem se odhalení nevyhnutelně blížilo, a bez prášků jsem už nedokázal usnout. Napadlo mě dokonce fingovat v archivu loupež, ale můj plán ztroskotal na tom, že bych nedokázal vypáčit trezor. Taky jsem mohl dát výpověď a zmizet, ovšem to by znamenalo přiznat porážku. Nenáviděl jsem Teufela za to, jak snadno mi ze života udělal peklo.
@@ -402,8 +392,6 @@ Musel jsem nutně mluvit s Johnnym Hellerem.
 Po několikahodinovém prohledávání internetu jsem konečně objevil způsob – Heller byl registrovaný na serveru HelpX, který sdružuje farmáře hledající pracovní sílu a cestovatele ochotné pracovat za nocleh a stravu. Bez dlouhého přemýšlení jsem se zaregistroval. Heller sháněl zdatné a zručné muže pro stavební práce a já mu nabídl svoji pomoc, i když jsem v životě nestloukl ani ptačí budku. Chtěl jsem ho hlavně přimět k odpovědi a vtáhnout do korespondence.
 
 ### Had
-
-  
 
 Některé stromy podél silnice byly zčernalé, ohořelé. Z jiných stromů visely cáry kůry jako lidská kůže nebo vytékala krvavě červená smůla. Míjeli jsme cedule _Risk Poison_, protože po okolí byly rozmístěné otrávené návnady na lišky. Potom se začalo stmívat a z okna autobusu už jsem viděl jenom ohně, jak farmáři pálili suché větve, aby předešli dalším požárům buše. Jeli jsme celou noc.
 
@@ -515,8 +503,6 @@ To bylo zaříkání lískového hada, užovky bílé jako padlý sníh. _Tato s
 
 ### Wallaby
 
-  
-
 Po týdnu práce jsme dokončili přístavek a Johnny mi nabídl výlet do Stirling Range, kam se prý chtěli podívat všichni jeho zahraniční návštěvníci. Radostně jsem souhlasil, abych nevzbudil podezření. Stirling Range jsou nejvyšší hory v Západní Austrálii a posvátné místo zdejších Aboridžinců – právě odtud v _čase snění_ sestoupily na zem první bytosti, papoušci, klokani a lidé.
 
 Na silnici jsme vídali klokaní mršiny, některé už ohlodané na kost šelmami a hmyzem, jiné docela čerstvé – u těch Johnny zastavoval a nahlížel jim do kapes, jestli v nich nejsou živá mláďata. Na jedné straně silnice leží pole, kam se klokani ve dne chodí pást, a na druhé buš, kde přespávají – takže každé ráno přes silnici míří do polí a večer zase přes silnici zpátky. Farmáři by proto měli mít svoje pozemky oplocené, ale ne každý se tím řídí.
@@ -598,8 +584,6 @@ Byl to soused, který měl vinici pár mil za Johnnyho farmou.
 > Ráno mě probudila myšlenka, že Austrálie je jako dětství na vesnici; i tady nový den ohlašují hrdličky a člověk může prožít tajemství při cestě lesem. Vstal jsem, odhrnul těžký závěs a chvíli jen tak mžoural do slunce. Teprve pak jsem zapnul telefon, kde mě čekala zpráva od Markéty: _Pruser. Strejda zasel k vam do archivu a zjistil, ze grimoar je pryc. Chtej po tobe vyhlasit patrani. :-( Prijed co nejdriv_.
 
 ### Ďábel
-
-  
 
 Stoupal jsem do kopce podél německých vil, pod sebou město, v dálce hory, a fáborky nad autobazarem se v ranním slunci třpytily jak vodní hladina. V aktovce jsem nesl _Smržovský grimoár_, obálku a mysliveckou dýku po dědovi. Kdyby mi někdo prohledal tašku, myslel by možná, že jdu provádět pekelná zaříkání, protože v grimoáru hned na začátku stojí: _Nejprve se udělá kruh kordem, kterým ještě nebyl nikdo poraněn_. Byl jsem klidný jako lidé, kteří nemají co ztratit, a v noci jsem usnul i bez prášku.
 
@@ -738,8 +722,6 @@ Dívali jsme se na sebe. Potom jsem položil dýku a vzal si od něj smlouvu.
 „Ještě chci dopsat jednu kapitolu, pak vám to pošlu.“
 
 ### Krásná
-
-  
 
 Bylo po dešti, z lesů stoupala pára a ze zahrad vylézali hlemýždi. Sledoval jsem autobus mizející pod siluetou Krkonoš, kde na vrchol­cích i přes zamženou oblohu svítily zbytky sněhu, a pak jsem vykročil za davem do Krásné. Zdejší prvomájová pouť je událost i pro přespolní. V kostele svatého Josefa sloužil mši vikář z Mladé Boleslavi a pod barokní klenbou se tísnilo na sto lidí; pod kůrem parkovaly kočárky a vikářovo kázání občas zanikalo v pláči dětí. Na konci mše ti nejzbožnější a nejzdatnější po kolenou vyšli _svaté schody_ – připojil jsem se k nim; nikdy jsem se nemodlil, ale po událostech uplynulých týdnů jsem cítil potřebu klečet.
 

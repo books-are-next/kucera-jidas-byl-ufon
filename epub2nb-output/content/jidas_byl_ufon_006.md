@@ -7,8 +7,6 @@ contentType: prose
 
 ### I.
 
-  
-
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, četl obtahy příštího vydání literární přílohy, kterou vedl, a vpisoval do článků korekturní značky. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
 „Dneska do redakce přišly čtyři nový sbírky poezie,“ vzdychl Zdeněk a odložil korektury. „Jednu pochválím, jednu zaříznu a dvě rovnou vyhodim. Proč už dneska nikdo nenapíše něco doopravdy, jako kdysi? Kde je Goethe? Kde sou mladý Wertherové?!“ Marek mrkl na barmanku, ta nenápadně zdvihla čtyři prsty; tolik vín stačil Zdeněk vypít před jeho příchodem. Marek pochopil, že přišel ve správnou chvíli.
@@ -42,8 +40,6 @@ Zdeněk spokojeně kývnul. „A tak jo, tak to napiš.“
 „Tak platí.“
 
 > \* \* \*
-
-  
 
 Ten e-mail Marek dostal asi týden po tom, co jeho článek vyšel.
 
@@ -205,9 +201,7 @@ Markovi se ještě nechtělo vracet domů, tak si objednal pivo a utopence. Sle
 
   
 
-> _V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel._
-
-  
+V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel.
 
 Tolik se Marek o Kuklových posledních dnech dočetl v knize o literárních mýtech a záhadách. Předpokládal, že klíč k pátrání po Kuklově deníku leží někde v těch šesti dnech na konci října třicátého roku. Dopis, v němž se Kukla o deníku zmiňuje, podle Máji vznikl 28. října. Takový dopis nemusel nic znamenat, protože ve chvíli, kdy člověka opouštějí tělesné i duševní síly, může blouznit o ledasčem (což ostatně Kukla dělal, i když byl zcela zdráv), na druhou stranu ale Marek věděl, že právě krátce před smrtí se umírajícímu často rozjasní a on si věci kolem sebe uvědomuje ostřeji než po celé měsíce předtím.
 
@@ -341,8 +335,6 @@ A jak řekla, tak udělali.
 
 ### III.
 
-  
-
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, a recenzoval román. Zběžně přečetl první a poslední stránku, pak knihou zalistoval a na náhodně zvoleném místě zaškrtl dvě pasáže, které ve svém článku hodlal citovat. Takhle šlo zpracovat několikasetstránkovou knihu za půl hodiny.
 
 Marek si sedl na vedlejší stoličku a barmanka před něj postavila kozla.
@@ -388,8 +380,6 @@ Zdeněk škytl. „To by asi šlo.“
 „Tak patnácet, no.“
 
 > \* \* \*
-
-  
 
 Marek otevřel dveře svojí garsonky. Pokojem se linula vůně smažené zeleniny a píseň _Me and Bobby McGee_. Mája tančila u kuchyňské linky a zasypávala pánev kořením.
 
@@ -450,8 +440,6 @@ Všiml si, že je od nejbližšího pavilonu sleduje žena v bílém plášti. 
 Doklopýtala až k obryni v bílém. Ta si nevzrušeně prohlédla její ránu na předloktí a poslala ji do budovy. Potom zahodila světlušku cigarety, věnovala Markovi poslední pohled a zavřela za sebou dveře. Marek stál na trávníku před vysloužilým komínem, v kůži otisky Májiných zubů, a byla mu tma a zima.
 
 > \* \* \*
-
-  
 
 Kukla v dopise žádal rodinu, aby jeho deník opatrovala a v pravý čas s ním vyšla na světlo. Přitom deník někam ukryl – a kdyby ho schoval v domě, pozůstalí by ho jistě snadno objevili. Co tedy zbývá?
 
@@ -593,8 +581,6 @@ Později si Marek vybavoval hlavně to, jak stará pohovka pod jejich těly skř
 
 > \* \* \*
 
-  
-
 V jednom pražském vetešnictví, kde se podle vývěsního štítu zastavil čas v roce 1920, Marek koupil zpuchřelý sešit a přepsal do něj celý deník rukopisným stylem, který nacvičil podle dopisu Kovařovicovi. Nebylo to tak těžké, Kukla měl úhledné, drobné písmo, z nějž jenom iniciály vyčnívaly určitou rozmáchlostí. Hotové dílo následně vložil do zrezivělé plechovky od kávy, kterou sehnal v tomtéž vetešnictví; představoval si, že tak nějak by mohl sešit odolat nepříznivému klimatu v podzemí.
 
 Vladana ho sytila e-maily psanými kuklovským „sensačním“ stylem, na který už si Marek u svých žen pomalu začínal zvykat, a vyzvídala, jak pokračuje pátrání po deníku. Nejdřív jí odpovídal neurčitě a vyhýbavě, což ovšem její urputnost ještě posílilo, takže si nakonec její adresu nechal zablokovat a instruoval i sekretářku na katedře, aby jeho přítomnost v určitých případech zapírala. Sekretářka byla vášnivá čtenářka donchuánských povídek Milana Kundery, takže Markově prosbě ochotně vyhověla.
@@ -602,8 +588,6 @@ Vladana ho sytila e-maily psanými kuklovským „sensačním“ stylem, na kter
 Potom Marek namluvil inženýru Vějířovi, že píše odbornou studii o vztahu K. L. Kukly ke skutečné podzemní Praze, vymámil z něj klíč od vchodu do šachty v Divadelní ulici a nechal si udělat jeho kopii. Jednou v noci, kdy i u Ducha zhaslo světlo a poslední noční ptáci odlétli do nonstopek na Novém Městě, sestoupil pod Krannerovu kašnu a vsunul plechovku s deníkem do jedné z větracích šachet.
 
 ### V.
-
-  
 
 Zdeněk seděl na baru, před sebou dvojku rulandského a papír, v ruce tužku.
 
@@ -656,8 +640,6 @@ Zdeněk seděl na baru, před sebou dvojku rulandského a papír, v ruce tužk
 „Tak jdem na to?“ řekl, když mu natočila nového kozla.
 
 > \* \* \*
-
-  
 
 Marek cítil, že potřebuje o Kuklovi vědět víc, než sám dokáže vypátrat, proto jednoho dne zaklepal na dveře profesora Hrobaříka. Jeho pracovna připomínala archiv Národní knihovny, stěny byly od podlahy ke stropu zarovnané starými knihami, které vydávaly lehce omamný pach. Jenom pod oknem stálo místo knih kanape, kde Hrobařík sváděl studentky. Marek si vzpomněl, jak na židli, kam ho dnes profesor usadil, dělal před lety přijímací zkoušku. Tenkrát proti němu seděl Hrobařík, děkan fakulty a stará široká paní, která po celou dobu nepromluvila ani slovo a o níž se později dozvěděl, že bývala milenkou kritika Václava Černého. Tehdy v Hrobaříkově kabinetu, s pohledem upřeným na knihy a na kanape, si Marek umínil, že bude literárním vědcem.
 
@@ -749,9 +731,7 @@ Pochopil, že na prozkoumávání petřínských štol a jeskyň za Prahou nen�
 
   
 
-> _… Byla půlnoc, čirá tma a krutý, třeskutý mráz…! V pražských ulicích bylo smutno a pusto. Poslední vagóny elektrických drah odjely do remíz, s okny zamrzlými až do běla. Sem tam mihl se člověk s ohrnutým límcem kabátu, lampář, zhasínající světla v ulici, nebo strážník, který přešlapuje a dýchá do zkřehlých rukou!_
-
-  
+… Byla půlnoc, čirá tma a krutý, třeskutý mráz…! V pražských ulicích bylo smutno a pusto. Poslední vagóny elektrických drah odjely do remíz, s okny zamrzlými až do běla. Sem tam mihl se člověk s ohrnutým límcem kabátu, lampář, zhasínající světla v ulici, nebo strážník, který přešlapuje a dýchá do zkřehlých rukou!
 
 Praha spala…
 
@@ -795,8 +775,6 @@ Klekla si na zem a v prokřehlých dlaních držela svůj dárek, jako by čer
 
 ### VI.
 
-  
-
 Zdeněk seděl na baru, před sebou dvojku rulandského, četl obtahy příštího vydání a vpisoval do článků korekturní značky. Na třetí stránce byla otištěná ukázka z _Kuklova klanu_. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
 „Včera sem čet na střídačku Nietzscheho a Dostojevskýho,“ řekl Zdeněk a odložil obtahy.
@@ -832,8 +810,6 @@ Barmanka Zdeňkovi dolila víno a sáhla i po Markově půllitru.
 „Já zaplatim,“ řekl Marek. „Musim jít psát, teď je to napínavý.“
 
 > \* \* \*
-
-  
 
 Když si Marek zvykl na příliv bodavého světla, zjistil, že na ně Vladana míří puškou. Byla to stejná zbraň, kterou viděl u ní v kanceláři při první návštěvě Sedlčan. Vzpomněl si na zákon čechovovského dramatu, že když se v úvodu hry na scéně objeví puška, musí se z ní na konci hry vystřelit. Kéž by ho to napadlo dřív.
 
@@ -990,8 +966,6 @@ Vyklouzla ze zaprášené bundy jako motýl z kukly a naposled mu byla krásn�
 Zamířil ke svojí garsonce. Když došel do Divadelní ulice, zjistil, že v jeho domě se propadlo několik stropů a z bytů jsou rozvaliny; ale nezdálo se, že by byl někdo zraněný. Pod nohama mu skřípalo sklo a nad hlavou kroužil policejní vrtulník jako obří všetečná vážka.
 
 > \* \* \*
-
-  
 
 Od výbuchu v Divadelní ulici uplynulo několik měsíců.
 

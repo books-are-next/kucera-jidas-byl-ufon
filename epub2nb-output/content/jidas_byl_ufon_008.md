@@ -16,8 +16,6 @@ Oh, ouai, yé Mamzelle Marie!_
 
 ### I.
 
-  
-
 _Spolu s ní umírá mnoho zla, ale neměli bychom dodat, že i trocha poezie?_ psalo se po její smrti v novinách _The Times Democrat_.
 
   
@@ -138,8 +136,6 @@ A tak všechny tři seděly kolem stolu, mlčky upíjely a každá přemýšle
 
 ### II.
 
-  
-
 Byla válka.
 
 Na balkonech ve Vieux Carré, které čím dál víc lidí říkalo anglicky _French Quarter_, rozkvetly vlajky Konfederace a dechovka vyhrávala _Marseillaisu_ a _I Wish I Was in Dixie_, aby vábila mladé muže do boje. Místní rodák generál Beauregard odjel do Jižní Karolíny obléhat pevnost Fort Sumter, útočiště vojáků Unie – nejdřív s galantností hodnou Francouze nechal poslat unijním důstojníkům několik beden whisky a doutníků, ale Yankeeové mu dar vrátili neotevřený. Beauregard poté nechal na opevnění pálit z děl, a byly to první výstřely, které ve válce Severu proti Jihu padly. Pevnost Fort Sumter padla krátce poté.
@@ -189,8 +185,6 @@ Nejvíc to Marie vnímala na trhu, který se odehrával pod městskou hrází u�
 Královna voodoo začala chovat slepice, aby měla zadarmo aspoň vajíčka a občas maso, a těšit ji mohlo jedině to, že do čela konfederačních vojsk byl místo Beauregarda jmenován generál Lee.
 
 > \* \* \*
-
-  
 
 Následující rok vtrhlo jaro do města s nebývalou horkostí a vůni kvetoucích magnólií záhy zalehl puch z bažin. Takhle se většinou ohlašovala epidemie žluté zimnice, před níž Marie dokázala svoje lidi ochránit, zatímco bílí doktoři svým pouštěním žilou obyčejně zahubili víc Američanů, než kolik jich vyléčili. Marie odpočívala ve svém domku, odkud poslední dobou vycházela čím dál míň, vdechovala pach rozkladu a zdálo se jí o hadech. Očekávala neštěstí, a nemusela čekat dlouho.
 
@@ -304,8 +298,6 @@ Ozval se ohlušující potlesk.
 
 > \* \* \*
 
-  
-
 Butlerovo panování nad New Orleansem netrvalo dlouho. Vláda ve Washingtonu oceňovala jeho úspěchy, ale proti jeho drsným metodám – zvláště proti zacházení se vzpurnými ženami jako s prostitutkami – se zdvihl odpor na Jihu, na Severu, a dokonce i v zahraničí. Butlera nahradil generálmajor Banks s elegantním knírem i chováním, kterého kreolové uznali za kavalíra, a vztahy mezi starousedlíky a Yankeei se pomalu začaly zlepšovat.
 
 Jednoho dne cinkl zvonek nad Mariinou brankou a ona vyšla na zápraží prostovlasá a šedivá, protože k ní stejně nechodil nikdo jiný než Marie Philome s dětmi. Místo nich ovšem brankou prošly dvě mladé ženy, oblečené tak, jak si Marie představovala, že se chodí v New Yorku nebo Washingtonu.
@@ -345,8 +337,6 @@ Dívka se podívala do očí nejdřív lidské lebce na polici a potom i Marii
 > Mezi Yankeei se rychle šířily pověsti o staré černošce, která dokáže ve svojí chatrči za pár drobných sehrát děsivé představení se závanem tajemných afrických kultů, takže navzdory protestům Marie Philome se ještě před koncem války dokázala Marie Laveau vrátit k řemeslu.
 
 ### III.
-
-  
 
 Protože Unie obsadila New Orleans včas a bez boje, uniklo město zkáze, kterou koncem války rozsévala unijní armáda během tažení na Jih – takže po kapitulaci konfederačních vojsk se New Orleans snadno vrátil z doutnajících uhlíků k původnímu lesku drahokamu. Na samém konci obřího spáleniště, stranou kupeckého smlouvání vítězů s poraženými, ožívalo Mariino město zemitou hudbou a vznešenými divadly, vůní _gumba_ či račích specialit a klokotáním kolesových parníků na řece Mississippi. V ulicích polehávali bývalí otroci, kteří nevěděli co se svobodou, ale nikdo si jich příliš nevšímal. Do města přicházeli noví Američané a mlsně ochutnávali španělské, francouzské, ale i africké a haitské dědictví.
 
@@ -460,8 +450,6 @@ Marie neodpovídala. Různé ženy v různých dobách ji chtěly sesadit z tr
 
 > \* \* \*
 
-  
-
 Svatojánská slavnost se prý vydařila. I Bayou Saint John na břehu jezera Pontchartrain se sešlo dvanáct tisíc lidí všech odstínů kůže, včetně rodin s dětmi a přespolních výletníků. Dorazilo i několik novinářů. Na místě se platilo vstupné a prodávaly se upomínkové předměty, váčky s gris-gris a občerstvení – kuřecí maso, červené fazole, rýže, koláčky a alkohol. Neproběhly žádné tělesné prosto­pášnosti ani zvířecí oběti, nikdo nebyl nahý, obřad připomínal spíš veselou mši v přírodě. Velký potlesk sklidili kreolští tanečníci s kovovými nákoleníky, které při tanci řinčely a doprovázely hudbu. Lidé si se zájmem prohlíželi i zrezivělou ponorku, nedávno objevenou na dně bayou a vystavenou u břehu jako pozůstatek válečných časů. Marie Laveau byla mladá a krásná a místo hada měla obraz svatého Jana, který umístila doprostřed oltáře.
 
 Marie ani nechtěla vědět, která žena tentokrát sehrála její roli. Byla přesvědčená, že všechny nitky se tak jako tak scházejí v rukou Neda Buntlinea – zvlášť když se k ní doneslo, že nedlouho předtím v Chicagu uskutečnil s Buffalo Billem svoji první „Wild West Show“.
@@ -484,15 +472,11 @@ Na závěr svého vyprávění o Marii vystavil Cable úmrtní list celému voo
 
 > \* \* \*
 
-  
-
 Bylo po hurikánu. Cestu pokrýval písek, palmové listy a vyplavené mušle, trávníky v okolí se změnily v mokřady a brouzdaliště volavek. Marie došla pustou silnicí až k Bayou Saint John. Když vstupovala do vody, všimla si, že jezero je jiné, než bývá. Hladina se zježila a vystřelilo z ní v několika skocích hejno malých rybek, pelikáni nad nimi vzrušeně kroužili. Marii napadlo, jestli hurikán nevyhnal z bažin do jezera aligátory, ale neměla strach – chodila s nimi do školy. Podívala se pod sebe a v hlubině viděla oblaka zvířeného bahna, ona sama však zůstávala čistá. Mezi vlnami se jako stužka prosmýkl štíhlý had. Grand Zombi. Cikády ze stromů za jejími zády se rozkřičely tak silně, jak je ještě křičet neslyšela, a kolem hlavy jí prosvištělo obrovské hejno vážek, mířící k zapadajícímu slunci. Potom všechno ztichlo. Marie si uvědomila, že kráčí po vodě. A že je mladá a krásná.
 
 Zemřela ve spánku ve svém domku v ulici Svaté Anny.
 
 > \* \* \*
-
-  
 
 _Spolu s ní umírá mnoho zla, ale neměli bychom dodat, že i trocha poezie?_ psalo se v novinách _The Times Democrat_. Nekrology zveřejnily všechny neworleanské deníky, obsáhlý a dojemný článek vyšel dokonce i v The _New York Times._ K Mariině hrobce na hřbitově svatého Ludvíka dodnes přichází víc lidí než k hrobu Elvise Presleyho. Dodnes taky v New Orleansu najdeme ženy, které si říkají Marie Laveau a vydávají se za vtělení královny voodoo.
 

@@ -3,8 +3,6 @@ title: Poznámka autora
 contentType: prose
 ---
 
-  
-
 Za inspirativní rozhovory bych rád poděkoval pracovnicím městské knihovny Sedlčany a speleologovi Vladimíru Vojířovi (_Kuklův klan_), Jerrymu Gandolfovi z New Orleans Historic Voodoo Museum (_Marie Laveau Superstar_), mayologovi Janu Kotenovi (_Vězeň damašský_), vydavatelům Faustovy knihy a odborníkům na magii Ladislavu Loutchanovi a Jindřichu Kalvachovi; a taky Pavlu Pilzovi z Okresního archivu v Jablonci nad Nisou, který zná tajemství přihrádky číslo devět (_Ďáblův doktor a mrtvý wallaby_).
 
 Povídka _Vězeň damašský_ obsahuje citace z německých mayologických knih přeložených Janem Kotenem a vydaných privátním tiskem v Kotenově „edici Mayensia“. Text _Ďáblův doktor a mrtvý wallaby_ obsahuje parafráze pasáží povídky Archieho Wellera _Spirit Woman_ (ze sbírky _The Window Seat_, University of Queensland Press, 2009) a citace z publikace pánů Loutchana a Kalvacha _Johanna Fausta kniha mirákulí, uměn a divů neboli Trojnásobné pekelné zaříkání_ (Gnóm, 2001).

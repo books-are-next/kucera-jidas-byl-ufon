@@ -3,14 +3,12 @@ title: Jidáš byl ufon
 contentType: prose
 ---
 
-_Záhady nás zajímají všechny. Aspoň doufám._
+Záhady nás zajímají všechny. Aspoň doufám.
 
 > — Dan Brown v pořadu BBC,  
 > 7\. dubna 2006
 
 ### I.
-
-  
 
 „Zítřek, tedy dvacátý první prosinec 2012, je z astrologického hlediska jedno z nejvýznamnějších dat vůbec,“ říkala právě docentka Ipek Sakarya z institutu kosmických věd Istanbulské univerzity a hlas se jí neznatelně třásl vzrušením. „Zítra za rozednění se Slunce po šestadvaceti tisíci letech ocitne v konjunkci průsečnice Mléčné dráhy a roviny ekliptiky.“
 
@@ -76,8 +74,6 @@ Muž k němu beze slova otočil vnitřní stranu límce kabátu. Robert uviděl
 
 ### II.
 
-  
-
 Nemo seděl na nejvyšším ochozu beyazitské věže a hledáčkem pušky sledoval dění pod sebou. Měl rozhled po celém náměstí, ale jeho pozornost se soustředila ke vchodu Istanbulské univerzity. _Robert Langdon musí zemřít_. Nemo věděl, že profesor Langdon jako jediný člověk na světě dokáže rozluštit tajemství, které zničí všechno, čemu Nemo a miliony dalších lidí zasvětili svoje životy. _Jestli má zítra opravdu přijít apokalypsa, bude to Langdon, kdo ji rozpoutá. A já mu v tom musím zabránit._
 
 Nemo byl albín a leckdo z jeho známých mu předhazoval podobnost se zabijáckým mnichem Silasem z románu _Šifra mistra Leonarda_. Nemo si to vysvětloval tak, že není snadné vytvářet pořád nové prototypy padouchů a že čtenáři stejně chtějí číst hlavně to, co už sami znají. Ale jméno si vybral sám a byl na něj hrdý. Pocházelo ze středověkého spisu _Historia de Nemine_, tedy _Historie o panu Nikdo_. „Nemo“ znamená latinsky „nikdo“, ale autor spisu, jistý mnich Radulphus, to slovo začal psát s velkým písmenem jako vlastní jméno. Věta z Písma svatého „nemo deum vidit“ (nikdo nespatřil Boha) tak v jeho podání znamenala „Nemo deum vidit“ (Nemo spatřil Boha). Tímhle způsobem zpřevracel spoustu biblických příkazů a zákazů – všechno nedosažitelné a nemožné se stalo možným a dosažitelným pro tajemného Nema. V té době vznikla dokonce sekta s názvem _Secta neminima_, vzývající tajemného pana Nikdo, a církevní autority proti ní vedly rozzuřená kázání. Nemo si vybral svoje jméno, protože se cítil spřízněný s mystickým Nikým, který jako jediný člověk směl uvidět Boží tvář.
@@ -125,8 +121,6 @@ Johan se rozeběhl zpátky do budovy univerzity. Za chvíli vyběhl ven s adres
 > Nemo stál ve stínu hlavní brány a sledoval Johana. Věděl, že ten člověk hledá Roberta Langdona. A že ho k němu dovede.
 
 ### III.
-
-  
 
 „Tady Langdon!“ vyštěkl Robert do mobilu.
 
@@ -219,8 +213,6 @@ Robert se zarazil. Ohromeně shlížel z okna na ulici před domem.
 V nastalém tichu uslyšeli za dveřmi kroky.
 
 ### IV.
-
-  
 
 „Rychle! Na balkon!“ sykla Ipek.
 
@@ -324,8 +316,6 @@ _Takhle zvítězí Nadčlověk nad lidskou rasou!_ Johan objel kusy svodidel, co
 
 ### V.
 
-  
-
 „Wikipedie je nejspolehlivější informační zdroj,“ poučil Robert Ipek. „Dan ji taky při psaní používá.“ Hledal informace o sedmi křesťanských obcích v Malé Asii. „Víte, když jsem se dozvěděl, že svitek se našel ve vesnici Sart, něco mě napadlo. Jak jsem už říkal, na místě té vesnice leželo starověké město Sardy, jedno ze sedmi měst prvních křesťanů. Těchto sedm měst oslovuje svatý Jan v úvodu svého _Zjevení_, a když zmiňuje _sedm duchů pod trůnem_, má nepochybně na mysli taky těchto sedm měst.“
 
 „A totéž říká Kosmas!“ doplnila ho Ipek.
@@ -362,8 +352,6 @@ Pak přišel zřízenec kavárny a za ty čmáranice je ihned vyhodil ven.
 
 ### VI.
 
-  
-
 Robert s Ipek zamířili k fiatu.
 
 „Pane profesore,“ ozvalo se za nimi. Otočili se a uviděli Johana, jak je hypnotizuje svýma ledovýma očima. „Jestli se ještě jednou pokusíte o útěk, přinesu vám ukázat ne boty, ale nohy pana Browna, které mu vlastnoručně amputuju. Vaše dosavadní chování jsem ochoten považovat za nedorozumění. Ale teď mě prosím následujte do auta. Paní docentka bude řídit, my si sedneme dozadu. Myslím, že si máme o čem povídat.“
@@ -397,8 +385,6 @@ Johan se ušklíbl. „Myslím, že si nedokážeme porozumět. Myš­lenky, kte
 „Přesně tak,“ přikývl Johan. „A árijská rasa s pomocí _Kosmova evangelia_ ovládne vesmír.“
 
 ### VII.
-
-  
 
 Johan se obrátil k Robertovi. „Na co jste přišel, profesore?“
 
@@ -454,8 +440,6 @@ Johan i Ipek hltali každé jeho slovo.
 
 ### VIII.
 
-  
-
 Nějakou dobu všichni seděli jako opaření.
 
 První promluvil Johan: „Dobře, odhalili jsme původ Nadčlověka. Co dál? Nadčlověk musí sestoupit na Zem a v boji mezi ledem a ohněm zajistit vítězství nordické rasy.“
@@ -484,8 +468,6 @@ Mysli, Roberte!
 
 ### IX.
 
-  
-
 Chrám Boží moudrosti neboli Hagia Sofia. Robert ji dobře znal z Wikipedie, ale přesto ho její skutečná velkolepost ohromila. Když císař Konstantin uznal křesťanství jako státní náboženství, nechal po celé říši stavět velkolepé kostely. Hagia Sofia byla největším a nejkrásnějším z nich. Původně to byla obdélníková bazilika s dřevěnou střechou, ta ovšem o padesát let později vyhořela během nepokojů vyvolaných příznivci konstantinopolského patriarchy, který vystoupil proti stříbrné soše císařovny Eudoxie vztyčené přímo před vchodem do chrámu. Druhá, obnovená bazilika vyhořela o století později během povstání proti císaři Justiniánovi. Když císař zvítězil nad rebely, nechal vystavět třetí chrám, nejvelkolepější, jaký svět do té doby spatřil. Deset tisíc dělníků pracovalo pět let se stavebními materiály svezenými do Konstantinopole ze všech koutů byzantské říše. Během slavnostního otevření bylo obětováno sto volů, šest tisíc ovcí, šest set jelenů, tisíc prasat, deset tisíc slepic a deset tisíc kohoutů. Za dvacet let chrám poničilo zemětřesení, za dvě stě let ho poničili ikonoklasté, kteří Hagii Sofii oloupili o všechny fresky a sochy. Co nezvládli přírodní živly a obrazoborci, dokončili v dalším tisíciletí křižáci. Rozbili oltář Panny Marie, nahnali do chrámu mezky a nakládali na ně nakradené zlato a relikvie, na kazatelně nechali tančit nahou prostitutku. Když o tři sta let později město dobyl sultán Mehmed II., nalezl chrám Boží moudrosti v žalostném stavu. Turci Hagii Sofii opravili, přistavěli minarety a udělali z ní mešitu. Robert v myšlenkách přeskočil několik století a představil si Atatürka, generála s huňatým obočím, jak se chce vyrovnat dávným císařům a sultánům a zanechat v chrámu otisk svojí velikosti. Zrušil v Hagii Sofii mešitu a zřídil v ní muzeum. Ve zdech chrámu Boží moudrosti je vepsána historie lidstva – a tuto noc měl Robert zjistit, že je to historie mnohem tajemnější, než si do té doby myslel.
 
 Na náměstí Sultána Ahmeda se snášel soumrak, rackové usedali na střechy domů a chystali se ke spánku, unavené slunce zbarvilo oblohu do krvava. Zřízenkyně právě zamykala pokladnu a chystala se odejít domů.
@@ -499,8 +481,6 @@ Na náměstí Sultána Ahmeda se snášel soumrak, rackové usedali na střechy 
 Robert poděkoval a všichni tři se vydali k budově. Pokladní se za nimi dívala a těšila se, až bude doma vyprávět, že mluvila s Tomem Hanksem.
 
 ### X.
-
-  
 
 _Nejdůležitější je správná perspektiva_. Touhle zásadou se Robert řídil ve svojí akademické práci a vštěpoval ji i studentům. Vzpomněl si na jeden seminář symbologie v minulém semestru.
 
@@ -537,8 +517,6 @@ Johan s námahou zaostřil zrak a uviděl před sebou Nema s namířeným rev
 „_Alles gute_,“ řekl Johan a přijal smrtící ránu.
 
 ### XI.
-
-  
 
 Velmistr si oblékl jednoduchou řízu, jakou všichni Probudilí nosili na slavnostní mše. Konečně se dočkal. Této noci dojde ke spojení protikladů, svatý had pozře svůj ocas, minulost si podá ruku s budoucností, nebe se zemí, jeho vlastní život s životem celého lidstva, v jediné vteřině se odehraje věčnost. Sešel do krypty, aby do půlnoci stihl všechno připravit.
 
@@ -594,8 +572,6 @@ Ozvalo se jemné šplouchnutí vody, sloup se rozevřel a odhalil svoje tajemst
 
 ### XII.
 
-  
-
 Stoupali po schůdcích až do chodby, která vedla nad Justiniánovou nádrží, ale pořád pod povrchem země. Robert posvítil baterkou na stěnu chodby – byla tam v kameni vyryta spirála.
 
 „Jak… jak jste to udělal, tam dole?“ koktala Ipek.
@@ -615,8 +591,6 @@ Ipek se uchichtla. „No když jsme byli malí, dělali jsme si legraci, že to 
 „To hned zjistíme.“
 
 ### XIII.
-
-  
 
 V labyrintu chodeb sledovali znamení spirály, a to je dovedlo až do rozlehlé krypty, ozářené zvláštním světlem. Zhasli baterky a s úžasem sledovali původ podivné záře. Bylo to neskutečné. Nadskutečné. V kryptě stály nekonečné řady světélkujících skleněných válců a v každém z nich byl člověk. Robert i Ipek stáli s otevřenými ústy a nemohli uvěřit svým očím.
 
@@ -672,8 +646,6 @@ Ipek svěsila hlavu. „Otec zemřel při autonehodě krátce po naší cestě.�
 
 ### XIV.
 
-  
-
 Vtom nad sebou ucítili slabé dunění. Polekaně vzhlédli.
 
 „Mám strach, Roberte,“ Ipek se k němu přitiskla.
@@ -717,8 +689,6 @@ Vtom se ozvaly polekané výkřiky a les rukou ukázal nahoru na ochoz. Stál t
 „Ne!“ zvolala Ipek. Nechtěla otce ztratit podruhé a vrhla se k němu. Kulka ji zasáhla mezi lopatky a ona se s výkřikem zvrátila v otcově náruči.
 
 ### XV.
-
-  
 
 Něco takového Nemo nikdy nezažil a cítil, že to je zároveň poslední věc, kterou mu život přinesl. Všichni Probudilí na něj upřeli zrak, nic víc. Slyšel o tom, že kolektivní vědomí dokáže přenášet myšlenku, ale netušil, že může přenášet i smrt. Zatočila se mu hlava a zvedl žaludek. Namířil do davu revolver, ale prsty jako by mu zchromly. Připadal si opilý, kýval se na ochozu sem a tam. Z očí mu vytryskly slzy. „Nejsem Nikdo! Nevidím Boha!“ zavyl, než sletěl dolů a rozrazil si lebku na kamenné podlaze.
 

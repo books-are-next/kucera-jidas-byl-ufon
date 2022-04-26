@@ -10,8 +10,6 @@ contentType: prose
 _— Ägyptische Zeitung_, rubrika „Z kolonií“,  
 14\. květen 1899
 
-  
-
 Píšu v sedle, notes rozložený na koňské šíji. V rohu papíru je mastná skvrna a písmo mám poněkud kostrbaté, jak hřebec cválá kamenitou pouští. Až toto vyprávění dokončím, podá mi můj věrný sluha a přítel hádží Halef ze své sedlové brašny trochu _ssamghu_, arabské gumy, abych spisek zalepil a poslal přes moře vám, svým čtenářům. Budete ho číst v knize s pevnou vazbou a zlatou ořízkou a ani vás nenapadne, za jakých okolností se zrodil. Škoda že alespoň projednou nemůže moje vyprávění vyjít takto, na listech notesu, se skvrnou v rohu, aby skutečně každý pochopil, že má dobrodružství nevznikají ve studovně, jak se tu a tam vysloví nějaký moudrý pán.
 
 Míříme do Damašku po karavanní stezce, kterou před lety jeden německý zeměpisec nazval Hedvábná. Nezastavili jsme už několik dní a můj malý Halef, šejk Haddedínů, v sedle téměř umdlévá, já jsem však stále svěží jako to ráno před více než rokem, kdy jsem vyjel drážďanským rychlíkem vstříc svojí nové orientální výpravě. Napadá mě, že moje tělesná konstituce musí být opravdu mimořádná.
@@ -28,8 +26,6 @@ Plaše se usměju a pobídnu koně, abych mu nemusel odpovídat.
 
 — Z dopisu nakladateli J. R. Vilímkovi,  
 8\. 7. 1898
-
-  
 
 Přejeli jsme Džabal aš-Šarkí, což znamená Východní hory, a pod námi se rozprostřela otevřená, pahorkatá krajina, v jejímž středu jako lidské mraveniště leží starobylé město Damašek. Už jsme se chtěli pustit po svahu dolů, podél biblické řeky Barada, která by nás dovedla přímo k městským hradbám, když jsem v dálce zahlédl dvě skupiny jezdců. Druhá pronásledovala první a vzdálenost mezi nimi se zkracovala.
 
@@ -112,8 +108,6 @@ Vstal jsem, sáhl do sedlové brašny a podal mu brožovaný výtisk _Pokladu n
 — Z poznámek Kláry Plöhnové, později Mayové,  
 na zadní straně fotografie „paláce Asada paši“  
 v Damašku, červen 1900
-
-  
 
 Vojáci vjeli do města od severu hlavní branou Bab al-Faraj. Po rozloučení s arménskou rodinou jsme tedy radši objeli půlku města a zamířili k jižní bráně Bab Kisan, aby nás nikdo nespojoval s dopolední střelbou na fezy. Před hradbami jsme nejdřív cítili a potom i viděli hromady hnoje, určené k vytápění bezmála čtyř stovek městských lázní. Napadlo mě, jestli apoštola Pavla, když utíkal z Damašku právě touto branou, vyprovázel na cestu stejný pach kobylinců.
 
@@ -200,8 +194,6 @@ Malý šejk bez ptaní splnil rozkaz. Můj plán byl takový – budeme předst
 — Karel May v dopisu J. Dederlemu,  
 8\. listopadu 1899
 
-  
-
 Vojáci nás vedli ulicemi a lidé se smáli, pokřikovali a těšili se na veřejnou baštonádu. Občas po nás někdo hodil nahnilou datli a netušil, že důstojníkovi, který kráčel první, míří na záda hlaveň mého revolveru a že moji přátelé hlídají zbylé vojáky. Tohle mám nejradši, předstírat, že jsem poražený, ponížený, prostomyslný. Až posměváčkové zjistí, jak se nechali přelstít a že je vysoce převyšuji, budu se smát já. V takových chvílích se vždycky cítím být mstitelem všech zneuznaných a podceňovaných.
 
 S mojí rostoucí proslulostí je však čím dál těžší hrát si na prosťáčka. S úsměvem vzpomínám na začátek současné výpravy – jaký poprask vyvolala má přítomnost na lodi plující z italské Katánie do Káhiry. Když mě v lodním seznamu objevil profesor Lesser z Berlína, byla moje svoboda rázem pryč. Zpráva o mně se rozkřikla po celé palubě a všichni chtěli vstoupit do Afriky s Karou ben Nemsím. Vidím, že do Damašku moje pověst ještě nedoputovala. Pro můj dnešní plán je to dobré, ale stejně se nemůžu ubránit lehkému roztrpčení. Musím se přeptat Fehsenfelda, jestli by nešlo přeložit pár mých románů do arabštiny.
@@ -269,8 +261,6 @@ To už bylo příliš. Poslední věc, kterou jsem slyšel, byl Asmin ďábelsk�
 — Christian Heermann:  
 _Muž, který byl Old Shatterhand_, 1988
 
-  
-
 Zdál se mi zvláštní sen. Seděl jsem u zříceniny starodávného hradu a shlížel do kraje, který trochu připomínal Persii a trochu mé rodné Krušné hory. Můj věrný vraník Assil odpočíval hned vedle a hřívu mu pročesávala dívka, kterou jsem viděl tančit tady v damašském paláci. Řekl jsem tady? Jsem přece _tam_, u ní. Dívka měla husté černé vlasy spletené do těžkých copů, které jí splývaly na plece. Oblečená byla do bílých šatů, závoj odhrnutý dozadu. Lze lidskou bytost přirovnat k básni?
 
 „Sídi, už se probouzíš,“ pronesla najednou Halefovým hlasem.
@@ -314,8 +304,6 @@ Dělo se tu něco moc podivného. Zavřel jsem oči a snažil se utřídit si m
 — Karel May: _Ahriman Mirza_  
 _(V říši stříbrného lva IV_._)_, 1903
 
-  
-
 Musel jsem usnout, protože když jsem znova otevřel oči, do kobky okénkem proudilo ostré ranní světlo. Prohlédl jsem si v něm svoji vyrážku, byla jasně rudá.
 
 „Už je vám líp, Karle?“ řekl Adolf.
@@ -358,8 +346,6 @@ Vzápětí se jako z Božího úradku v okénku zjevila Šakařina tvář, vla
 
 — Karel May v dopise J. Dederlemu,  
 po odjezdu z Damašku, červen 1900
-
-  
 
 Když se paša od žalářníka dozvěděl, že už jsem se dostal z nejhoršího, nechal nás předvést na dvůr. Šel jsem poslední, vratkým krokem, oslabený týdenním horečnatým sněním, a přímé denní světlo mě oslepovalo. Když jsem si rukou zaclonil oči, uviděl jsem Basada s Asmou polehávat na divanu ve stínu palem; Šakara seděla jako psík na polštáři u jejich nohou. Uprostřed dvorany čpěl sud se zelím, vedle něj na železném roštu hořela polena a nad ně Núbijci zavěsili obrovský kotel s vodou. Za nádobou stálo v půlkruhu v několika řadách asi třicet vojáků s připravenými puškami.
 
@@ -485,8 +471,6 @@ Ohledáním mrtvoly jsem zjistil, že Ašára Basada zadusil košťál, který A
 
 — Karel May v dopise Richardovi a Kláře Plöhnovým,  
 Jemen, 16. září 1899
-
-  
 
 Ve dvoraně nastal mír. Po Basadově smrti obě strany zanechaly bojů a ošetřování raněných i drancování paláce probíhalo ve vzájemné shodě. Vojáci se s Armény dávali do řeči, protože se často znali ze sousedství a jako malí společně chodili házet kamení nebo pouštět draky. Já jsem zase v přátelské rozpravě s Núbijci zavzpomínal na dobrodružství z dob, kdy jsem se plavil po Nilu ze Súdánu do Káhiry.
 

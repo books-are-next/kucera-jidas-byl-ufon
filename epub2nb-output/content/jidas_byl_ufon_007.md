@@ -9,8 +9,6 @@ contentType: prose
 
 _— Mýty a legendy amerického kontinentu_
 
-  
-
 Inspektor Tamapu de Silveira věděl, že se těžko může stát detektivem v kriminální povídce. Moderní knižní detektivové bývají rozvedení alkoholici a proutníci, kteří ztratili někoho blízkého v tragické autonehodě, případně něčí smrt zavinili při výkonu služby. Zároveň bývají obdaření nějakou mimořádnou schopností, nebo mají aspoň psího parťáka. Tamapu měl hodnou ženu, na psy alergii a pil jen společensky, aby se neřeklo. Jeho babička byla indiánka, ale to, že on sám nosil indiánské jméno, s tím nesouviselo – jen se narodil v době hledání kořenů, kdy indiánská jména přišla do módy. Tamapu býval cvičitelem capoeiry, ovšem po zranění kolena přestal a od té doby mírně tloustl. K jeho zálibám patřilo sbírání fotbalových dresů – a měl i takové obskurní kousky jako trikoty fotbalistů Arménie nebo České republiky – ale ani to nebylo dostatečně osobité, aby si ho čtenáři zapamatovali.
 
 Detektivky aspoň rád rozečítal, a následně odkládal po prvních kapitolách, poté co rozluštil zápletku a určil vraha. Dočítala je manželka, aby potvrdila, že jeho soud byl správný. Takže když mu ráno zavolali z expozitury, že na ostrově Paqueta zmizela mladá dívka, vzpomněl si Tamapu na švédskou kriminálku o podobném zmizení na ostrově Hedeby – tenkrát Tamapu posoudil všechny možnosti a prohlásil, že dívka Harriet vůbec nebyla zavražděna (jeho názor podpořilo i to, že šlo o jedinou hypotézu, kterou se nikdo z vyšetřovatelů v knize vážněji nezabýval), což jeho žena po přečtení celého svazku potvrdila. Byl vlastně docela pyšný na svůj intelekt a dedukční schopnosti, což z něj přece jenom dělalo do jisté míry zajímavý literární charakter.
@@ -34,8 +32,6 @@ V přístavišti čekali na trajekt paquetští obyvatelé (poznali se podle ve
 Když loď vyplula do zálivu Guanabara, mraky se na chvilku rozestoupily a Tamapu zahlédl Krista nad městem. Dneska poprvé v jeho pažích viděl gesto loučení.
 
 > \* \* \*
-
-  
 
 Anglické počasí svíralo jen Rio. Nad zátokou svítilo slunce, podél lodi vyskakovali z vody delfíni a z hřbetů jim odstřikovaly kapky duhy. Tamapu se už dlouho necítil takhle svobodný. Míjeli oblé ostrůvky, které díky zvyku stavět kostely na vrcholech kopců připomínaly obrysy dívčích ňader. Po necelé hodině plavby se na obzoru konečně vynořila Paqueta, s věží kostela, vyčnívající mezi korunami stromů. Nad věží kroužili ptáci urubové.
 
@@ -109,8 +105,6 @@ Potom vyšli do odpoledního slunce. Před jídelnou narazili na několik urubů
 
 > \* \* \*
 
-  
-
 Byla to tedy klasická záhada zamčeného pokoje; konečně něco jiného než smutné případy, kdy se na kraji favely střílí kvůli drogám. Tamapu procházel alejí baobabů, které se tyčily podél cesty k policejní stanici jako dvacet velkých černoušků, a vzpomněl si na zvyk, o němž slýchal už jako malý. Zastavil se a políbil kmen největšího z nich, přezdívaného „Maria Gorda“, tedy „Tlustá Marie“, aby mu přinesl štěstí. Marcio se na něj přátelsky šklebil – věděl, že zvyky se mají dodržovat.
 
 Stanice sídlila v přízemí unavené koloniální vily obrostlé mangovníky. Marcio prohlásil, že je čas na siestu, a vklouzl do jedné ze dvou hamak napnutých na zahradě mezi stromy. Tamapu chtěl protestovat, že je třeba řešit případ okamžitě, ale do hlavy mu znovu stouplo slunce, posílené teď pivem i vůní mangovníků, a on musel uznat, že v odpoledním horku stopy nevychladnou. Pro klid svědomí si vzal do hamaky aspoň Marciův protokol o Ytuanině zmizení.
@@ -132,8 +126,6 @@ Ještě chvíli mluvili každý o něčem jiném a pak se Tamapuovi vypnul tel
 „To se tu stává,“ vysvětlil mu později Marcio, „je tu na ně hrozně vlhko. Taky nám tu všechno reziví, lampy, lavičky, zámky…“
 
 > \* \* \*
-
-  
 
 Žena odešla do práce, ještě než se František probudil. Převaloval se sám mezi spánkem a bděním, první myšlenky se mu mísily s posledními sny a čím dál víc odbíhaly od kriminální zápletky k milostným tématům – vztahu Ytuany s Lucasem, do nějž se zvláštním způsobem projektoval vztah inspektora s jeho manželkou.
 
@@ -164,8 +156,6 @@ Dopoledne psal, k obědu si ohřál, co zbylo od neděle, a odpoledne psal dá
 Když padl soumrak, vyklonil se František z okna s cigaretou a sklenicí cachaçi a pozoroval uvolněný vánoční řetěz na protější lodžii, který se v houstnoucím šeru vlnil jako medúza. Dole na zastávce kašlali lidé. Na zemi ležel sníh, v němž František tušil ranní otisky koňských kopyt.
 
 > \* \* \*
-
-  
 
 Čelní strana domu v ulici Princezny Adelaide, obílená vápnem, působila dojmem malé útulné vilky, ale když Tamapu prošel brankou a podíval se dál za stromy kryjící její boky, zjistil, že na slušivou hlavní stavbu je zezadu nalepená dlouhá šedivá budova zastřešující bezpočet malých činžovních bytů. Marcio otevřel hlavní dveře a vedl inspektora nekonečnou ponurou chodbou.
 
@@ -281,8 +271,6 @@ Tamapu vstal a nadzdvihl z postele poházené polštáře. Pod jedním z nich
 
 > \* \* \*
 
-  
-
 Inspektor na osiřelé policejní stanici večeřel obložené chleby od manželky, zapíjel je pivem, které našel v lednici, četl Ytuaninu knihu a snažil se krotit svoje čtenářské fantazie. Za oknem zatím hvízdal osamělý komár jako harmonikář v _Tenkrát na Západě_.
 
 Ve správné detektivce jsou od začátku rozmístěny stopy, uvažoval Tamapu. Takže když například v úvodu Marcio říká, že na ostrově se samy vypínají mobily a železné předměty rychleji korodují, může to být zárodek napínavého finále, v němž detektiv bez funkčního telefonu nedokáže přivolat posily, ovšem následně se jemu určená kulka vzpříčí v hlavni vrahova zrezivělého revolveru… Ale může to samozřejmě být i slepá stopa.
@@ -290,8 +278,6 @@ Ve správné detektivce jsou od začátku rozmístěny stopy, uvažoval Tamapu. 
 Než se Tamapu uložil ke spánku, vytočil číslo svojí ženy. Měla vypnutý telefon.
 
 > \* \* \*
-
-  
 
 Zrovna když se Marcio pustil do roztloukání nasekaných lián, přerušil Františkovo psaní klíč v zámku. Domů se vrátila jeho žena.
 
@@ -374,8 +360,6 @@ Odešel do ložnice a za chvíli se vrátil s inzulínovým perem.
 „Tak já ti to píchnu,“ nabídl se a bodl.
 
 > \* \* \*
-
-  
 
 Ráno Tamapua probudil zpěv z ptačího hřbitova přes ulici. Paqueta byla nejspíš jediné místo na světě, kde lidé svým domácím papouškům a dalším opeřencům založili opravdový hřbitov, s kamennými náhrobky a vtesanými epitafy, bílými sochami zemřelých v nadživotní velikosti a květinami a stromy všude kolem. Ve větvích téhle zahrady mrtvých s oblibou usedali živí ptáci a zpívali.
 
@@ -481,8 +465,6 @@ Z chatrče se ozývalo chrápání, proto Tamapu nechal peníze na stole.
 
 > \* \* \*
 
-  
-
 Na ostrově bylo mrtvo, obyvatelé trávili siestu ve svých domech, a na ulici zůstalo jenom sem tam toulavé psisko, uložené v palmovém stínu, a žebra se mu zdvihala v pravidelném, klidném rytmu. Tamapu cítil, že s každým šlápnutím do rozviklaných pedálů se po­otočí i soukolí v jeho hlavě a rozřešení Ytuanina případu se rýsuje stejně neodvratně jako silueta džungle na obzoru.
 
 Vtom zazvonil telefon. Tamapu přijal hovor a uslyšel Paolův hlas: „Máme toho Šamana, inspektore. Tedy jeho IP adresu. Až vám řeknu, ze kterého počítače pocházejí ty e-maily…“
@@ -541,8 +523,6 @@ Marcio zpanikařil. Rozmáchl se mačetou, aby inspektora ještě vteřinu udrž
 
 > \* \* \*
 
-  
-
 Večeře byla snědená, pražská mordparta vyřešila svůj poslední případ a nahradil ji proud reklam. Seděli na pohovce, břicha bezstarostně povolená.
 
 „Chce se mi spát,“ zívla a složila mu hlavu na rameno jako kdysi.
@@ -555,8 +535,6 @@ Políbil ji na orosené čelo, přitiskla se k němu. V tu chvíli byl šťast
 
 > \* \* \*
 
-  
-
 Slunce zmizelo za vrcholkem kopce a hladina laguny potemněla. _Pérola negra_. Tamapu si vzpomněl na pověst z Ytuaniny knihy, o jaguárovi, který po laguně posílal svoje oči, a pátravě prohlédl vodní plochu. Džungle kolem nich ožívala výkřiky opic a ptáků. Marcio dokončil svůj příběh a chvěl se po celém těle. Tamapu to připisoval jeho nedobrovolné koupeli, než si uvědomil, že se chvěje i on sám. Mlčeli.
 
 Konečně Tamapu řekl: „Máte jedinou šanci, jak se z toho dostat. Pak ode mě budete mít pokoj a policii namluvíte, co budete chtít. Pravdu by vám stejně neuvěřili.“
@@ -568,8 +546,6 @@ Marcio k němu polekaně vzhlédl. „Jak to myslíte? Jakou jedinou šanci?“
 Marcio chvíli nechápavě zíral, ale nakonec porozuměl. Beze slova se zvedl a začal rozdělávat oheň, v jehož světle potom roztloukal nasekané liány –
 
 > \* \* \*
-
-  
 
 O dva dny později vyšel v místním deníku článek, který začínal zhruba takhle: _Skokem z okna svého bytu spáchal sebevraždu František Hodkovský, oblíbený autor detektivních knih, držitel čestné medaile našeho města. Policie později v bytě nalezla mrtvé tělo jeho manželky. Zemřela nejspíš ve spánku po těžkém diabetickém záchvatu, cizí zavinění policejní mluvčí vyloučil. Policie pracuje s hypotézou, že právě její smrt byla motivem spisovatelovy sebevraždy. „Je to obrov­ská ztráta,“ uvedl Hodkovského nakladatel s tím, že chystá vydání autorovy poslední, nedokončené prózy V království Urubů a dotisk románu Vražda v Polskim Expressu._
 
