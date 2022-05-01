@@ -8,7 +8,7 @@ Záhady nás zajímají všechny. Aspoň doufám.
 > — Dan Brown v pořadu BBC,  
 > 7\. dubna 2006
 
-### I.
+## I.
 
 „Zítřek, tedy dvacátý první prosinec 2012, je z astrologického hlediska jedno z nejvýznamnějších dat vůbec,“ říkala právě docentka Ipek Sakarya z institutu kosmických věd Istanbulské univerzity a hlas se jí neznatelně třásl vzrušením. „Zítra za rozednění se Slunce po šestadvaceti tisíci letech ocitne v konjunkci průsečnice Mléčné dráhy a roviny ekliptiky.“
 
@@ -72,7 +72,7 @@ Robert překvapením upustil propisku.
 
 Muž k němu beze slova otočil vnitřní stranu límce kabátu. Robert uviděl odznak jednotek SS.
 
-### II.
+## II.
 
 Nemo seděl na nejvyšším ochozu beyazitské věže a hledáčkem pušky sledoval dění pod sebou. Měl rozhled po celém náměstí, ale jeho pozornost se soustředila ke vchodu Istanbulské univerzity. _Robert Langdon musí zemřít_. Nemo věděl, že profesor Langdon jako jediný člověk na světě dokáže rozluštit tajemství, které zničí všechno, čemu Nemo a miliony dalších lidí zasvětili svoje životy. _Jestli má zítra opravdu přijít apokalypsa, bude to Langdon, kdo ji rozpoutá. A já mu v tom musím zabránit._
 
@@ -120,7 +120,7 @@ Johan se rozeběhl zpátky do budovy univerzity. Za chvíli vyběhl ven s adres
 
 > Nemo stál ve stínu hlavní brány a sledoval Johana. Věděl, že ten člověk hledá Roberta Langdona. A že ho k němu dovede.
 
-### III.
+## III.
 
 „Tady Langdon!“ vyštěkl Robert do mobilu.
 
@@ -212,7 +212,7 @@ Robert se zarazil. Ohromeně shlížel z okna na ulici před domem.
 
 V nastalém tichu uslyšeli za dveřmi kroky.
 
-### IV.
+## IV.
 
 „Rychle! Na balkon!“ sykla Ipek.
 
@@ -314,7 +314,7 @@ _Takhle zvítězí Nadčlověk nad lidskou rasou!_ Johan objel kusy svodidel, co
 
 > Nemo se vynořil z vody. Z čela mu crčela krev, naražené kosti ho bolely, ale to nebylo nic proti bolesti z porážky, kterou mu uštědřil ten nesmrtelný _Lazarus_. Krauloval ke břehu, než někdo stačí přivolat ambulanci. Do rozbřesku zbývalo necelých devět hodin. Mohl udělat jediné – skrýt se v chrámu a počkat, až tam Langdon dorazí. Nechtěl ho nechat zajít tak daleko, ale teď už neměl jinou možnost.
 
-### V.
+## V.
 
 „Wikipedie je nejspolehlivější informační zdroj,“ poučil Robert Ipek. „Dan ji taky při psaní používá.“ Hledal informace o sedmi křesťanských obcích v Malé Asii. „Víte, když jsem se dozvěděl, že svitek se našel ve vesnici Sart, něco mě napadlo. Jak jsem už říkal, na místě té vesnice leželo starověké město Sardy, jedno ze sedmi měst prvních křesťanů. Těchto sedm měst oslovuje svatý Jan v úvodu svého _Zjevení_, a když zmiňuje _sedm duchů pod trůnem_, má nepochybně na mysli taky těchto sedm měst.“
 
@@ -350,7 +350,7 @@ Robert znovu zvedl fix k obrazovce počítače. „Teď mě napadá, že spirá
 
 Pak přišel zřízenec kavárny a za ty čmáranice je ihned vyhodil ven.
 
-### VI.
+## VI.
 
 Robert s Ipek zamířili k fiatu.
 
@@ -384,7 +384,7 @@ Johan se ušklíbl. „Myslím, že si nedokážeme porozumět. Myš­lenky, kte
 
 „Přesně tak,“ přikývl Johan. „A árijská rasa s pomocí _Kosmova evangelia_ ovládne vesmír.“
 
-### VII.
+## VII.
 
 Johan se obrátil k Robertovi. „Na co jste přišel, profesore?“
 
@@ -438,7 +438,7 @@ Johan i Ipek hltali každé jeho slovo.
 
 „Totiž, ehm, zdá se, že _Jidáš byl ufon_.“
 
-### VIII.
+## VIII.
 
 Nějakou dobu všichni seděli jako opaření.
 
@@ -466,7 +466,7 @@ Mysli, Roberte!
 
 „_Hagia Sofia!_“ vykřikl. „Tam leží klíč k tajemství!“
 
-### IX.
+## IX.
 
 Chrám Boží moudrosti neboli Hagia Sofia. Robert ji dobře znal z Wikipedie, ale přesto ho její skutečná velkolepost ohromila. Když císař Konstantin uznal křesťanství jako státní náboženství, nechal po celé říši stavět velkolepé kostely. Hagia Sofia byla největším a nejkrásnějším z nich. Původně to byla obdélníková bazilika s dřevěnou střechou, ta ovšem o padesát let později vyhořela během nepokojů vyvolaných příznivci konstantinopolského patriarchy, který vystoupil proti stříbrné soše císařovny Eudoxie vztyčené přímo před vchodem do chrámu. Druhá, obnovená bazilika vyhořela o století později během povstání proti císaři Justiniánovi. Když císař zvítězil nad rebely, nechal vystavět třetí chrám, nejvelkolepější, jaký svět do té doby spatřil. Deset tisíc dělníků pracovalo pět let se stavebními materiály svezenými do Konstantinopole ze všech koutů byzantské říše. Během slavnostního otevření bylo obětováno sto volů, šest tisíc ovcí, šest set jelenů, tisíc prasat, deset tisíc slepic a deset tisíc kohoutů. Za dvacet let chrám poničilo zemětřesení, za dvě stě let ho poničili ikonoklasté, kteří Hagii Sofii oloupili o všechny fresky a sochy. Co nezvládli přírodní živly a obrazoborci, dokončili v dalším tisíciletí křižáci. Rozbili oltář Panny Marie, nahnali do chrámu mezky a nakládali na ně nakradené zlato a relikvie, na kazatelně nechali tančit nahou prostitutku. Když o tři sta let později město dobyl sultán Mehmed II., nalezl chrám Boží moudrosti v žalostném stavu. Turci Hagii Sofii opravili, přistavěli minarety a udělali z ní mešitu. Robert v myšlenkách přeskočil několik století a představil si Atatürka, generála s huňatým obočím, jak se chce vyrovnat dávným císařům a sultánům a zanechat v chrámu otisk svojí velikosti. Zrušil v Hagii Sofii mešitu a zřídil v ní muzeum. Ve zdech chrámu Boží moudrosti je vepsána historie lidstva – a tuto noc měl Robert zjistit, že je to historie mnohem tajemnější, než si do té doby myslel.
 
@@ -480,7 +480,7 @@ Na náměstí Sultána Ahmeda se snášel soumrak, rackové usedali na střechy 
 
 Robert poděkoval a všichni tři se vydali k budově. Pokladní se za nimi dívala a těšila se, až bude doma vyprávět, že mluvila s Tomem Hanksem.
 
-### X.
+## X.
 
 _Nejdůležitější je správná perspektiva_. Touhle zásadou se Robert řídil ve svojí akademické práci a vštěpoval ji i studentům. Vzpomněl si na jeden seminář symbologie v minulém semestru.
 
@@ -516,7 +516,7 @@ Johan s námahou zaostřil zrak a uviděl před sebou Nema s namířeným rev
 
 „_Alles gute_,“ řekl Johan a přijal smrtící ránu.
 
-### XI.
+## XI.
 
 Velmistr si oblékl jednoduchou řízu, jakou všichni Probudilí nosili na slavnostní mše. Konečně se dočkal. Této noci dojde ke spojení protikladů, svatý had pozře svůj ocas, minulost si podá ruku s budoucností, nebe se zemí, jeho vlastní život s životem celého lidstva, v jediné vteřině se odehraje věčnost. Sešel do krypty, aby do půlnoci stihl všechno připravit.
 
@@ -570,7 +570,7 @@ Ozvalo se jemné šplouchnutí vody, sloup se rozevřel a odhalil svoje tajemst
 
 „Rychle! Dovnitř!“ šeptl Robert. „A rozsviťte si baterku.“ Ipek, neschopná slova, vstoupila na první schůdek. Robert ji následoval a zevnitř zavřel vchod, jako by to byly obyčejné posuvné dveře.
 
-### XII.
+## XII.
 
 Stoupali po schůdcích až do chodby, která vedla nad Justiniánovou nádrží, ale pořád pod povrchem země. Robert posvítil baterkou na stěnu chodby – byla tam v kameni vyryta spirála.
 
@@ -590,7 +590,7 @@ Ipek se uchichtla. „No když jsme byli malí, dělali jsme si legraci, že to 
 
 „To hned zjistíme.“
 
-### XIII.
+## XIII.
 
 V labyrintu chodeb sledovali znamení spirály, a to je dovedlo až do rozlehlé krypty, ozářené zvláštním světlem. Zhasli baterky a s úžasem sledovali původ podivné záře. Bylo to neskutečné. Nadskutečné. V kryptě stály nekonečné řady světélkujících skleněných válců a v každém z nich byl člověk. Robert i Ipek stáli s otevřenými ústy a nemohli uvěřit svým očím.
 
@@ -644,7 +644,7 @@ Vtom Ipek zahlédla Mustafu Kemala Atatürka.
 
 Ipek svěsila hlavu. „Otec zemřel při autonehodě krátce po naší cestě.“
 
-### XIV.
+## XIV.
 
 Vtom nad sebou ucítili slabé dunění. Polekaně vzhlédli.
 
@@ -688,7 +688,7 @@ Vtom se ozvaly polekané výkřiky a les rukou ukázal nahoru na ochoz. Stál t
 
 „Ne!“ zvolala Ipek. Nechtěla otce ztratit podruhé a vrhla se k němu. Kulka ji zasáhla mezi lopatky a ona se s výkřikem zvrátila v otcově náruči.
 
-### XV.
+## XV.
 
 Něco takového Nemo nikdy nezažil a cítil, že to je zároveň poslední věc, kterou mu život přinesl. Všichni Probudilí na něj upřeli zrak, nic víc. Slyšel o tom, že kolektivní vědomí dokáže přenášet myšlenku, ale netušil, že může přenášet i smrt. Zatočila se mu hlava a zvedl žaludek. Namířil do davu revolver, ale prsty jako by mu zchromly. Připadal si opilý, kýval se na ochozu sem a tam. Z očí mu vytryskly slzy. „Nejsem Nikdo! Nevidím Boha!“ zavyl, než sletěl dolů a rozrazil si lebku na kamenné podlaze.
 

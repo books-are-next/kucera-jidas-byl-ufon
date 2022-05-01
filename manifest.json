@@ -1,7 +1,7 @@
 {
   "author": "Štěpán Kučera",
   "contenttype": "prose",
-  "identifier": "kucera-jidas-byl-ufon-2fd66b0",
+  "identifier": "kucera-jidas-byl-ufon-b4c6b5c",
   "isbn": "978-80-7227-377-5",
   "languagecode": "cs",
   "modified": "2021-10-06T00:00:00.000Z",
@@ -10,10 +10,10 @@
   "subtitle": "... a jiné příběhy",
   "title": "Jidáš byl ufon",
   "yearpublished": "2016",
-  "revision": "2fd66b0",
+  "revision": "b4c6b5c",
   "generatedAt": {
-    "date": "Tue Apr 26 2022 09:10:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650964254300
+    "date": "Sun May 01 2022 21:38:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651441110793
   },
   "documents": [
     {
@@ -52,7 +52,113 @@
           "level": 1,
           "name": "Jidáš byl ufon",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI.",
+              "id": "vi",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VII.",
+              "id": "vii",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "VIII.",
+              "id": "viii",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "IX.",
+              "id": "ix",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "X.",
+              "id": "x",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "XI.",
+              "id": "xi",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "XII.",
+              "id": "xii",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "XIII.",
+              "id": "xiii",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "XIV.",
+              "id": "xiv",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "XV.",
+              "id": "xv",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -72,7 +178,50 @@
           "level": 1,
           "name": "Kuklův klan",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VI.",
+              "id": "vi",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -112,7 +261,29 @@
           "level": 1,
           "name": "Marie Laveau Superstar",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -152,7 +323,71 @@
           "level": 1,
           "name": "Ďáblův doktor a mrtvý wallaby",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ďábel",
+              "id": "ďábel",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Markétka",
+              "id": "markétka",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Mistr",
+              "id": "mistr",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Doktor",
+              "id": "doktor",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Čarodějka",
+              "id": "čarodějka",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Had",
+              "id": "had",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Wallaby",
+              "id": "wallaby",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Ďábel",
+              "id": "ďábel-1",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Krásná",
+              "id": "krásná",
+              "children": []
+            }
+          ]
         }
       ]
     },
