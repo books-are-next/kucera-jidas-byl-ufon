@@ -14,7 +14,7 @@ _Li appé vini, li Grand Zombi
 Li appé vini, pol fé mouri!  
 Oh, ouai, yé Mamzelle Marie!_
 
-### I.
+## I.
 
 _Spolu s ní umírá mnoho zla, ale neměli bychom dodat, že i trocha poezie?_ psalo se po její smrti v novinách _The Times Democrat_.
 
@@ -134,7 +134,7 @@ A tak všechny tři seděly kolem stolu, mlčky upíjely a každá přemýšle
 
 „Nevím,“ odpověděla Marie Laveau. „Nevím, co bude.“
 
-### II.
+## II.
 
 Byla válka.
 
@@ -336,7 +336,7 @@ Dívka se podívala do očí nejdřív lidské lebce na polici a potom i Marii
 
 > Mezi Yankeei se rychle šířily pověsti o staré černošce, která dokáže ve svojí chatrči za pár drobných sehrát děsivé představení se závanem tajemných afrických kultů, takže navzdory protestům Marie Philome se ještě před koncem války dokázala Marie Laveau vrátit k řemeslu.
 
-### III.
+## III.
 
 Protože Unie obsadila New Orleans včas a bez boje, uniklo město zkáze, kterou koncem války rozsévala unijní armáda během tažení na Jih – takže po kapitulaci konfederačních vojsk se New Orleans snadno vrátil z doutnajících uhlíků k původnímu lesku drahokamu. Na samém konci obřího spáleniště, stranou kupeckého smlouvání vítězů s poraženými, ožívalo Mariino město zemitou hudbou a vznešenými divadly, vůní _gumba_ či račích specialit a klokotáním kolesových parníků na řece Mississippi. V ulicích polehávali bývalí otroci, kteří nevěděli co se svobodou, ale nikdo si jich příliš nevšímal. Do města přicházeli noví Američané a mlsně ochutnávali španělské, francouzské, ale i africké a haitské dědictví.
 

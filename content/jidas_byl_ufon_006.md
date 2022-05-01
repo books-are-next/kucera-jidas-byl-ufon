@@ -5,7 +5,7 @@ contentType: prose
 
 (dobrodružné romaneto)
 
-### I.
+## I.
 
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, četl obtahy příštího vydání literární přílohy, kterou vedl, a vpisoval do článků korekturní značky. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
@@ -197,7 +197,7 @@ Markovi se ještě nechtělo vracet domů, tak si objednal pivo a utopence. Sle
 
 > Večer, zpátky ve svojí garsonce, připustil vodu do pánve, aby se mořská květina na jejím dně zase rozvlnila, ale kalný podvodní svět už mu nepřišel tolik poetický jako včera, tak ho seškrábal drátěnkou.
 
-### II.
+## II.
 
   
 
@@ -333,7 +333,7 @@ Postele v jejich pokoji byly přiražené každá k jiné zdi.
 
 A jak řekla, tak udělali.
 
-### III.
+## III.
 
 Zdeněk seděl u Ducha, před sebou dvojku rulandského, a recenzoval román. Zběžně přečetl první a poslední stránku, pak knihou zalistoval a na náhodně zvoleném místě zaškrtl dvě pasáže, které ve svém článku hodlal citovat. Takhle šlo zpracovat několikasetstránkovou knihu za půl hodiny.
 
@@ -521,7 +521,7 @@ Inženýr Vějíř se usmál. „Ale to víte, že jo. Chodba pod Krannerovou ka
 
 To bylo ono.
 
-### IV.
+## IV.
 
 > _21\. října 1930_
 
@@ -587,7 +587,7 @@ Vladana ho sytila e-maily psanými kuklovským „sensačním“ stylem, na kter
 
 Potom Marek namluvil inženýru Vějířovi, že píše odbornou studii o vztahu K. L. Kukly ke skutečné podzemní Praze, vymámil z něj klíč od vchodu do šachty v Divadelní ulici a nechal si udělat jeho kopii. Jednou v noci, kdy i u Ducha zhaslo světlo a poslední noční ptáci odlétli do nonstopek na Novém Městě, sestoupil pod Krannerovu kašnu a vsunul plechovku s deníkem do jedné z větracích šachet.
 
-### V.
+## V.
 
 Zdeněk seděl na baru, před sebou dvojku rulandského a papír, v ruce tužku.
 
@@ -773,7 +773,7 @@ Klekla si na zem a v prokřehlých dlaních držela svůj dárek, jako by čer
 
 „Ten deník chci,“ řekl obrys hlasem knihovnice Vladany.
 
-### VI.
+## VI.
 
 Zdeněk seděl na baru, před sebou dvojku rulandského, četl obtahy příštího vydání a vpisoval do článků korekturní značky. Na třetí stránce byla otištěná ukázka z _Kuklova klanu_. Marek si sedl na vedlejší stoličku, barmanka před něj postavila kozla a vrátila se k umývání sklenic.
 
