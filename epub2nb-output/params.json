@@ -55,7 +55,7 @@
             "filename": "jidas_byl_ufon_002.md",
             "xhtml": "jidas_byl_ufon_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -370,6 +370,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1651441056261
+    "generatedAt": 1652351659219
   }
 }
