@@ -16,7 +16,7 @@ meta:
   isbn: 978-80-7227-377-5
   yearPublished: '2016'
 readingOrder:
-  - jidas_byl_ufon_002.html
+  - promo.html
   - jidas_byl_ufon_005.html
   - jidas_byl_ufon_006.html
   - jidas_byl_ufon_007.html
