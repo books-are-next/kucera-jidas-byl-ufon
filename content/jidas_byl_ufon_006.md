@@ -199,8 +199,6 @@ Markovi se ještě nechtělo vracet domů, tak si objednal pivo a utopence. Sle
 
 ## II.
 
-  
-
 V pátek 24. října roku 1930, poté co spisovatelova dcera byla odvezena do ústavu choromyslných, Karla Ladislava Kuklu na procházce v místech, kde byl rok předtím natáčen němý film podle jeho románku Loretánské zvonky, ranila mrtvice. Aniž byla zjištěna jeho totožnost, byl dopraven do nemocnice pod Petřínem, odkud se však ještě vrátil domů na Vinohrady do Bruselské ulice číslo 8, tam však ve středu ráno 29. října 1930 zemřel.
 
 Tolik se Marek o Kuklových posledních dnech dočetl v knize o literárních mýtech a záhadách. Předpokládal, že klíč k pátrání po Kuklově deníku leží někde v těch šesti dnech na konci října třicátého roku. Dopis, v němž se Kukla o deníku zmiňuje, podle Máji vznikl 28. října. Takový dopis nemusel nic znamenat, protože ve chvíli, kdy člověka opouštějí tělesné i duševní síly, může blouznit o ledasčem (což ostatně Kukla dělal, i když byl zcela zdráv), na druhou stranu ale Marek věděl, že právě krátce před smrtí se umírajícímu často rozjasní a on si věci kolem sebe uvědomuje ostřeji než po celé měsíce předtím.
@@ -729,8 +727,6 @@ Pochopil, že na prozkoumávání petřínských štol a jeskyň za Prahou nen�
 
 > \* \* \*
 
-  
-
 … Byla půlnoc, čirá tma a krutý, třeskutý mráz…! V pražských ulicích bylo smutno a pusto. Poslední vagóny elektrických drah odjely do remíz, s okny zamrzlými až do běla. Sem tam mihl se člověk s ohrnutým límcem kabátu, lampář, zhasínající světla v ulici, nebo strážník, který přešlapuje a dýchá do zkřehlých rukou!
 
 Praha spala…
@@ -984,6 +980,8 @@ Zdeněk odložil telefon a řekl: „Přemejšlel sem o Kuklovi. Ono to vlastn
 „Proto ti jdu ukázat tohle,“ Marek vytáhl z batohu desky a z nich okopírovaný papír. „Našel sem to v Památníku národního písem­nictví v Arbesově osobnim fondu. Prej to vykopali nějaký nadšenci, když hledali za Malvazinkama poklad ze _Svatýho Xaveria_. Bylo to v plechovce od kafe, ta je mimochodem v Památníku taky.“
 
 Kristýna se naklonila přes bar a Zdeněk natočil papír, aby do něj viděla i ona. Chvíli trvalo, než se zorientovali v drobném písmu, ze kterého jenom iniciály vyčnívaly určitou rozmáchlostí.
+
+  
 
 > _Slovutný mistře a vzácný příteli!_
 
