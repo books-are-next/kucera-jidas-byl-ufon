@@ -3,16 +3,22 @@ title: Marie Laveau Superstar
 contentType: prose
 ---
 
+<section>
+
 (podle Roberta Tallanta a Roberta Altmana)
 
-  
+</section>
+
+<section>
 
 _Eh, yé, yé, Mamzelle Marie  
 Ya, yé, yé, li konin tu, gris-gris  
 Li té kouri lekal, aver vieux kokodril  
 Oh, ouai, yé Mamzelle Marie_
 
-  
+</section>
+
+<section>
 
 _Li appé vini, li Grand Zombi  
 Li appé vini, pol fé mouri!  
@@ -22,7 +28,9 @@ Oh, ouai, yé Mamzelle Marie!_
 
 _Spolu s ní umírá mnoho zla, ale neměli bychom dodat, že i trocha poezie?_ psalo se po její smrti v novinách _The Times Democrat_.
 
-  
+</section>
+
+<section>
 
 > Ale že je konec, pochopila Marie už o dvacet let dřív, když jí zakázali svatojánskou slavnost. Ještě než to radnice stačila veřejně vyhlásit, Marie o zákazu věděla od otroků, sloužících v domech městských úředníků. Její síť černochů prorůstala La Nouvelle Orléans jako vinná réva a byla pravdivější než noviny a rychlejší než telegraf.
 
@@ -36,7 +44,9 @@ Když jí její otrokyně Róza tu zprávu sdělila, Marie se nerozmýšlela dlo
 
 Lidé ji zdravili, a když bylo třeba, sestupovali z chodníku do ulice, aby mohla pohodlně projít.
 
-  
+</section>
+
+<section>
 
 > Radnice nesla jméno architekta Galliera a byla okázalá a bílá, s trojúhelníkovým štítem podepřeným dvěma řadami mohutných sloupů. Gallier prohlašoval, že takhle se stavělo ve starém Řecku, a Marii to nepřekvapovalo – byla přesvědčená, že Američané ne­umějí udělat nic doopravdy, takže pořád musejí něco napodobovat. Navíc Gallier se ve skutečnosti jmenoval Gallagher a přivandroval sem z Irska, což byl další důvod, proč jeho stavby nebrat vážně; Marie o každém věděla všechno, co potřebovala.
 
@@ -74,7 +84,9 @@ Marii se hlavou hnaly temné kletby. Až přijde domů, zapálí černou svíčk
 
 „Ani nevíte, jak hluboce s vámi souhlasím,“ přikývl úředník.
 
-  
+</section>
+
+<section>
 
 > Když Marie cestou domů míjela nedávno vztyčenou sochu generála a prezidenta Andrewa Jacksona, myslela na válku. Znala Jacksona jinak, než vypadal tady, bronzový, hrdě kynoucí kloboukem. Marie si ho pamatovala sice taky prostovlasého, ale ochraptělého, orvaného a od krve, když před půlstoletím pomáhala ošetřovat raněné během jatek, pro něž se vžil vznešený název „bitva o New Orleans“. Američané tenkrát bojovali s Angličany a Marii bylo lhostejné, kdo zvítězí, chtěla jenom z města dostat všudypřítomný zápach spáleného masa a hejna hladových much. Nebylo jí ani dvacet let a podle pověstí, které sama později nechala rozšířit, se ranění vojáci uzdravovali už při pohledu na její krásu.
 
@@ -82,7 +94,9 @@ Za svoje zásluhy byla posléze Marie, jako jedna z mála barevných žen, pozv
 
 Podruhé už válku zažít nechtěla, proto se pod pyšnou sochou generála Jacksona rozhodla, že ustoupí a letošní svatojánskou slavnost odvolá.
 
-  
+</section>
+
+<section>
 
 > Doma ji čekalo překvapení, usazené u stolu s hrnkem kávy. Marie Philome byla nejmladší a zároveň nejsvětlejší z Mariiných dcer, takže nepozorný člověk si ji mohl splést s bílou ženou. Ale orleanští dobře věděli, kam Marie Philome patří, což ji celý život hnětlo.
 
@@ -146,7 +160,9 @@ Na balkonech ve Vieux Carré, které čím dál víc lidí říkalo anglicky _Fr
 
 Orleanští jásali, ale Marie se z Beauregardova vítězství nemohla radovat, protože s jeho rodinou neměla dobré vztahy. Generálova sestra Judith byla vdaná za jistého Alexandra Legendra, do kterého se ovšem zamilovala i Marie Philome. Celé město vědělo, jak ten příběh musí skončit; Judith po čase utekla z manželova domu a usadila se až v New Yorku – povídalo se, že v New Orleansu trpěla strachem z vlastního černého služebnictva a poslední kapka byla, když pod svojí postelí našla podřezanou kočku, neklamný pozůstatek zlého gris-gris. Krátce poté uzavřel Alexandre Legendre svazek s Marií Philome a zplodil s ní několik dětí. Oba popírali, že by jim ke štěstí dopomohla Marie Laveau, a celý život se proti voodoo srdnatě vymezovali. Generál Beauregard ovšem věděl své a zuřil, i když vystoupit otevřeně proti Marii Laveau si nedovolil. Marie usoudila, že teď se může poměr sil mezi nimi snadno převrátit. Musí zabránit aspoň tomu, aby se Beauregard stal vrchním velitelem konfederačních vojsk, což byla funkce, kam po vítězství u pevnosti Fort Sumter nezadržitelně směřoval. Šla zapálit černou svíčku.
 
-  
+</section>
+
+<section>
 
 > Bylo horké letní odpoledne, válka probíhala daleko na severu a Marie s Rózou měly zrovna prádelní den, když k nim na dvorek, do vůně žhavého uhlí a vařeného mýdla, vtančila Marie Philome, aby jim oznámila, že s Alexandrem čekají další dítě.
 
@@ -162,7 +178,9 @@ Orleanští jásali, ale Marie se z Beauregardova vítězství nemohla radovat,
 
 „Peněz bude dost,“ přerušila je Marie. „Matky u mě kupují gris-gris pro svoje syny, co jdou na frontu. A peníze ukládám do banky, takže budeme žít z úroků.“
 
-  
+</section>
+
+<section>
 
 > Krátce nato banky v New Orleansu zavřely a vojska Unie začala postupovat na jih. Když po několika měsících banky zase otevřely, vydávaly nové, konfederační peníze a některé dokonce tiskly svoji vlastní měnu. Ceny rostly a nakonec byly stejně všechny peníze bezcenné. K Marii přicházelo stále míň zákazníků, a ti, kteří chodili, neměli čím platit. Černí otroci se už neobjevovali vůbec.
 
@@ -180,7 +198,9 @@ Marie se rozesmála. „Takže odteď u nás předpovídáš budoucnost ty?“
 
 Róza se plaše usmála a Marie ji chlácholivě poplácala po paži.
 
-  
+</section>
+
+<section>
 
 > Svobodní _gens de couleur_ – včetně básníka Armanda Lanusse – zůstali Konfederaci věrní a vytvořili vlastní dobrovolnickou jednotku Louisiana Native Guard, která ale podle rasových zákonů Konfederace nesměla bojovat a nakonec ji úřady pro jistotu úplně rozpustily. Svatojánská slavnost nesměla proběhnout ani následující rok a jméno svatého Jana se nejčastěji skloňovalo v souvislosti s bojovou ponorkou, kterou vyrobili neworleanští loďaři a pojmenovali ji trochu krkolomně Bayou St. John Confederate Submarine. Víc a víc mladých mužů odcházelo na frontu a nakonec ve městě skoro nebylo možné potkat bílého muže, který by neměl i bílé vlasy. V ulicích pořád ještě hrála dechovka a visely konfederační vlajky, ale obojí už působilo unaveně. Lidé chudli a byli čím dál neklidnější.
 
@@ -212,7 +232,9 @@ Marie Philome opatrně vytáhla Alexandra ze šátku a podala ho Róze. Dítě 
 
 „Počkej, obleču se.“ Marie Laveau nemůže přijít k porážce svého města jenom tak, v zástěře. Vzala si zlaté náramky, zlaté náušnice, které dostala od otce někdy začátkem století, a tignon si uvázala na sedm uzlů. Vyšly ven a vměstnaly se do davu, v němž si královny voodoo nikdo nevšiml, a občas je dokonce něčí rameno či loket vystrčily z chodníku do ulice.
 
-  
+</section>
+
+<section>
 
 > Nestačily ani doběhnout k hrázi, když se dav zastavil ve Francouzské čtvrti a přestal burácet. Lidé mlčeli a jenom zvony v katedrále bily, jako by jim mělo puknout srdce. Kapitulace právě proběhla a opařené město se otevřelo nekonečnému průvodu modrých kabátů.
 
@@ -222,7 +244,9 @@ Viděla, jak si sundal z hlavy klobouk – což by způsobný člověk v tako
 
 „Ten nás nenávidí stejně jako my jeho,“ pochopila Marie.
 
-  
+</section>
+
+<section>
 
 > Nad radnicí se v mořské bríze třepotala unijní vlajka a vojenský guvernér Butler nechal do podstavce pomníku prezidenta Jacksona vytesat nápis _Unie musí být a bude zachována_. Potom začal vydávat jedno nařízení za druhým. Každý obyvatel New Orleansu musel složit přísahu věrnosti. Kdo veřejně provolával slávu Konfederaci, byl odsouzen na tři měsíce do vězení. Se ženami, které se chovaly neuctivě k unijním vojákům, se smělo zacházet jako s prostitutkami. Starý knihkupec, který ve výloze vystavil kostru a prohlašoval, že to je „zkurvený Yankee“, byl odsouzen na dva roky. Mladík, který strhl vlajku Unie ze střechy mincovny, byl oběšen. Butler si vysloužil přezdívky „Zvíře“ pro svoji krutost a „Lžíčař“ pro svůj údajný zvyk krást stříbrné příbory z domů, kde přebýval.
 
@@ -230,7 +254,9 @@ Viděla, jak si sundal z hlavy klobouk – což by způsobný člověk v tako
 
 Taky čekala, že k ní Butler vyšle svoje posly, že ji bude chtít zastrašit nebo s ní vyjednávat, ale nikdo nepřicházel.
 
-  
+</section>
+
+<section>
 
 > Butler přikázal osvobodit všechny otroky. Ti nadšeně opouštěli svoje pány a vstupovali do služeb Unie, čímž zasadili smrtící úder nejenom Konfederaci, ale i Mariinu snu o návratu k moci – síť černých otroků, kterou doufala po skončení války obnovit, se definitivně roztrhala.
 
@@ -260,7 +286,9 @@ Róza na ni konečně pohlédla. „_Vy_ na sebe dávejte pozor. Řekla jsem vš
 
 To už plakaly obě.
 
-  
+</section>
+
+<section>
 
 > Když Róza zmizela, vydala se Marie ven, aby nemusela myslet na svoji samotu. Jenom dlažební kameny, používané kdysi jako zátěž v podpalubí lodí, jí připomínaly město, které znala; ale nohy, které dnes po dlažbě kráčely, byly oteklé a unavené. Zamířila k _Place Congo_, kterému už všichni říkali _Congo_ Square. Tady na náměstí, původně jen plácku udusané hlíny, se odnepaměti – snad už od Napoleonových časů – každou neděli scházeli černí otroci, aby hráli, tančili a vyznávali voodoo. Tady taky mladá Marie dosáhla svého prvního velkého vítězství, když odsud vyhnala starou královnu Marii Saloppé – tenkrát málem došlo na pěsti, ale Saloppé si k vlastnímu štěstí uvědomila, že její vyzývatelka získala na svoji stranu většinu otroků, a s hrstkou věrných prchla z bojiště.
 
@@ -336,7 +364,9 @@ Dívka se podívala do očí nejdřív lidské lebce na polici a potom i Marii
 
 „Já s ďábel pracovat. On pak dělat boží dílo. Pro mě,“ dodala Marie Laveau.
 
-  
+</section>
+
+<section>
 
 > Mezi Yankeei se rychle šířily pověsti o staré černošce, která dokáže ve svojí chatrči za pár drobných sehrát děsivé představení se závanem tajemných afrických kultů, takže navzdory protestům Marie Philome se ještě před koncem války dokázala Marie Laveau vrátit k řemeslu.
 
@@ -346,7 +376,9 @@ Protože Unie obsadila New Orleans včas a bez boje, uniklo město zkáze, kter
 
 Marie se při chůzi po domě musela opírat o stěny nebo o nábytek, ven se už skoro neodvažovala, a navíc jí přišlo, že lidé mluví čím dál tišeji a nesrozumitelněji. Přesto ochotně vycházela vstříc zvědavosti svých zákazníků, a dokonce přemýšlela, že by začala vyrábět hadrové panenky a píchat do nich špendlíkem; o takovém zvyku sice nikdy předtím neslyšela, ale lidé ze Severu jí vysvětlili, že to k voodoo patří. Sama už by ovšem panenky šít nedokázala a Marie Philome rozhodně odmítala mít s její živností cokoli společného.
 
-  
+</section>
+
+<section>
 
 > Jednoho dne zvonek nad brankou ohlásil zákazníka, jací za Marií obvykle nechodili. Na první pohled poznala, že ten hřmotný muž nadmíru pije a má potíže s životosprávou, na druhou stranu jeho podsaditost naznačovala, že vydrží víc než ostatní. Pokynula mu ze zápraží, aby nemusela vážit cestu přes celý dvorek, a muž k ní došel kývavým krokem kovboje. Hned věděla, že si nepřišel pro věštbu ani pro gris-gris.
 
@@ -408,7 +440,9 @@ Ned přemýšlel. Potom se začal ošívat a oči mu sklouzly ke dveřím. „C
 
 „Cože?!“ vykřikla Marie a znovu dostala chuť sáhnout po noži.
 
-  
+</section>
+
+<section>
 
 > Následující den jí Marie Philome tu nehoráznost potvrdila.
 
@@ -458,7 +492,9 @@ Svatojánská slavnost se prý vydařila. I Bayou Saint John na břehu jezera P
 
 Marie ani nechtěla vědět, která žena tentokrát sehrála její roli. Byla přesvědčená, že všechny nitky se tak jako tak scházejí v rukou Neda Buntlinea – zvlášť když se k ní doneslo, že nedlouho předtím v Chicagu uskutečnil s Buffalo Billem svoji první „Wild West Show“.
 
-  
+</section>
+
+<section>
 
 > Po této svatojánské slavnosti – a taky s vědomím blížící se smrti – už ale Marie nebyla tak ostře proti tomu nechat se zvěčnit v tisku. Marie Philome zvažovala, kdo by se měl ujmout úkolu zachytit pro příští generace obraz její matky, a nakonec vybrala mladého spisovatele George Washingtona Cablea, o němž věděla, že se zajímá o kreolské zvyky a píše o nich do novin.
 
@@ -487,3 +523,5 @@ _Spolu s ní umírá mnoho zla, ale neměli bychom dodat, že i trocha poezie?
 Marie Philomène byla jediná přímá příbuzná, která kdy poskytla rozhovor novinám. V _Daily Picayune_ se ostře ohradila proti próze George W. Cablea a proti zájmu všech umělců, novinářů a zvědavců, zneužívajících památku její matky. Zároveň se ale vymezila vůči voodoo a zdůraznila matčinu katolickou víru i laskavou péči o chudé a nemocné. Někteří badatelé se domnívají, že to prohlásila, jen aby ochránila rodinu před nežádoucím zájmem – ve skutečnosti sama provozovala voodoo, a dokonce používala jméno Marie Laveau.
 
 A celé to prý bylo úplně jinak.
+
+</section>

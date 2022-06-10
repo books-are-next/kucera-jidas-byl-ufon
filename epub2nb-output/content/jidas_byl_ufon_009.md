@@ -3,6 +3,8 @@ title: Vězeň damašský
 contentType: prose
 ---
 
+<section>
+
 (poslední výstřel Kary ben Nemsího)
 
 > _Známý spisovatel cestopisů dr. Karel May, který už nějaký čas dlí zde v Káhiře, plánuje novou větší cestu. Zamýšlí jet odsud do Bombaje, odtud přes Perský záliv do Basry, Bagdádu a pak projet napříč Mezopotámií a syrskou pouští, aby dosáhl Damašku. Zážitky a výsledky cesty pak budou nabídnuty nesčetným ctitelům spisovatele v nové, nepochybně nanejvýš zajímavé knize._
@@ -123,7 +125,9 @@ Ukázal jsem na velkou starobylou skříň přikrytou bílozeleným baldachýnem
 
 „Ó, sídi, jak jen mě napadlo podnítit tě opět k věroučným tématům!“ hořekoval můj malý Halef. Utíkal se před mými slovy skrýt na nádvoří a ani se nezastavil u zázračné studny, jejíž voda má podle mohamedánských pověr prodlužovat lidský život.
 
-  
+</section>
+
+<section>
 
 > Po návštěvě mešity jsme zamířili do křesťanské čtvrti. Ne že bych chtěl Halefa dál trápit věroukou – v této části města se ale dalo snáz sehnat pivo, jímž jsem rád splachoval prach cest při svých výpravách v Orientu i v Americe. Měli jsme štěstí, protože jsme záhy objevili kavárnu, kde prodávali pravé plzeňské pivo z Mnichova. Objednal jsem u kavárníka pro sebe láhev dvanáctky a pro Halefa sklenici čaje, když vtom se v rohu místnosti zdvihla povědomá hlava v turbanu, ležící až dosud ochable na stole.
 
@@ -157,7 +161,9 @@ Teď zpozorněl i on.
 
 Popadl mě kolem ramen a Halef se radoval s námi, i když nerozuměl německy ani slovo.
 
-  
+</section>
+
+<section>
 
 > Neměl jsem v hlavě přímo plán, spíš jsem pozvání do Basadovy kuchyně pokládal za dobrý způsob, jak proniknout do paláce a snad se dostat až k samotnému pašovi. Potom už by pro člověka mojí kuráže a bystrosti nemělo být těžké Basada zajmout a vyměnit jeho svobodu za svobodu nebohých Arménů a za dopis sultánovi, odvolávající veškeré pomluvy na adresu mého přítele.
 
@@ -218,7 +224,9 @@ Když jsme vstoupili, hudebník přestal hrát a dívka tančit.
 
 Asma práskla bičíkem a otrokyně odběhla ke stěně, kde usedla k loutnistovi.
 
-  
+</section>
+
+<section>
 
 > „Příteli Osmane!“ zašklebil se Ašár a ani se nenamáhal vstát z divanu. Jen pevněji sevřel svoji drahokamy vykládanou dýmku s jantarovým prstencem, jako kdyby někoho škrtil. „Jsem rád, že jsi přijal pozvání k hostině.“
 
@@ -393,7 +401,9 @@ Tohle zabolelo nejvíc. Vinnetoua jsem miloval jako svého bratra, jako sebe sam
 
 Podíval jsem se do Šakařiných očí, zalitých slzami, a četl jsem v nich: „Ukaž jim všem ještě naposledy, kdo je Kara ben Nemsí.“
 
-  
+</section>
+
+<section>
 
 > Než jsem stačil dát Basadovi pádnou odpověď, uslyšeli jsme za palácovou zdí hlasy. Rychle jich přibývalo, slévaly se v jeden mohutný proud a žádaly propuštění zajatců. Záhy se k hlasům přidalo i bušení na bránu.
 
@@ -411,7 +421,9 @@ Střílel jsem ovšem po rukou, abych vojáky vyřadil z boje, ale nezpůsobil 
 
 Svoje poslední kulky jsem věnoval dvěma strážím u brány, které se chystaly přivítat arménské mladíky tasenými šavlemi. Mé střely strážcům roztříštily zápěstí a uvolnily Arménům cestu. V příštím okamžiku mladíci odsunuli závoru, otevřeli bránu a na nádvoří vtrhly desítky arménských mužů, ozbrojených převážně holemi a noži. V jejich čele se hnal Armén s tlustými kníry, kterého jsem zachránil na úpatí Džabal aš-Sarkí; zřejmě dovedl rodinu do kláštera a potom se vrátil, aby podnítil arménskou domobranu k odporu.
 
-  
+</section>
+
+<section>
 
 > Začal boj muže proti muži. Já ovšem nejdřív musel srovnat účet s Núbijci. Drtil jsem je svojí pěstí s dobře posazenými klouby, a když už ruka umdlévala, použil jsem pažbu revolveru. Musel jsem jim zasadit víc ran, než mívám ve zvyku, ale zanedlouho přede mnou leželi omráčení všichni čtyři.
 
@@ -498,7 +510,9 @@ Osaměli jsme na dvoře se Šakarou a Halefem.
 
 „U Džamikunů budu v bezpečí. Tvůj poslední úkol bude sehnat mi trochu _ssamghu_ a zavézt tento spisek na nejbližší poštovní úřad.“
 
-  
+</section>
+
+<section>
 
 > Vrátili jsme se do kavárny, kde jsme předtím nechali koně a pušky, a já tam nad lahví dvanáctky dopsal zbytek příběhu – jak s Šakarou opouštíme Damašek východní branou Bab Šarkí a vjíždíme do kamenité pouště, já na svém věrném vraníku Assilovi a ona na pašově bělouši. Potom cváláme k perským horám, kde nakonec čtenářům zmizíme z očí.
 
@@ -510,3 +524,5 @@ Identifikuji se ve svých knihách s lidstvem…
 
 — Karel May:  
 _Moje zpověď_, 1908
+
+</section>

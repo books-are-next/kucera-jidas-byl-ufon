@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kucera-jidas-byl-ufon-5d281b7",
-  "revision": "5d281b7",
+  "identifier": "kucera-jidas-byl-ufon-9df0e87",
+  "revision": "9df0e87",
   "readingOrder": [
     "promo.html",
     "jidas_byl_ufon_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870669198
+    "date": "Fri Jun 10 2022 17:52:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883526890
   },
   "documents": [
     {
@@ -416,9 +416,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 144,
-      "chars": 857,
-      "ideas": 19,
+      "words": 108,
+      "chars": 674,
+      "ideas": 10,
       "role": "colophon",
       "order": null,
       "prev": "jidas_byl_ufon_011.html",
@@ -436,9 +436,9 @@
   ],
   "totals": {
     "all": {
-      "words": 52875,
-      "chars": 323868,
-      "ideas": 1977
+      "words": 52839,
+      "chars": 323685,
+      "ideas": 1968
     },
     "chapters": {
       "words": 52725,
