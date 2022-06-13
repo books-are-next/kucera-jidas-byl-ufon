@@ -2,28 +2,16 @@
 title: Tiráž
 ---
 
-<section>  
 **Štěpán Kučera    
 Jidáš byl ufon**  
 … a jiné příběhy  
-</section>  
-<section>  
 Redakce Jaroslava Bednářová  
-</section>  
-<section>  
 > Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-<section>  
 > V MKP 1. elektronické vydání  
-</section>  
-<section>  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
 
 ***
-
-<section>
 
 Znění tohoto textu vychází z díla [Jidáš byl ufon](https://search.mlp.cz/cz/titul/jidas-byl-ufon/4224944/#book-content) tak, jak bylo vydáno nakladatelstvím Druhé město v Brně v roce 2016. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -41,10 +29,4 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 > Verze 1.0 z 8. 10. 2021.
 
-</section>
-
-<section>
-
 ![](../Images/image002.jpg)
-
-</section>
