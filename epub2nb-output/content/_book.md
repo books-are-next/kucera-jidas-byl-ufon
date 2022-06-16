@@ -12,9 +12,10 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-06T00:00:00.000Z'
   subtitle: ... a jiné příběhy
-  publisherShort: MKP
+  publisherShort: mkp
   isbn: 978-80-7227-377-5
   yearPublished: '2016'
+  edition: beletrie
 readingOrder:
   - promo.html
   - jidas_byl_ufon_005.html

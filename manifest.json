@@ -6,10 +6,11 @@
   "subtitle": "... a jiné příběhy",
   "author": "Štěpán Kučera",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kucera-jidas-byl-ufon-1a6b22d",
-  "revision": "1a6b22d",
+  "identifier": "kucera-jidas-byl-ufon-a21b598",
+  "revision": "a21b598",
   "readingOrder": [
     "promo.html",
     "jidas_byl_ufon_005.html",
@@ -22,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:52:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272346369
+    "date": "Thu Jun 16 2022 07:30:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364634898
   },
   "documents": [
     {
@@ -436,9 +437,9 @@
   ],
   "totals": {
     "all": {
-      "words": 52893,
-      "chars": 324012,
-      "ideas": 1978
+      "words": 52894,
+      "chars": 324020,
+      "ideas": 1979
     },
     "chapters": {
       "words": 52725,
