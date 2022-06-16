@@ -9,9 +9,10 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-06T00:00:00.000Z",
       "subtitle": "... a jiné příběhy",
-      "publisherShort": "MKP",
+      "publisherShort": "mkp",
       "isbn": "978-80-7227-377-5",
-      "yearPublished": "2016"
+      "yearPublished": "2016",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola\n\n",
