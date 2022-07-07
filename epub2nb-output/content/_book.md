@@ -25,7 +25,7 @@ readingOrder:
   - jidas_byl_ufon_009.html
   - jidas_byl_ufon_010.html
   - jidas_byl_ufon_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

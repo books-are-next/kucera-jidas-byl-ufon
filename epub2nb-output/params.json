@@ -68,7 +68,7 @@
             "filename": "jidas_byl_ufon_003.md",
             "xhtml": "jidas_byl_ufon_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -80,7 +80,7 @@
             "filename": "jidas_byl_ufon_004.md",
             "xhtml": "jidas_byl_ufon_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -183,7 +183,7 @@
             "filename": "jidas_byl_ufon_012.md",
             "xhtml": "jidas_byl_ufon_012.xhtml",
             "id": 11,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -371,6 +371,6 @@
       "user": "books-are-next",
       "repo": "kucera-jidas-byl-ufon"
     },
-    "generatedAt": 1655978976997
+    "generatedAt": 1657182124909
   }
 }
