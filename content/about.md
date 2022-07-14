@@ -6,10 +6,10 @@ title: Tiráž
 Jidáš byl ufon**  
 … a jiné příběhy  
 Redakce Jaroslava Bednářová  
-Vydala Městská knihovna v Praze  
+> Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-7227-377-5 (webová kniha)  
-V MKP 2. elektronické vydání z 7. 7. 2022.
+V MKP 2. elektronické vydání z 14. 7. 2022.
 
 ***
 
