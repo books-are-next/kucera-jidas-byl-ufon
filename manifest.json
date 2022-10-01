@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kucera-jidas-byl-ufon-516cb73",
-  "revision": "516cb73",
+  "identifier": "kucera-jidas-byl-ufon-85f787a",
+  "revision": "85f787a",
   "readingOrder": [
     "promo.html",
     "jidas_byl_ufon_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:27:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486855467
+    "date": "Sat Oct 01 2022 15:58:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639888650
   },
   "documents": [
     {
