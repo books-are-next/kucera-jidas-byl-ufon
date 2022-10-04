@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kucera-jidas-byl-ufon-85f787a",
-  "revision": "85f787a",
+  "identifier": "kucera-jidas-byl-ufon-a04553b",
+  "revision": "a04553b",
   "readingOrder": [
     "promo.html",
     "jidas_byl_ufon_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:58:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639888650
+    "date": "Tue Oct 04 2022 16:46:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901980809
   },
   "documents": [
     {
@@ -417,9 +417,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 162,
+      "words": 159,
       "chars": 1001,
-      "ideas": 20,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "jidas_byl_ufon_011.html",
@@ -437,9 +437,9 @@
   ],
   "totals": {
     "all": {
-      "words": 52894,
+      "words": 52891,
       "chars": 324020,
-      "ideas": 1979
+      "ideas": 1976
     },
     "chapters": {
       "words": 52725,
